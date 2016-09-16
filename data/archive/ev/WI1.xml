@@ -1,0 +1,1875 @@
+<?xml version="1.0" encoding="utf-8"?><polls>
+  <poll>
+    <id>25347</id>
+    <pollster>Washington Post/SurveyMonkey</pollster>
+    <start_date>2016-08-09</start_date>
+    <end_date>2016-09-01</end_date>
+    <method>Internet</method>
+    <source>http://apps.washingtonpost.com/g/page/politics/washington-post-surveymonkey-50-state-poll/2086/</source>
+    <last_updated>2016-09-06T11:53:40Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>SurveyMonkey </name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Washington Post</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-WI-Pres-GE TrumpvClinton</code>
+        <name>2016 Wisconsin President: Trump vs. Clinton</name>
+        <chart>2016-wisconsin-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>2687</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Hillary Clinton, the Democrat</choice>
+                <value>46.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Donald Trump, the Republican</choice>
+                <value>44.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No Answer</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-WI-Pres-GE TrumpvClinton</code>
+        <name>2016 Wisconsin President: Trump vs. Clinton</name>
+        <chart>2016-wisconsin-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>2687</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Hillary Clinton, the Democrat</choice>
+                <value>39.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Donald Trump, the Republican</choice>
+                <value>37.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Gary Johnson, the Libertarian</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Jill Stein, the Green Party</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>No answer</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -WI-Obama-Barack-Job-Pres</code>
+        <name>Wisconsin: Obama Job Approval</name>
+        <chart>wisconsin-obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>2687</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>49.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>51.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No opinion</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>25312</id>
+    <pollster>PPP (D-NELP) </pollster>
+    <start_date>2016-08-26</start_date>
+    <end_date>2016-08-27</end_date>
+    <method>IVR/Online</method>
+    <source>http://nelpaction.org/wp-content/uploads/2016/08/WIResults1.pdf</source>
+    <last_updated>2016-09-01T15:06:31Z</last_updated>
+    <partisan>Sponsor</partisan>
+    <affiliation>Dem</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Public Policy Polling (D)</name>
+        <party>Dem</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>National Employment Law Project Action Fund (D)</name>
+        <party>Dem</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-WI-Pres-GE TrumpvClinton</code>
+        <name>2016 Wisconsin President: Trump vs. Clinton</name>
+        <chart>2016-wisconsin-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1054</observations>
+            <margin_of_error>3.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Hillary Clinton</choice>
+                <value>48.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Donald Trump</choice>
+                <value>41.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Not sure</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-WI-Sen-GE-JvF</code>
+        <name>2016 Wisconsin Senate: Johnson vs. Feingold</name>
+        <chart>2016-wisconsin-senate-johnson-vs-feingold</chart>
+        <topic>2016-senate</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1054</observations>
+            <margin_of_error>3.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Russ Feingold</choice>
+                <value>49.0</value>
+                <first_name>Russ</first_name>
+                <last_name>Feingold</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Ron Johnson</choice>
+                <value>42.0</value>
+                <first_name>Ron</first_name>
+                <last_name>Johnson</last_name>
+                <party>Rep</party>
+                <incumbent>true</incumbent>
+              </response>
+              <response>
+                <choice>Not sure</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>25304</id>
+    <pollster>Marquette Law School</pollster>
+    <start_date>2016-08-25</start_date>
+    <end_date>2016-08-28</end_date>
+    <method>Live Phone</method>
+    <source>https://law.marquette.edu/poll/2016/08/31/new-marquette-law-school-poll-finds-clinton-edge-over-trump-narrowing-to-pre-convention-levels-among-wisconsin-voters/</source>
+    <last_updated>2016-08-31T18:23:56Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Marquette</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-WI-Pres-GE TrumpvClinton</code>
+        <name>2016 Wisconsin President: Trump vs. Clinton</name>
+        <chart>2016-wisconsin-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>650</observations>
+            <margin_of_error>5.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Hillary Clinton</choice>
+                <value>45.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Donald Trump</choice>
+                <value>42.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Gary Johnson (vol)</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Jill Stein (vol)</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Neither (vol)</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't vote (vol)</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't Know</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-WI-Pres-GE TrumpvClinton</code>
+        <name>2016 Wisconsin President: Trump vs. Clinton</name>
+        <chart>2016-wisconsin-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>650</observations>
+            <margin_of_error>5.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Hillary Clinton</choice>
+                <value>41.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Donald Trump</choice>
+                <value>38.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Gary Johnson</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Jill Stein</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>None of These</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't Know</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -WI-Obama-Barack-Job-Pres</code>
+        <name>Wisconsin: Obama Job Approval</name>
+        <chart>wisconsin-obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>803</observations>
+            <margin_of_error>4.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>49.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>45.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Don't Know</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-WI-Sen-GE-JvF</code>
+        <name>2016 Wisconsin Senate: Johnson vs. Feingold</name>
+        <chart>2016-wisconsin-senate-johnson-vs-feingold</chart>
+        <topic>2016-senate</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>650</observations>
+            <margin_of_error>5.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Russ Feingold</choice>
+                <value>48.0</value>
+                <first_name>Russ</first_name>
+                <last_name>Feingold</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Ron Johnson</choice>
+                <value>45.0</value>
+                <first_name>Ron</first_name>
+                <last_name>Johnson</last_name>
+                <party>Rep</party>
+                <incumbent>true</incumbent>
+              </response>
+              <response>
+                <choice>Neither (vol)</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't Know</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>25303</id>
+    <pollster>Monmouth University</pollster>
+    <start_date>2016-08-27</start_date>
+    <end_date>2016-08-30</end_date>
+    <method>Live Phone</method>
+    <source>http://www.monmouth.edu/polling-institute/reports/MonmouthPoll_WI_083116/</source>
+    <last_updated>2016-08-31T17:06:53Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Monmouth University</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-WI-Pres-GE TrumpvClinton</code>
+        <name>2016 Wisconsin President: Trump vs. Clinton</name>
+        <chart>2016-wisconsin-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>404</observations>
+            <margin_of_error>4.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Hillary Clinton</choice>
+                <value>43.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Donald Trump</choice>
+                <value>38.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Gary Johnson</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Jill Stein</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>(VOL) Other candidate</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>(VOL) Undecided</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-WI-Sen-GE-JvF</code>
+        <name>2016 Wisconsin Senate: Johnson vs. Feingold</name>
+        <chart>2016-wisconsin-senate-johnson-vs-feingold</chart>
+        <topic>2016-senate</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>404</observations>
+            <margin_of_error>4.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Russ Feingold</choice>
+                <value>54.0</value>
+                <first_name>Russ</first_name>
+                <last_name>Feingold</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Ron Johnson</choice>
+                <value>41.0</value>
+                <first_name>Ron</first_name>
+                <last_name>Johnson</last_name>
+                <party>Rep</party>
+                <incumbent>true</incumbent>
+              </response>
+              <response>
+                <choice>Phil Anderson</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>(VOL) Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>25118</id>
+    <pollster>Marquette Law School</pollster>
+    <start_date>2016-08-04</start_date>
+    <end_date>2016-08-07</end_date>
+    <method>Live Phone</method>
+    <source>https://law.marquette.edu/poll/</source>
+    <last_updated>2016-08-10T18:41:26Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Marquette</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-WI-Pres-GE TrumpvClinton</code>
+        <name>2016 Wisconsin President: Trump vs. Clinton</name>
+        <chart>2016-wisconsin-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>683</observations>
+            <margin_of_error>5.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Hillary Clinton</choice>
+                <value>52.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Donald Trump</choice>
+                <value>37.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Gary Johnson (vol)</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Jill Stein (vol)</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Neither (vol)</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't vote (vol)</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't Know</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-WI-Pres-GE TrumpvClinton</code>
+        <name>2016 Wisconsin President: Trump vs. Clinton</name>
+        <chart>2016-wisconsin-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>683</observations>
+            <margin_of_error>5.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Hillary Clinton</choice>
+                <value>47.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Donald Trump</choice>
+                <value>34.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Gary Johnson</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Jill Stein</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>None of These</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't Know</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -WI-Obama-Barack-Job-Pres</code>
+        <name>Wisconsin: Obama Job Approval</name>
+        <chart>wisconsin-obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>805</observations>
+            <margin_of_error>4.6</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>53.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>41.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Don't Know</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-WI-Sen-GE-JvF</code>
+        <name>2016 Wisconsin Senate: Johnson vs. Feingold</name>
+        <chart>2016-wisconsin-senate-johnson-vs-feingold</chart>
+        <topic>2016-senate</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>683</observations>
+            <margin_of_error>5.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Russ Feingold</choice>
+                <value>53.0</value>
+                <first_name>Russ</first_name>
+                <last_name>Feingold</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Ron Johnson</choice>
+                <value>42.0</value>
+                <first_name>Ron</first_name>
+                <last_name>Johnson</last_name>
+                <party>Rep</party>
+                <incumbent>true</incumbent>
+              </response>
+              <response>
+                <choice>Neither (vol)</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't vote (vol)</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't Know</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24879</id>
+    <pollster>Marquette Law School</pollster>
+    <start_date>2016-07-07</start_date>
+    <end_date>2016-07-10</end_date>
+    <method>Live Phone</method>
+    <source>https://law.marquette.edu/poll/2016/07/13/new-marquette-law-school-poll-finds-clinton-feingold-leading-parties-remain-divided/</source>
+    <last_updated>2016-07-13T17:22:21Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Marquette</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-WI-Pres-GE TrumpvClinton</code>
+        <name>2016 Wisconsin President: Trump vs. Clinton</name>
+        <chart>2016-wisconsin-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>665</observations>
+            <margin_of_error>4.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>45.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>41.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Johnson (volunteered)</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Neither</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't vote</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-WI-Pres-GE TrumpvClinton</code>
+        <name>2016 Wisconsin President: Trump vs. Clinton</name>
+        <chart>2016-wisconsin-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>665</observations>
+            <margin_of_error>4.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Hillary Clinton</choice>
+                <value>43.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Donald Trump</choice>
+                <value>37.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Gary Johnson, Libertarian party</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Jill Stein, Green party</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>None of these</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't vote</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't know</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-WI-Sen-GE-JvF</code>
+        <name>2016 Wisconsin Senate: Johnson vs. Feingold</name>
+        <chart>2016-wisconsin-senate-johnson-vs-feingold</chart>
+        <topic>2016-senate</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>665</observations>
+            <margin_of_error>4.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Feingold</choice>
+                <value>49.0</value>
+                <first_name>Russ</first_name>
+                <last_name>Feingold</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Johnson</choice>
+                <value>44.0</value>
+                <first_name>Ron</first_name>
+                <last_name>Johnson</last_name>
+                <party>Rep</party>
+                <incumbent>true</incumbent>
+              </response>
+              <response>
+                <choice>Neither</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't Know</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -WI-Obama-Barack-Job-Pres</code>
+        <name>Wisconsin: Obama Job Approval</name>
+        <chart>wisconsin-obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>801</observations>
+            <margin_of_error>4.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>51.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>45.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24849</id>
+    <pollster>GQR (D-Democracy Corps/Women's Voices Women Vote)</pollster>
+    <start_date>2016-06-11</start_date>
+    <end_date>2016-06-20</end_date>
+    <method>Live Phone</method>
+    <source>http://big.assets.huffingtonpost.com/Dcorps_WV_BG_2016.pdf</source>
+    <last_updated>2016-07-09T02:26:12Z</last_updated>
+    <partisan>Sponsor</partisan>
+    <affiliation>Dem</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Greenberg Quinlan Rosner Research (D)</name>
+        <party>Dem</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Democracy Corps</name>
+        <party>Dem</party>
+      </sponsor>
+      <sponsor>
+        <name>Women’s Voices. Women Vote</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-WI-Pres-GE TrumpvClinton</code>
+        <name>2016 Wisconsin President: Trump vs. Clinton</name>
+        <chart>2016-wisconsin-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>300</observations>
+            <margin_of_error>5.66</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>47.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>36.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Don't Know/Refused/Not Voting</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-WI-Pres-GE TrumpvClinton</code>
+        <name>2016 Wisconsin President: Trump vs. Clinton</name>
+        <chart>2016-wisconsin-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>300</observations>
+            <margin_of_error>5.66</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>44.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>32.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Johnson</choice>
+                <value>16.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't Know/Refused/Not Voting</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-WI-Sen-GE-JvF</code>
+        <name>2016 Wisconsin Senate: Johnson vs. Feingold</name>
+        <chart>2016-wisconsin-senate-johnson-vs-feingold</chart>
+        <topic>2016-senate</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>300</observations>
+            <margin_of_error>5.66</margin_of_error>
+            <responses>
+              <response>
+                <choice>Don't Know/Refused/Not Voting</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Feingold</choice>
+                <value>46.0</value>
+                <first_name>Russ</first_name>
+                <last_name>Feingold</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Johnson</choice>
+                <value>45.0</value>
+                <first_name>Ron</first_name>
+                <last_name>Johnson</last_name>
+                <party>Rep</party>
+                <incumbent>true</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24790</id>
+    <pollster>PPP (D-Americans United for Change/Constitutional Responsibility Project) </pollster>
+    <start_date>2016-06-22</start_date>
+    <end_date>2016-06-23</end_date>
+    <method>IVR/Online</method>
+    <source>http://www.americansunitedforchange.org/page/-/SupremeCourtMemo62816.pdf</source>
+    <last_updated>2016-06-28T03:31:44Z</last_updated>
+    <partisan>Sponsor</partisan>
+    <affiliation>Dem</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Public Policy Polling (D)</name>
+        <party>Dem</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Americans United for Change</name>
+        <party>Dem</party>
+      </sponsor>
+      <sponsor>
+        <name>Constitutional Responsibility Project</name>
+        <party>Dem</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-WI-Pres-GE TrumpvClinton</code>
+        <name>2016 Wisconsin President: Trump vs. Clinton</name>
+        <chart>2016-wisconsin-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>843</observations>
+            <margin_of_error>3.4</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>47.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>39.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-WI-Sen-GE-JvF</code>
+        <name>2016 Wisconsin Senate: Johnson vs. Feingold</name>
+        <chart>2016-wisconsin-senate-johnson-vs-feingold</chart>
+        <topic>2016-senate</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>843</observations>
+            <margin_of_error>3.4</margin_of_error>
+            <responses>
+              <response>
+                <choice>Feingold</choice>
+                <value>50.0</value>
+                <first_name>Russ</first_name>
+                <last_name>Feingold</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Johnson</choice>
+                <value>37.0</value>
+                <first_name>Ron</first_name>
+                <last_name>Johnson</last_name>
+                <party>Rep</party>
+                <incumbent>true</incumbent>
+              </response>
+              <response>
+                <choice>Not sure</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24768</id>
+    <pollster>CBS/YouGov</pollster>
+    <start_date>2016-06-21</start_date>
+    <end_date>2016-06-24</end_date>
+    <method>Internet</method>
+    <source>https://www.scribd.com/doc/316764927/CBS-News-2016-Battleground-Tracker-Wisconsin-June-2016</source>
+    <last_updated>2016-06-26T20:54:29Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>YouGov</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>CBS News</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-WI-Pres-GE TrumpvClinton</code>
+        <name>2016 Wisconsin President: Trump vs. Clinton</name>
+        <chart>2016-wisconsin-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>993</observations>
+            <margin_of_error>4.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>41.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Someone else</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>36.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Not Sure</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Not Voting</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24685</id>
+    <pollster>Marquette Law School</pollster>
+    <start_date>2016-06-09</start_date>
+    <end_date>2016-06-12</end_date>
+    <method>Live Phone</method>
+    <source>https://law.marquette.edu/poll/2016/06/15/new-marquette-law-school-poll-finds-clinton-feingold-leading-majorities-have-negative-views-of-presidential-candidates/</source>
+    <last_updated>2016-06-15T17:18:30Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Marquette</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-WI-Pres-GE TrumpvClinton</code>
+        <name>2016 Wisconsin President: Trump vs. Clinton</name>
+        <chart>2016-wisconsin-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>666</observations>
+            <margin_of_error>4.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>46.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>37.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Neither</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Johnson</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-WI-Pres-GE TrumpvSanders</code>
+        <name>2016 Wisconsin Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>666</observations>
+            <margin_of_error>4.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>57.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>33.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Neither</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Johnson</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-WI-Sen-GE-JvF</code>
+        <name>2016 Wisconsin Senate: Johnson vs. Feingold</name>
+        <chart>2016-wisconsin-senate-johnson-vs-feingold</chart>
+        <topic>2016-senate</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>666</observations>
+            <margin_of_error>4.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Feingold</choice>
+                <value>51.0</value>
+                <first_name>Russ</first_name>
+                <last_name>Feingold</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Johnson</choice>
+                <value>42.0</value>
+                <first_name>Ron</first_name>
+                <last_name>Johnson</last_name>
+                <party>Rep</party>
+                <incumbent>true</incumbent>
+              </response>
+              <response>
+                <choice>Neither</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Anderson</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -WI-Obama-Barack-Job-Pres</code>
+        <name>Wisconsin: Obama Job Approval</name>
+        <chart>wisconsin-obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>WI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>800</observations>
+            <margin_of_error>4.4</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>55.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>40.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+</polls>

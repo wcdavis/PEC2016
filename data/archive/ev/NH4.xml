@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?><polls>
+  <poll>
+    <id>22500</id>
+    <pollster>UNH/WMUR</pollster>
+    <start_date>2015-07-22</start_date>
+    <end_date>2015-07-30</end_date>
+    <method>Live Phone</method>
+    <source>https://cola.unh.edu/sites/cola.unh.edu/files/research_publications/gsp2015_summer_presgen080515.pdf</source>
+    <last_updated>2015-08-06T19:38:52Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>University of New Hampshire</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>WMUR</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-NH-Pres-GE BushvClinton</code>
+        <name>2016 New Hampshire Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>652</observations>
+            <margin_of_error>3.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Bush</choice>
+                <value>46.0</value>
+                <first_name>Jeb</first_name>
+                <last_name>Bush</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>45.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NH-Pres-GE PaulvClinton</code>
+        <name>2016 New Hampshire Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>652</observations>
+            <margin_of_error>3.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Paul</choice>
+                <value>45.0</value>
+                <first_name>Rand</first_name>
+                <last_name>Paul</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>43.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NH-Pres-GE RubiovClinton</code>
+        <name>2016 New Hampshire Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>652</observations>
+            <margin_of_error>3.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>44.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Rubio</choice>
+                <value>43.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NH-Pres-GE TrumpvClinton</code>
+        <name>2016 New Hampshire President: Trump vs. Clinton</name>
+        <chart>2016-new-hampshire-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>NH</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>652</observations>
+            <margin_of_error>3.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>50.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>40.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NH-Pres-GE WalkervClinton</code>
+        <name>2016 New Hampshire Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>652</observations>
+            <margin_of_error>3.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Walker</choice>
+                <value>45.0</value>
+                <first_name>Scott</first_name>
+                <last_name>Walker</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>43.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+</polls>

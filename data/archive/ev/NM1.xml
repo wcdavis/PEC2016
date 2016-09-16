@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?><polls>
+  <poll>
+    <id>25381</id>
+    <pollster>Washington Post/SurveyMonkey</pollster>
+    <start_date>2016-08-09</start_date>
+    <end_date>2016-09-01</end_date>
+    <method>Internet</method>
+    <source>http://apps.washingtonpost.com/g/page/politics/washington-post-surveymonkey-50-state-poll/2086/</source>
+    <last_updated>2016-09-06T14:08:10Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>SurveyMonkey </name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Washington Post</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-NM-Pres-GE TrumpvClinton</code>
+        <name>2016 New Mexico President: Trump vs. Clinton</name>
+        <chart>2016-new-mexico-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>NM</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1788</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Hillary Clinton, the Democrat</choice>
+                <value>51.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Donald Trump, the Republican</choice>
+                <value>37.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No Answer</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NM-Pres-GE TrumpvClinton</code>
+        <name>2016 New Mexico President: Trump vs. Clinton</name>
+        <chart>2016-new-mexico-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>NM</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1788</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Hillary Clinton, the Democrat</choice>
+                <value>37.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Donald Trump, the Republican</choice>
+                <value>29.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Gary Johnson, the Libertarian</choice>
+                <value>25.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Jill Stein, the Green Party</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>No answer</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -NM-Obama-Barack-Job-Pres</code>
+        <name>New Mexico: Obama Job Approval</name>
+        <chart>new-mexico-obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>NM</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1788</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>55.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>44.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No opinion</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>25266</id>
+    <pollster>PPP (D)/NM Political Report</pollster>
+    <start_date>2016-08-19</start_date>
+    <end_date>2016-08-21</end_date>
+    <method>IVR/Online</method>
+    <source>http://nmpoliticalreport.com/89809/poll-clinton-leads-trump-in-nm-johnson-strong/</source>
+    <last_updated>2016-08-25T17:52:43Z</last_updated>
+    <partisan>Pollster</partisan>
+    <affiliation>Dem</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Public Policy Polling (D)</name>
+        <party>Dem</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>NM Political Report</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-NM-Pres-GE TrumpvClinton</code>
+        <name>2016 New Mexico President: Trump vs. Clinton</name>
+        <chart>2016-new-mexico-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>NM</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1103</observations>
+            <margin_of_error>3.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Hillary Clinton</choice>
+                <value>40.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Donald Trump</choice>
+                <value>31.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Gary Johnson</choice>
+                <value>16.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Jill Stein</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24939</id>
+    <pollster>PPP (D)/NM Political Report</pollster>
+    <start_date>2016-05-13</start_date>
+    <end_date>2016-05-15</end_date>
+    <method>Automated Phone</method>
+    <source>http://big.assets.huffingtonpost.com/NewMexicoResults.pdf</source>
+    <last_updated>2016-07-20T17:09:48Z</last_updated>
+    <partisan>Pollster</partisan>
+    <affiliation>Dem</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Public Policy Polling (D)</name>
+        <party>Dem</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>NM Political Report</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-NM-Pres-GE TrumpvClinton</code>
+        <name>2016 New Mexico President: Trump vs. Clinton</name>
+        <chart>2016-new-mexico-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>NM</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>802</observations>
+            <margin_of_error>3.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Hillary Clinton</choice>
+                <value>41.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Donald Trump</choice>
+                <value>33.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Gary Johnson</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Not sure</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+</polls>

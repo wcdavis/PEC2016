@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="utf-8"?><polls>
+  <poll>
+    <id>25480</id>
+    <pollster>SurveyUSA/KSN News</pollster>
+    <start_date>2016-09-06</start_date>
+    <end_date>2016-09-11</end_date>
+    <method>IVR/Online</method>
+    <source>http://www.surveyusa.com/client/PollReport.aspx?g=75f6eaff-73bc-4e49-a83f-588adb59bed7</source>
+    <last_updated>2016-09-14T13:17:51Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>SurveyUSA</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-KS-Pres-GE TrumpvClinton</code>
+        <name>2016 Kansas President: Trump vs. Clinton</name>
+        <chart>2016-kansas-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>KS</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>595</observations>
+            <margin_of_error>4.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Donald Trump (R)</choice>
+                <value>48.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Hillary Clinton (D)</choice>
+                <value>36.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Gary Johnson (L)</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Jill Stein</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KS-Sen-GE-MvW</code>
+        <name>2016 Kansas Senate: Moran vs. Wiesner</name>
+        <chart>2016-kansas-senate-morgan-vs-wiesner</chart>
+        <topic>2016-senate</topic>
+        <state>KS</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>565</observations>
+            <margin_of_error>4.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Moran (R)</choice>
+                <value>50.0</value>
+                <first_name>Jerry</first_name>
+                <last_name>Moran</last_name>
+                <party>Rep</party>
+                <incumbent>true</incumbent>
+              </response>
+              <response>
+                <choice>Wiesner (D)</choice>
+                <value>34.0</value>
+                <first_name>Patrick</first_name>
+                <last_name>Wiesner</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Garrard (L)</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>25367</id>
+    <pollster>Washington Post/SurveyMonkey</pollster>
+    <start_date>2016-08-09</start_date>
+    <end_date>2016-09-01</end_date>
+    <method>Internet</method>
+    <source>http://apps.washingtonpost.com/g/page/politics/washington-post-surveymonkey-50-state-poll/2086/</source>
+    <last_updated>2016-09-06T13:11:01Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>SurveyMonkey </name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Washington Post</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-KS-Pres-GE TrumpvClinton</code>
+        <name>2016 Kansas President: Trump vs. Clinton</name>
+        <chart>2016-kansas-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>KS</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>741</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Donald Trump, the Republican</choice>
+                <value>49.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Hillary Clinton, the Democrat</choice>
+                <value>37.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No Answer</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KS-Pres-GE TrumpvClinton</code>
+        <name>2016 Kansas President: Trump vs. Clinton</name>
+        <chart>2016-kansas-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>KS</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>741</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Donald Trump, the Republican</choice>
+                <value>43.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Hillary Clinton, the Democrat</choice>
+                <value>30.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Gary Johnson, the Libertarian</choice>
+                <value>17.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Jill Stein, the Green Party</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No answer</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -KS-Obama-Barack-Job-Pres</code>
+        <name>Kansas: Obama Job Approval</name>
+        <chart>kansas-obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>KS</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>741</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>42.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>58.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No opinion</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>25109</id>
+    <pollster>SurveyUSA/KSN News</pollster>
+    <start_date>2016-08-03</start_date>
+    <end_date>2016-08-07</end_date>
+    <method>IVR/Live Phone</method>
+    <source>http://www.surveyusa.com/client/PollReport.aspx?g=048dcf9b-7e4e-4ca3-8da6-f0f3b7662e73&amp;utm_source=twitterfeed&amp;utm_medium=twitter</source>
+    <last_updated>2016-08-10T13:13:55Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>SurveyUSA</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-KS-Pres-GE TrumpvClinton</code>
+        <name>2016 Kansas President: Trump vs. Clinton</name>
+        <chart>2016-kansas-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>KS</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>566</observations>
+            <margin_of_error>4.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump (R)</choice>
+                <value>44.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton (D)</choice>
+                <value>39.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Johnson (L)</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KS-Sen-GE-MvW</code>
+        <name>2016 Kansas Senate: Moran vs. Wiesner</name>
+        <chart>2016-kansas-senate-morgan-vs-wiesner</chart>
+        <topic>2016-senate</topic>
+        <state>KS</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>541</observations>
+            <margin_of_error>4.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Moran (R)</choice>
+                <value>52.0</value>
+                <first_name>Jerry</first_name>
+                <last_name>Moran</last_name>
+                <party>Rep</party>
+                <incumbent>true</incumbent>
+              </response>
+              <response>
+                <choice>Wiesner (D)</choice>
+                <value>32.0</value>
+                <first_name>Patrick</first_name>
+                <last_name>Wiesner</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Garrard (L)</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24976</id>
+    <pollster>Fort Hays State University/Kansas Newspapers</pollster>
+    <start_date>2016-07-11</start_date>
+    <end_date>2016-07-21</end_date>
+    <method>Live Phone</method>
+    <source>http://www.fhsu.edu/uploadedFiles/executive/docking/Kansas%20Newspaper%20Poll%20July%202016.pdf</source>
+    <last_updated>2016-07-26T21:22:25Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Fort Hays State University</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Kansas Newspapers</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-KS-Pres-GE TrumpvClinton</code>
+        <name>2016 Kansas President: Trump vs. Clinton</name>
+        <chart>2016-kansas-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>KS</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>542</observations>
+            <margin_of_error>4.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Donald Trump</choice>
+                <value>44.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Hillary Clinton</choice>
+                <value>27.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Gary Johnson</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Some Other Candidate</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Don't Know</choice>
+                <value>16.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24917</id>
+    <pollster>SurveyUSA/KSN News</pollster>
+    <start_date>2016-07-08</start_date>
+    <end_date>2016-07-11</end_date>
+    <method>IVR/Live Phone</method>
+    <source>http://www.surveyusa.com/client/PollReport.aspx?g=7a998d53-af1c-4a34-996c-6de020dea785</source>
+    <last_updated>2016-07-18T15:19:19Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>SurveyUSA</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-KS-Pres-GE TrumpvClinton</code>
+        <name>2016 Kansas President: Trump vs. Clinton</name>
+        <chart>2016-kansas-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>KS</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>559</observations>
+            <margin_of_error>4.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>47.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>36.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Johnson</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KS-Sen-GE-MvW</code>
+        <name>2016 Kansas Senate: Moran vs. Wiesner</name>
+        <chart>2016-kansas-senate-morgan-vs-wiesner</chart>
+        <topic>2016-senate</topic>
+        <state>KS</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>537</observations>
+            <margin_of_error>4.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Jerry Moran</choice>
+                <value>52.0</value>
+                <first_name>Jerry</first_name>
+                <last_name>Moran</last_name>
+                <party>Rep</party>
+                <incumbent>true</incumbent>
+              </response>
+              <response>
+                <choice>Patrick Wiesner</choice>
+                <value>33.0</value>
+                <first_name>Patrick</first_name>
+                <last_name>Wiesner</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>15.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KS-Sen-GE-MvSing</code>
+        <name>2016 Kansas Senate GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>537</observations>
+            <margin_of_error>4.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Jerry Moran</choice>
+                <value>54.0</value>
+                <first_name>Jerry</first_name>
+                <last_name>Moran</last_name>
+                <party>Rep</party>
+                <incumbent>true</incumbent>
+              </response>
+              <response>
+                <choice>Monique Singh</choice>
+                <value>30.0</value>
+                <first_name>Monique </first_name>
+                <last_name>Singh</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided </choice>
+                <value>15.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24669</id>
+    <pollster>Zogby/Kansas Health Foundation</pollster>
+    <start_date>2016-06-04</start_date>
+    <end_date>2016-06-06</end_date>
+    <method>IVR/Live Phone</method>
+    <source>http://kansashealth.org/sites/default/files/ZogbyPollResults.pdf</source>
+    <last_updated>2016-06-14T15:55:57Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Zogby</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Kansas Health Foundation </name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-KS-Pres-GE TrumpvClinton</code>
+        <name>2016 Kansas President: Trump vs. Clinton</name>
+        <chart>2016-kansas-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>KS</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>433</observations>
+            <margin_of_error>4.7</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>43.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>36.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>21.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>23980</id>
+    <pollster>Fort Hays State University</pollster>
+    <start_date>2016-02-19</start_date>
+    <end_date>2016-02-26</end_date>
+    <method>Live Phone</method>
+    <source>http://big.assets.huffingtonpost.com/FHSUPreprimaryPoll.pdf</source>
+    <last_updated>2016-03-04T19:12:42Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Fort Hays State University</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-KS-Pres-DemPR</code>
+        <name>2016 Kansas Democratic Presidential Caucus</name>
+        <chart>2016-kansas-democratic-presidential-caucus</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>KS</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Democrat</name>
+            <observations>123</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>33.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>23.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>44.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KS-Pres-RepPR</code>
+        <name>2016 Kansas Republican Presidential Caucus</name>
+        <chart>2016-kansas-republican-presidential-caucus</chart>
+        <topic>2016-president-gop-primary</topic>
+        <state>KS</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Republican</name>
+            <observations>212</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>26.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Rubio</choice>
+                <value>13.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>14.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>3.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Carson</choice>
+                <value>3.0</value>
+                <first_name>Ben</first_name>
+                <last_name>Carson</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>39.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KS-Pres-GE RubiovSanders</code>
+        <name>2016 Kansas Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>440</observations>
+            <margin_of_error>5.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>36.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>18.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Rubio</choice>
+                <value>46.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KS-Pres-GE RubiovClinton</code>
+        <name>2016 Kansas Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>440</observations>
+            <margin_of_error>5.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>32.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>17.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Rubio</choice>
+                <value>51.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KS-Pres-GE CruzvSanders</code>
+        <name>2016 Kansas Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>440</observations>
+            <margin_of_error>5.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>38.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>18.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>44.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KS-Pres-GE-CruzvClinton</code>
+        <name>2016 Kansas Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>440</observations>
+            <margin_of_error>5.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>35.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>16.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>49.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KS-Pres-GE TrumpvSanders</code>
+        <name>2016 Kansas Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>440</observations>
+            <margin_of_error>5.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>43.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>15.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>42.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KS-Pres-GE TrumpvClinton</code>
+        <name>2016 Kansas President: Trump vs. Clinton</name>
+        <chart>2016-kansas-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>KS</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>440</observations>
+            <margin_of_error>5.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>36.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>18.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>46.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+</polls>

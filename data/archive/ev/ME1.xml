@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="utf-8"?><polls>
+  <poll>
+    <id>25483</id>
+    <pollster>SurveyUSA/Boston Globe/Colby College</pollster>
+    <start_date>2016-09-04</start_date>
+    <end_date>2016-09-10</end_date>
+    <method>IVR/Online</method>
+    <source>http://www.surveyusa.com/client/PollReport.aspx?g=1af7b049-4e00-4802-b9c0-0b9915f88a6c</source>
+    <last_updated>2016-09-14T14:52:23Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>SurveyUSA</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Boston Globe</name>
+        <party>N/A</party>
+      </sponsor>
+      <sponsor>
+        <name>Colby College</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-ME-Pres-GE TrumpvClinton</code>
+        <name>2016 Maine President: Trump vs. Clinton</name>
+        <chart>2016-maine-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>ME</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>779</observations>
+            <margin_of_error>3.6</margin_of_error>
+            <responses>
+              <response>
+                <choice>Hillary Clinton (D)</choice>
+                <value>42.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Donald Trump (R)</choice>
+                <value>39.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Gary Johnson (L)</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Jill Stein (G)</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>25482</id>
+    <pollster>MPRC</pollster>
+    <start_date>2016-08-17</start_date>
+    <end_date>2016-08-20</end_date>
+    <method>IVR/Online</method>
+    <source>http://mprc.me/research/0816_presidential.pdf</source>
+    <last_updated>2016-09-14T14:24:27Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Maine People's Resource Center</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-ME-Pres-GE TrumpvClinton</code>
+        <name>2016 Maine President: Trump vs. Clinton</name>
+        <chart>2016-maine-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>ME</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>841</observations>
+            <margin_of_error>3.4</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>42.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>32.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Johnson</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Stein</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-ME-Pres-GE TrumpvClinton</code>
+        <name>2016 Maine President: Trump vs. Clinton</name>
+        <chart>2016-maine-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>ME</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>841</observations>
+            <margin_of_error>3.4</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>48.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>37.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>15.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>25370</id>
+    <pollster>Washington Post/SurveyMonkey</pollster>
+    <start_date>2016-08-09</start_date>
+    <end_date>2016-09-01</end_date>
+    <method>Internet</method>
+    <source>http://apps.washingtonpost.com/g/page/politics/washington-post-surveymonkey-50-state-poll/2086/</source>
+    <last_updated>2016-09-06T13:23:36Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>SurveyMonkey </name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Washington Post</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-ME-Pres-GE TrumpvClinton</code>
+        <name>2016 Maine President: Trump vs. Clinton</name>
+        <chart>2016-maine-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>ME</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>715</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Hillary Clinton, the Democrat</choice>
+                <value>47.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Donald Trump, the Republican</choice>
+                <value>39.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No Answer</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-ME-Pres-GE TrumpvClinton</code>
+        <name>2016 Maine President: Trump vs. Clinton</name>
+        <chart>2016-maine-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>ME</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>715</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Hillary Clinton, the Democrat</choice>
+                <value>37.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Donald Trump, the Republican</choice>
+                <value>34.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Gary Johnson, the Libertarian</choice>
+                <value>15.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Jill Stein, the Green Party</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>No answer</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -ME-Obama-Barack-Job-Pres</code>
+        <name>Maine: Obama Job Approval</name>
+        <chart>maine-obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>ME</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>715</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>54.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>46.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No opinion</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>25132</id>
+    <pollster>Gravis Marketing</pollster>
+    <start_date>2016-08-04</start_date>
+    <end_date>2016-08-08</end_date>
+    <method>IVR/Online</method>
+    <source>http://big.assets.huffingtonpost.com/Gravis.ME.8-8-16.pdf</source>
+    <last_updated>2016-08-11T18:03:45Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Gravis Marketing</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-ME-Pres-GE TrumpvClinton</code>
+        <name>2016 Maine President: Trump vs. Clinton</name>
+        <chart>2016-maine-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>ME</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>2046</observations>
+            <margin_of_error>2.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>46.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>36.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>17.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-ME-Pres-GE TrumpvClinton</code>
+        <name>2016 Maine President: Trump vs. Clinton</name>
+        <chart>2016-maine-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>ME</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>2046</observations>
+            <margin_of_error>2.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>43.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>33.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Johnson</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Stein</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -ME-Obama-Barack-Job-Pres</code>
+        <name>Maine: Obama Job Approval</name>
+        <chart>maine-obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>ME</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>2046</observations>
+            <margin_of_error>2.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>50.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>42.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unsure</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24771</id>
+    <pollster>UNH/Portland Press Herald/Maine Sunday Telegram</pollster>
+    <start_date>2016-06-15</start_date>
+    <end_date>2016-06-21</end_date>
+    <method>Live Phone</method>
+    <source>http://www.pressherald.com/2016/06/25/portland-press-herald-june-2016-poll-results/</source>
+    <last_updated>2016-06-27T01:42:55Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>University of New Hampshire</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Maine Sunday Telegram</name>
+        <party>N/A</party>
+      </sponsor>
+      <sponsor>
+        <name>Portland Press Herald</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-ME-Pres-GE TrumpvClinton</code>
+        <name>2016 Maine President: Trump vs. Clinton</name>
+        <chart>2016-maine-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>ME</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>469</observations>
+            <margin_of_error>4.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>42.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>35.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>19.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-ME-01-GE-HvP</code>
+        <name>2016 Maine CD-01</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>235</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Chellie Pingree</choice>
+                <value>56.0</value>
+                <first_name>Chellie</first_name>
+                <last_name>Pingree</last_name>
+                <party>Dem</party>
+                <incumbent>true</incumbent>
+              </response>
+              <response>
+                <choice>Mark Holbrook</choice>
+                <value>34.0</value>
+                <first_name>Mark</first_name>
+                <last_name>Holbrook</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-ME-02-GE-PvC</code>
+        <name>2016 Maine CD-02</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>202</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Bruce Poliquin</choice>
+                <value>41.0</value>
+                <first_name>Bruce</first_name>
+                <last_name>Poliquin</last_name>
+                <party>Rep</party>
+                <incumbent>true</incumbent>
+              </response>
+              <response>
+                <choice>Emily Cain</choice>
+                <value>40.0</value>
+                <first_name>Emily</first_name>
+                <last_name>Cain</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+</polls>

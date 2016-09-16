@@ -1,0 +1,1889 @@
+<?xml version="1.0" encoding="utf-8"?><polls>
+  <poll>
+    <id>24588</id>
+    <pollster>Glengariff/Detroit News/WDIV</pollster>
+    <start_date>2016-05-24</start_date>
+    <end_date>2016-05-26</end_date>
+    <method>Live Phone</method>
+    <source>http://www.detroitnews.com/story/news/politics/2016/05/31/poll-clinton-sanders-lead-trump-michigan-match-ups/85223072/</source>
+    <last_updated>2016-06-01T14:34:59Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Glengariff Group</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Detroit News</name>
+        <party>N/A</party>
+      </sponsor>
+      <sponsor>
+        <name>WDIV-TV</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-MI-Pres-GE TrumpvClinton</code>
+        <name>2016 Michigan President: Trump vs. Clinton</name>
+        <chart>2016-michigan-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>MI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>600</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>43.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>39.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE TrumpvClinton</code>
+        <name>2016 Michigan President: Trump vs. Clinton</name>
+        <chart>2016-michigan-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>MI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>600</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>37.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>33.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Johnson</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't know</choice>
+                <value>15.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE TrumpvSanders</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>600</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>52.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>33.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24238</id>
+    <pollster>EPIC-MRA/Detroit Free Press/WXYZ-TV </pollster>
+    <start_date>2016-03-19</start_date>
+    <end_date>2016-03-22</end_date>
+    <method>Live Phone</method>
+    <source>http://www.epicmra.com/press/Stwd_Survey_Mar2016_Media_Freq.pdf</source>
+    <last_updated>2016-04-08T19:28:11Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>EPIC-MRA</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Detroit Free Press</name>
+        <party>N/A</party>
+      </sponsor>
+      <sponsor>
+        <name>WXYZ-TV (Michigan)</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-MI-Pres-GE TrumpvClinton</code>
+        <name>2016 Michigan President: Trump vs. Clinton</name>
+        <chart>2016-michigan-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>MI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>600</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>47.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>37.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>16.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -MI-Obama-Barack-Job-Pres</code>
+        <name>Michigan: Obama Job Approval</name>
+        <chart>michigan-obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>MI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>600</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>47.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>53.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24153</id>
+    <pollster>SurveyUSA</pollster>
+    <start_date>2016-03-23</start_date>
+    <end_date>2016-03-24</end_date>
+    <method>IVR/Online</method>
+    <source>http://www.surveyusa.com/client/PollReport.aspx?g=47c9cb86-78f1-4886-a8b3-df6ef090b5b8</source>
+    <last_updated>2016-03-25T21:01:33Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>SurveyUSA</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-MI-Pres-GE TrumpvClinton</code>
+        <name>2016 Michigan President: Trump vs. Clinton</name>
+        <chart>2016-michigan-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>MI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>904</observations>
+            <margin_of_error>3.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>38.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>49.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE CruzvClinton</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>904</observations>
+            <margin_of_error>3.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Cruz</choice>
+                <value>39.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>49.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE KasichvClinton</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>904</observations>
+            <margin_of_error>3.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Kasich</choice>
+                <value>46.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>41.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE CruzvSanders</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>904</observations>
+            <margin_of_error>3.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Cruz</choice>
+                <value>35.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>56.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE KasichvSanders</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>904</observations>
+            <margin_of_error>3.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Kasich</choice>
+                <value>42.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>47.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE TrumpvSanders</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>904</observations>
+            <margin_of_error>3.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>36.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>55.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>23993</id>
+    <pollster>NBC/WSJ/Marist</pollster>
+    <start_date>2016-03-01</start_date>
+    <end_date>2016-03-03</end_date>
+    <method>Live Phone</method>
+    <source>http://www.nbcnews.com/politics/2016-election/donald-trump-hillary-clinton-hold-big-leads-michigan-poll-n532576</source>
+    <last_updated>2016-03-06T14:18:06Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Marist College</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>NBC News</name>
+        <party>N/A</party>
+      </sponsor>
+      <sponsor>
+        <name>Wall Street Journal</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-MI-Pres-RepPR</code>
+        <name>2016 Michigan Republican Presidential Primary</name>
+        <chart>2016-michigan-presidential-republican-primary</chart>
+        <topic>2016-president-gop-primary</topic>
+        <state>MI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Republican</name>
+            <observations>482</observations>
+            <margin_of_error>4.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>41.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>22.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Rubio</choice>
+                <value>17.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>13.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Uncommitted </choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-DemPR</code>
+        <name>2016 Michigan Democratic Presidential Primary</name>
+        <chart>2016-michigan-presidential-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>MI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Democrat</name>
+            <observations>546</observations>
+            <margin_of_error>4.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>57.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>40.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Uncommitted</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE TrumpvClinton</code>
+        <name>2016 Michigan President: Trump vs. Clinton</name>
+        <chart>2016-michigan-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>MI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>2229</observations>
+            <margin_of_error>2.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>52.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>36.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE TrumpvSanders</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>2229</observations>
+            <margin_of_error>2.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>56.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>34.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE CruzvClinton</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>2229</observations>
+            <margin_of_error>2.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>48.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>41.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE CruzvSanders</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>2229</observations>
+            <margin_of_error>2.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>54.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>36.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -MI-Obama-Barack-Job-Pres</code>
+        <name>Michigan: Obama Job Approval</name>
+        <chart>michigan-obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>MI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>2229</observations>
+            <margin_of_error>2.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>50.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>41.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>23917</id>
+    <pollster>Marketing Resource Group (R)</pollster>
+    <start_date>2016-02-22</start_date>
+    <end_date>2016-02-27</end_date>
+    <method>Live Phone</method>
+    <source>http://big.assets.huffingtonpost.com/MRGMIPollSpring6PresPrimFINAL.pdf</source>
+    <last_updated>2016-02-29T16:55:27Z</last_updated>
+    <partisan>Pollster</partisan>
+    <affiliation>Rep</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Marketing Resource Group</name>
+        <party>Rep</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-MI-Pres-RepPR</code>
+        <name>2016 Michigan Republican Presidential Primary</name>
+        <chart>2016-michigan-presidential-republican-primary</chart>
+        <topic>2016-president-gop-primary</topic>
+        <state>MI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Republican</name>
+            <observations>217</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Carson</choice>
+                <value>9.0</value>
+                <first_name>Ben</first_name>
+                <last_name>Carson</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>18.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>10.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Rubio</choice>
+                <value>18.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>33.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-DemPR</code>
+        <name>2016 Michigan Democratic Presidential Primary</name>
+        <chart>2016-michigan-presidential-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>MI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Democrat</name>
+            <observations>218</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>56.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>36.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE TrumpvClinton</code>
+        <name>2016 Michigan President: Trump vs. Clinton</name>
+        <chart>2016-michigan-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>MI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>600</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>44.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>39.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE CruzvClinton</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>600</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>44.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>39.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE RubiovClinton</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>600</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>41.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Rubio</choice>
+                <value>43.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>23078</id>
+    <pollster>EPIC-MRA/Detroit Free Press/WXYZ-TV </pollster>
+    <start_date>2015-10-25</start_date>
+    <end_date>2015-10-31</end_date>
+    <method>Live Phone</method>
+    <source>http://www.wxyz.com/news/political/exclusive-poll-gops-dr-ben-carson-has-leading-presidential-race-prescription-in-mi</source>
+    <last_updated>2015-11-05T19:03:10Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>EPIC-MRA</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Detroit Free Press</name>
+        <party>N/A</party>
+      </sponsor>
+      <sponsor>
+        <name>WXYZ-TV (Michigan)</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-MI-Pres-GE CarsonvClinton</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>600</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Carson</choice>
+                <value>46.0</value>
+                <first_name>Ben</first_name>
+                <last_name>Carson</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>40.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE CarsonvSanders</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>600</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>36.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Carson</choice>
+                <value>45.0</value>
+                <first_name>Ben</first_name>
+                <last_name>Carson</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>19.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE TrumpvClinton</code>
+        <name>2016 Michigan President: Trump vs. Clinton</name>
+        <chart>2016-michigan-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>MI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>600</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>46.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>38.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>16.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE TrumpvSanders</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>600</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>48.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>36.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>16.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>22826</id>
+    <pollster>Mitchell Research (R)/Fox 2 Detroit</pollster>
+    <start_date>2015-09-18</start_date>
+    <end_date>2015-09-18</end_date>
+    <method>Automated Phone</method>
+    <source>http://www.realclearpolitics.com/docs/2016/Mitchell_Poll_Press_Release_9-27-15_Rubio_Prez_Final.pdf</source>
+    <last_updated>2015-09-30T21:32:59Z</last_updated>
+    <partisan>Pollster</partisan>
+    <affiliation>Rep</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Mitchell Research (R)</name>
+        <party>Rep</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Fox 2 News Detroit</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-MI-Pres-GE RubiovClinton</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1483</observations>
+            <margin_of_error>2.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Rubio</choice>
+                <value>43.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>40.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE TrumpvClinton</code>
+        <name>2016 Michigan President: Trump vs. Clinton</name>
+        <chart>2016-michigan-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>MI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1483</observations>
+            <margin_of_error>2.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>42.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>42.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE BushvClinton</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1483</observations>
+            <margin_of_error>2.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>42.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Bush</choice>
+                <value>37.0</value>
+                <first_name>Jeb</first_name>
+                <last_name>Bush</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>22759</id>
+    <pollster>Marketing Resource Group (R)</pollster>
+    <start_date>2015-09-09</start_date>
+    <end_date>2015-09-14</end_date>
+    <method>Live Phone</method>
+    <source>http://mrgmi.com/2015/09/hillary-takes-a-hit/</source>
+    <last_updated>2015-09-18T23:15:44Z</last_updated>
+    <partisan>Pollster</partisan>
+    <affiliation>Rep</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Marketing Resource Group</name>
+        <party>Rep</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-MI-Pres-GE BushvClinton</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>600</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>39.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Bush</choice>
+                <value>40.0</value>
+                <first_name>Jeb</first_name>
+                <last_name>Bush</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE FiorinavClinton</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>600</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>39.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Fiorina</choice>
+                <value>40.0</value>
+                <first_name>Carly</first_name>
+                <last_name>Fiorina</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE TrumpvClinton</code>
+        <name>2016 Michigan President: Trump vs. Clinton</name>
+        <chart>2016-michigan-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>MI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>600</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>43.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>40.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>22605</id>
+    <pollster>EPIC-MRA/Detroit Free Press/WXYZ-TV </pollster>
+    <start_date>2015-08-18</start_date>
+    <end_date>2015-08-22</end_date>
+    <method>Live Phone</method>
+    <source>http://www.freep.com/story/news/local/michigan/2015/08/24/michigan-presidential-poll/32279479/</source>
+    <last_updated>2015-08-25T17:38:16Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>EPIC-MRA</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Detroit Free Press</name>
+        <party>N/A</party>
+      </sponsor>
+      <sponsor>
+        <name>WXYZ-TV (Michigan)</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-MI-Pres-GE BushvClinton</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>600</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Bush</choice>
+                <value>45.0</value>
+                <first_name>Jeb</first_name>
+                <last_name>Bush</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>40.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>15.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE TrumpvClinton</code>
+        <name>2016 Michigan President: Trump vs. Clinton</name>
+        <chart>2016-michigan-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>MI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>600</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>44.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>42.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>22603</id>
+    <pollster>Mitchell Research (R)/Fox 2 Detroit</pollster>
+    <start_date>2015-08-10</start_date>
+    <end_date>2015-08-10</end_date>
+    <method>Automated Phone</method>
+    <source>http://big.assets.huffingtonpost.com/Mitchell_Poll_MI_8-20-15_Rubio_Prez_Final.pdf</source>
+    <last_updated>2015-08-24T23:15:18Z</last_updated>
+    <partisan>Pollster</partisan>
+    <affiliation>Rep</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Mitchell Research (R)</name>
+        <party>Rep</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Fox 2 News Detroit</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-MI-Pres-GE TrumpvClinton</code>
+        <name>2016 Michigan President: Trump vs. Clinton</name>
+        <chart>2016-michigan-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>MI</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1310</observations>
+            <margin_of_error>27.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>39.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>40.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE BushvClinton</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1310</observations>
+            <margin_of_error>27.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>40.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Bush</choice>
+                <value>41.0</value>
+                <first_name>Jeb</first_name>
+                <last_name>Bush</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-MI-Pres-GE RubiovClinton</code>
+        <name>2016 Michigan Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1310</observations>
+            <margin_of_error>27.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Rubio</choice>
+                <value>45.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>36.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+</polls>

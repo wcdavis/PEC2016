@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="utf-8"?><polls>
+  <poll>
+    <id>25368</id>
+    <pollster>Washington Post/SurveyMonkey</pollster>
+    <start_date>2016-08-09</start_date>
+    <end_date>2016-09-01</end_date>
+    <method>Internet</method>
+    <source>http://apps.washingtonpost.com/g/page/politics/washington-post-surveymonkey-50-state-poll/2086/</source>
+    <last_updated>2016-09-06T13:14:20Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>SurveyMonkey </name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Washington Post</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-KY-Pres-GE TrumpvClinton</code>
+        <name>2016 Kentucky President: Trump vs. Clinton</name>
+        <chart>2016-kentucky-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>KY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>732</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Donald Trump, the Republican</choice>
+                <value>57.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Hillary Clinton, the Democrat</choice>
+                <value>34.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No Answer</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KY-Pres-GE TrumpvClinton</code>
+        <name>2016 Kentucky President: Trump vs. Clinton</name>
+        <chart>2016-kentucky-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>KY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>732</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Donald Trump, the Republican</choice>
+                <value>52.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Hillary Clinton, the Democrat</choice>
+                <value>29.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Gary Johnson, the Libertarian</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Jill Stein, the Green Party</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No answer</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -KY-Obama-Barack-Job-Pres</code>
+        <name>Kentucky: Obama Job Approval</name>
+        <chart>kentucky-obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>KY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>732</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>39.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>61.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No opinion</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>22299</id>
+    <pollster>PPP (D)</pollster>
+    <start_date>2015-06-18</start_date>
+    <end_date>2015-06-21</end_date>
+    <method>IVR/Online</method>
+    <source>http://www.publicpolicypolling.com/pdf/2015/PPP_Release_KY_62415.pdf</source>
+    <last_updated>2015-06-25T02:00:00Z</last_updated>
+    <partisan>Pollster</partisan>
+    <affiliation>Dem</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Public Policy Polling (D)</name>
+        <party>Dem</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-KY-Pres-RepPR</code>
+        <name>2016 Kentucky Republican Presidential Caucus</name>
+        <chart>2016-kentucky-republican-presidential-caucus</chart>
+        <topic>2016-president-gop-primary</topic>
+        <state>KY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Republican</name>
+            <observations>413</observations>
+            <margin_of_error>4.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Bush</choice>
+                <value>13.0</value>
+                <first_name>Jeb</first_name>
+                <last_name>Bush</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>4.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Huckabee</choice>
+                <value>10.0</value>
+                <first_name>Mike</first_name>
+                <last_name>Huckabee</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Paul</choice>
+                <value>19.0</value>
+                <first_name>Rand</first_name>
+                <last_name>Paul</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Rubio</choice>
+                <value>10.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Carson</choice>
+                <value>7.0</value>
+                <first_name>Ben</first_name>
+                <last_name>Carson</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Fiorina</choice>
+                <value>4.0</value>
+                <first_name>Carly</first_name>
+                <last_name>Fiorina</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>12.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Walker</choice>
+                <value>11.0</value>
+                <first_name>Scott</first_name>
+                <last_name>Walker</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Someone else/Not sure</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KY-Pres-DemPR</code>
+        <name>2016 Kentucky Democratic Presidential Primary</name>
+        <chart>2016-kentucky-democratic-presidential-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>KY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Democrat</name>
+            <observations>610</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Chafee</choice>
+                <value>5.0</value>
+                <first_name>Lincoln</first_name>
+                <last_name>Chafee</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>56.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>O'Malley</choice>
+                <value>3.0</value>
+                <first_name>Martin</first_name>
+                <last_name>O'Malley</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>12.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Webb</choice>
+                <value>7.0</value>
+                <first_name>Jim</first_name>
+                <last_name>Webb</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Someone else/Not sure</choice>
+                <value>18.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KY-Pres-GE BushvClinton</code>
+        <name>2016 Kentucky Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1108</observations>
+            <margin_of_error>2.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>40.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Bush</choice>
+                <value>48.0</value>
+                <first_name>Jeb</first_name>
+                <last_name>Bush</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KY-Pres-GE CarsonvClinton</code>
+        <name>2016 Kentucky Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1108</observations>
+            <margin_of_error>2.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>40.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Carson</choice>
+                <value>49.0</value>
+                <first_name>Ben</first_name>
+                <last_name>Carson</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KY-Pres-GE CruzvClinton</code>
+        <name>2016 Kentucky Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1108</observations>
+            <margin_of_error>2.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>42.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>48.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KY-Pres-GE FiorinavClinton</code>
+        <name>2016 Kentucky Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1108</observations>
+            <margin_of_error>2.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>40.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Fiorina</choice>
+                <value>45.0</value>
+                <first_name>Carly</first_name>
+                <last_name>Fiorina</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>16.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KY-Pres-GE HuckabeevClinton</code>
+        <name>2016 Kentucky Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1108</observations>
+            <margin_of_error>2.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>39.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Huckabee</choice>
+                <value>49.0</value>
+                <first_name>Mike</first_name>
+                <last_name>Huckabee</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KY-Pres-GE PaulvClinton</code>
+        <name>2016 Kentucky Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1108</observations>
+            <margin_of_error>2.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>40.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Paul</choice>
+                <value>50.0</value>
+                <first_name>Rand</first_name>
+                <last_name>Paul</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KY-Pres-GE RubiovClinton</code>
+        <name>2016 Kentucky Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1108</observations>
+            <margin_of_error>2.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>41.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Rubio</choice>
+                <value>46.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KY-Pres-GE TrumpvClinton</code>
+        <name>2016 Kentucky President: Trump vs. Clinton</name>
+        <chart>2016-kentucky-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>KY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1108</observations>
+            <margin_of_error>2.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>45.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>42.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KY-Pres-GE WalkervClinton</code>
+        <name>2016 Kentucky Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1108</observations>
+            <margin_of_error>2.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>41.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Walker</choice>
+                <value>46.0</value>
+                <first_name>Scott</first_name>
+                <last_name>Walker</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KY-Pres-GE WalkervChafee</code>
+        <name>2016 Kentucky Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1108</observations>
+            <margin_of_error>2.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Chafee</choice>
+                <value>23.0</value>
+                <first_name>Lincoln</first_name>
+                <last_name>Chafee</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Walker</choice>
+                <value>41.0</value>
+                <first_name>Scott</first_name>
+                <last_name>Walker</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>35.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KY-Pres-GE WalkervO'Malley</code>
+        <name>2016 Kentucky Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1108</observations>
+            <margin_of_error>2.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>O'Malley</choice>
+                <value>22.0</value>
+                <first_name>Martin</first_name>
+                <last_name>O'Malley</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Walker</choice>
+                <value>40.0</value>
+                <first_name>Scott</first_name>
+                <last_name>Walker</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>38.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KY-Pres-GE WalkervSanders</code>
+        <name>2016 Kentucky Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1108</observations>
+            <margin_of_error>2.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>29.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Walker</choice>
+                <value>42.0</value>
+                <first_name>Scott</first_name>
+                <last_name>Walker</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>30.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-KY-Pres-GE WalkervWebb</code>
+        <name>2016 Arizona Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1108</observations>
+            <margin_of_error>2.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Webb</choice>
+                <value>22.0</value>
+                <first_name>Jim</first_name>
+                <last_name>Webb</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Walker</choice>
+                <value>42.0</value>
+                <first_name>Scott</first_name>
+                <last_name>Walker</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>36.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+</polls>

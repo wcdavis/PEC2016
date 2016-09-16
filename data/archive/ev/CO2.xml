@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?><polls>
+  <poll>
+    <id>23168</id>
+    <pollster>Quinnipiac</pollster>
+    <start_date>2015-11-11</start_date>
+    <end_date>2015-11-15</end_date>
+    <method>Live Phone</method>
+    <source>http://www.quinnipiac.edu/images/polling/co/co11182015_c23tbvm.pdf</source>
+    <last_updated>2015-11-18T14:58:55Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Quinnipiac University</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-CO-Pres-RepPR</code>
+        <name>2016 Colorado Republican Presidential Caucus</name>
+        <chart>2016-colorado-republican-presidential-caucus</chart>
+        <topic>2016-president-gop-primary</topic>
+        <state>CO</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters - Republican</name>
+            <observations>474</observations>
+            <margin_of_error>4.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Bush</choice>
+                <value>2.0</value>
+                <first_name>Jeb</first_name>
+                <last_name>Bush</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Carson</choice>
+                <value>25.0</value>
+                <first_name>Ben</first_name>
+                <last_name>Carson</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Christie</choice>
+                <value>1.0</value>
+                <first_name>Chris</first_name>
+                <last_name>Christie</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>14.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Fiorina</choice>
+                <value>5.0</value>
+                <first_name>Carly</first_name>
+                <last_name>Fiorina</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Gilmore</choice>
+                <value>0.0</value>
+                <first_name>Jim</first_name>
+                <last_name>Gilmore</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Graham</choice>
+                <value>0.0</value>
+                <first_name>Lindsey</first_name>
+                <last_name>Graham</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Huckabee</choice>
+                <value>1.0</value>
+                <first_name>Mike</first_name>
+                <last_name>Huckabee</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Jindal</choice>
+                <value>1.0</value>
+                <first_name>Bobby</first_name>
+                <last_name>Jindal</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>1.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Pataki</choice>
+                <value>0.0</value>
+                <first_name>George</first_name>
+                <last_name>Pataki</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Paul</choice>
+                <value>3.0</value>
+                <first_name>Rand</first_name>
+                <last_name>Paul</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Rubio</choice>
+                <value>19.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Santorum</choice>
+                <value>0.0</value>
+                <first_name>Rick</first_name>
+                <last_name>Santorum</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>17.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-CO-Pres-DemPR</code>
+        <name>2016 Colorado Democratic Presidential Caucus</name>
+        <chart>2016-colorado-democratic-presidential-caucus</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>CO</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters - Democrat</name>
+            <observations>404</observations>
+            <margin_of_error>4.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>55.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>O'Malley</choice>
+                <value>2.0</value>
+                <first_name>Martin</first_name>
+                <last_name>O'Malley</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>27.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>15.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-CO-Pres-GE CarsonvClinton</code>
+        <name>2016 Colorado Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1262</observations>
+            <margin_of_error>2.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>38.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Carson</choice>
+                <value>52.0</value>
+                <first_name>Ben</first_name>
+                <last_name>Carson</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-CO-Pres-GE TrumpvClinton</code>
+        <name>2016 Colorado President: Trump vs. Clinton</name>
+        <chart>2016-colorado-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>CO</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1262</observations>
+            <margin_of_error>2.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>37.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>48.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-CO-Pres-GE RubiovClinton</code>
+        <name>2016 Colorado Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1262</observations>
+            <margin_of_error>2.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>36.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Rubio</choice>
+                <value>52.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't vote</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-CO-Pres-GE CruzvClinton</code>
+        <name>2016 Colorado Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1262</observations>
+            <margin_of_error>2.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>38.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>51.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't vote</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-CO-Pres-GE CarsonvSanders</code>
+        <name>2016 Colorado Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1262</observations>
+            <margin_of_error>2.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>40.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Carson</choice>
+                <value>52.0</value>
+                <first_name>Ben</first_name>
+                <last_name>Carson</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-CO-Pres-GE TrumpvSanders</code>
+        <name>2016 Colorado Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1262</observations>
+            <margin_of_error>2.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>44.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>46.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-CO-Pres-GE RubiovSanders</code>
+        <name>2016 Colorado Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1262</observations>
+            <margin_of_error>2.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>39.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Rubio</choice>
+                <value>52.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-CO-Pres-GE CruzvSanders</code>
+        <name>2016 Colorado Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1262</observations>
+            <margin_of_error>2.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>42.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>49.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+</polls>

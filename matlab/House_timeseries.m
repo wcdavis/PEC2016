@@ -1,0 +1,83 @@
+%LIBGL_DEBUG='verbose'
+pdata=csvread('house_race_matlab.csv');
+
+clear foo
+foo(:,1)=(pdata(:,2)+pdata(:,3))/2-datenum('31-dec-2015'); %midpoint dates
+foo(:,2)=pdata(:,3)-datenum('31-dec-2015'); %ebd dates
+foo(:,3)=pdata(:,6)-pdata(:,7); %margins
+foo(:,4)=pdata(:,1); %pollster ID numbers
+[foo2,inds]=sort(foo(:,1),1,'descend'); % going to sort by midpoint date
+
+middates=foo(inds,1);
+enddates=foo(inds,2);
+margins=foo(inds,3);
+pollsters=foo(inds,4);
+
+tod=today-datenum('31-dec-2015'); % Julian date this year
+Nback=21; %days back to look
+
+% for a given date
+dstart=-150; dfinish=tod; d=dstart:dfinish;
+
+for id=1:length(d)
+    %   first, find polls meeting date criterion
+    iNback=intersect(find(enddates>=d(id)-Nback),find(enddates<=d(id)));
+    %   then clean these up for pollster-ID
+    [c,ia,ic]=unique(pollsters(iNback),'first');
+    iNback=iNback(ia);
+    %
+    %   second, find last 3 polls from different pollsters
+    iback3=min(find(middates<=d(id)));
+    iback3=iback3:min(iback3+19,length(middates)); % last 20 (if it requires more, blech)
+    [c,ia,ic]=unique(pollsters(iback3),'first');
+    iback3=iback3(ia); %   take uniques
+    iback3=iback3(1:min(3,length(iback3))); % last 3 or less
+    %
+    %   union of these two groups
+    iback=union(iNback,iback3);
+    %
+    %   then calculate descriptive statistics
+    pmedian(id)=median(margins(iback));
+    psem(id)=mad(margins(iback),1)/sqrt(length(iback))/0.6745;
+end
+
+close
+points_to_plot=length(d):-3:6; % -7 was previous default
+netpref=pmedian(points_to_plot);
+phandle=plot(d(points_to_plot),netpref,'-k','LineWidth',2)
+hold on
+startday=datenum('01-May-0000')
+endday=330
+axis([startday endday -8 max(9.5,ceil(max(netpref)+0.5))])
+%plot(enddates,margins,'.r')
+grid on
+plot([startday 330],[8 8],'-g'); % http://election.princeton.edu/2016/08/12/what-would-it-take-for-the-house-to-flip/#more-16862
+plot([startday 330],[6 6],'-g'); % http://election.princeton.edu/2016/08/12/what-would-it-take-for-the-house-to-flip/#more-16862
+plot([startday 330],[1.2 1.2],'-b')
+plot([startday 330],[-5.8 -5.8],'-b')
+[max(d) mean(pmedian(find(d>=1))) std(pmedian(find(d>=1)))]
+
+% omedian=pmedian;oSEM=psem;od=d;
+
+hmedian=pmedian;hSEM=psem;hd=d;
+
+firsts=datenum(0,[1:12],1);
+firsts=[firsts-365 firsts];
+set(gca,'XTick',firsts)
+set(gca,'XTickLabel',{'        Jan','        Feb','        Mar','        Apr','        May','        Jun','        Jul','       Aug','        Sep','        Oct','        Nov','        Dec'})
+ylabel('Congressional D-R poll margin (%)','FontSize',14)
+%xlabel('2015                                               2016                      ')
+text(startday+3,-7.1,'election.princeton.edu','FontSize',12)
+text(265,8.5,'Likelier Dem control','FontSize',12)
+text(265,5.5,'Likelier GOP control','FontSize',12)
+text(startday+5,1.7,'\color{blue}2012 vote','FontSize',10)
+text(startday+5,-5.3,'\color{blue}2014 vote','FontSize',10)
+set(gcf, 'InvertHardCopy', 'off');
+title('House generic Congressional preference, 2016','FontSize',14)
+
+
+csvwrite('House_median_history.csv',[d pmedian psem])
+%set(gcf,'PaperPositionMode','auto')
+% print -djpeg House_generic_history.jpg
+screen2jpeg(['House_generic_history.jpg'])
+%close

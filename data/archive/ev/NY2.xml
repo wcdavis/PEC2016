@@ -1,0 +1,3247 @@
+<?xml version="1.0" encoding="utf-8"?><polls>
+  <poll>
+    <id>24259</id>
+    <pollster>PPP (D)</pollster>
+    <start_date>2016-04-07</start_date>
+    <end_date>2016-04-10</end_date>
+    <method>IVR/Online</method>
+    <source>http://www.publicpolicypolling.com/pdf/2015/PPP_Release_NY_41216.pdf</source>
+    <last_updated>2016-04-12T19:24:38Z</last_updated>
+    <partisan>Pollster</partisan>
+    <affiliation>Dem</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Public Policy Polling (D)</name>
+        <party>Dem</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-NY-Pres-RepPR</code>
+        <name>2016 New York Republican Presidential Primary</name>
+        <chart>2016-new-york-presidential-republican-primary</chart>
+        <topic>2016-president-gop-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Republican</name>
+            <observations>483</observations>
+            <margin_of_error>4.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Cruz</choice>
+                <value>20.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>25.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>51.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-DemPR</code>
+        <name>2016 New York Democratic Presidential Primary</name>
+        <chart>2016-new-york-presidential-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Democrat</name>
+            <observations>663</observations>
+            <margin_of_error>3.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>51.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>40.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -NY-Obama-Barack-Job-Pres</code>
+        <name>New York: Obama Job Approval</name>
+        <chart>new-york-obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1403</observations>
+            <margin_of_error>2.6</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>56.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>38.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE CruzvClinton</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1403</observations>
+            <margin_of_error>2.6</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>56.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>30.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE CruzvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1403</observations>
+            <margin_of_error>2.6</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>59.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>27.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE KasichvClinton</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1403</observations>
+            <margin_of_error>2.6</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>50.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>36.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE KasichvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1403</observations>
+            <margin_of_error>2.6</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>54.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>35.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvClinton</code>
+        <name>2016 New York President: Trump vs. Clinton</name>
+        <chart>2016-new-york-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1403</observations>
+            <margin_of_error>2.6</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>55.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>35.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1403</observations>
+            <margin_of_error>2.6</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>58.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>33.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24253</id>
+    <pollster>Baruch College/New York 1</pollster>
+    <start_date>2016-04-05</start_date>
+    <end_date>2016-04-10</end_date>
+    <method>Live Phone</method>
+    <source>http://big.assets.huffingtonpost.com/Baruchpoll41016.pdf</source>
+    <last_updated>2016-04-12T16:20:13Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses/>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-NY-Pres-RepPR</code>
+        <name>2016 New York Republican Presidential Primary</name>
+        <chart>2016-new-york-presidential-republican-primary</chart>
+        <topic>2016-president-gop-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Republican</name>
+            <observations>324</observations>
+            <margin_of_error>4.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>60.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>17.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>14.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-DemPR</code>
+        <name>2016 New York Democratic Presidential Primary</name>
+        <chart>2016-new-york-presidential-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Democrat</name>
+            <observations>632</observations>
+            <margin_of_error>5.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>50.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>37.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvClinton</code>
+        <name>2016 New York President: Trump vs. Clinton</name>
+        <chart>2016-new-york-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1306</observations>
+            <margin_of_error>2.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>51.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>35.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1306</observations>
+            <margin_of_error>2.9</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>54.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>32.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Refused</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24249</id>
+    <pollster>NBC/WSJ/Marist</pollster>
+    <start_date>2016-04-06</start_date>
+    <end_date>2016-04-10</end_date>
+    <method>Live Phone</method>
+    <source>http://www.nbcnews.com/politics/2016-election/nbc-poll-trump-clinton-hold-sizable-leads-new-york-n554311</source>
+    <last_updated>2016-04-11T21:05:29Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Marist College</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>NBC News</name>
+        <party>N/A</party>
+      </sponsor>
+      <sponsor>
+        <name>Wall Street Journal</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-NY-Pres-RepPR</code>
+        <name>2016 New York Republican Presidential Primary</name>
+        <chart>2016-new-york-presidential-republican-primary</chart>
+        <topic>2016-president-gop-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Republican</name>
+            <observations>259</observations>
+            <margin_of_error>6.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>54.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>21.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>18.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-DemPR</code>
+        <name>2016 New York Democratic Presidential Primary</name>
+        <chart>2016-new-york-presidential-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Democrat</name>
+            <observations>557</observations>
+            <margin_of_error>4.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>55.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>41.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -NY-Obama-Barack-Job-Pres</code>
+        <name>New York: Obama Job Approval</name>
+        <chart>new-york-obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>2521</observations>
+            <margin_of_error>2.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>62.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>33.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvClinton</code>
+        <name>2016 New York President: Trump vs. Clinton</name>
+        <chart>2016-new-york-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1987</observations>
+            <margin_of_error>2.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>61.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>32.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE KasichvClinton</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1987</observations>
+            <margin_of_error>2.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>53.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>38.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE CruzvClinton</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1987</observations>
+            <margin_of_error>2.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>61.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>31.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1987</observations>
+            <margin_of_error>2.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>64.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>31.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE KasichvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1987</observations>
+            <margin_of_error>2.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>57.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>35.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE CruzvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1987</observations>
+            <margin_of_error>2.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Cruz</choice>
+                <value>28.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>65.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24239</id>
+    <pollster>Fox News</pollster>
+    <start_date>2016-04-04</start_date>
+    <end_date>2016-04-07</end_date>
+    <method>Live Phone</method>
+    <source>http://www.foxnews.com/politics/2016/04/10/fox-news-poll-trump-clinton-rule-empire-state.html</source>
+    <last_updated>2016-04-10T15:09:22Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Braun Research</name>
+        <party>N/A</party>
+      </survey_house>
+      <survey_house>
+        <name>Anderson Robbins Research</name>
+        <party>Dem</party>
+      </survey_house>
+      <survey_house>
+        <name>Shaw &amp; Company Research</name>
+        <party>Rep</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>FOX News</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-NY-Pres-RepPR</code>
+        <name>2016 New York Republican Presidential Primary</name>
+        <chart>2016-new-york-presidential-republican-primary</chart>
+        <topic>2016-president-gop-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Republican</name>
+            <observations>602</observations>
+            <margin_of_error>4.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>54.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>22.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>15.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>None </choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-DemPR</code>
+        <name>2016 New York Democratic Presidential Primary</name>
+        <chart>2016-new-york-presidential-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Democrat</name>
+            <observations>801</observations>
+            <margin_of_error>3.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>53.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>37.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>None</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvClinton</code>
+        <name>2016 New York President: Trump vs. Clinton</name>
+        <chart>2016-new-york-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1403</observations>
+            <margin_of_error>2.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>53.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>37.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1403</observations>
+            <margin_of_error>2.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>54.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>35.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24235</id>
+    <pollster>Emerson College Polling Society</pollster>
+    <start_date>2016-04-06</start_date>
+    <end_date>2016-04-07</end_date>
+    <method>Automated Phone</method>
+    <source>http://www.theecps.com/</source>
+    <last_updated>2016-04-08T16:29:06Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Emerson College Polling Society</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-NY-Pres-RepPR</code>
+        <name>2016 New York Republican Presidential Primary</name>
+        <chart>2016-new-york-presidential-republican-primary</chart>
+        <topic>2016-president-gop-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Republican</name>
+            <observations>321</observations>
+            <margin_of_error>5.4</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>56.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>17.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>22.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-DemPR</code>
+        <name>2016 New York Democratic Presidential Primary</name>
+        <chart>2016-new-york-presidential-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Democrat</name>
+            <observations>325</observations>
+            <margin_of_error>5.4</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>56.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>38.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvClinton</code>
+        <name>2016 New York President: Trump vs. Clinton</name>
+        <chart>2016-new-york-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>864</observations>
+            <margin_of_error>3.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>54.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>36.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE CruzvClinton</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>864</observations>
+            <margin_of_error>3.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>58.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>30.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>864</observations>
+            <margin_of_error>3.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>38.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>51.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE CruzvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>864</observations>
+            <margin_of_error>3.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>56.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>29.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>16.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE KasichvClinton</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>864</observations>
+            <margin_of_error>3.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Kasich</choice>
+                <value>41.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>48.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24174</id>
+    <pollster>Quinnipiac</pollster>
+    <start_date>2016-03-22</start_date>
+    <end_date>2016-03-29</end_date>
+    <method>Live Phone</method>
+    <source>http://www.quinnipiac.edu/news-and-events/quinnipiac-university-poll/new-york-state/release-detail?ReleaseID=2337</source>
+    <last_updated>2016-03-31T11:10:16Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Quinnipiac University</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-NY-Pres-RepPR</code>
+        <name>2016 New York Republican Presidential Primary</name>
+        <chart>2016-new-york-presidential-republican-primary</chart>
+        <topic>2016-president-gop-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Republican</name>
+            <observations>457</observations>
+            <margin_of_error>4.6</margin_of_error>
+            <responses>
+              <response>
+                <choice>Cruz</choice>
+                <value>20.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>19.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>56.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-DemPR</code>
+        <name>2016 New York Democratic Presidential Primary</name>
+        <chart>2016-new-york-presidential-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Democrat</name>
+            <observations>693</observations>
+            <margin_of_error>3.7</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>54.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>42.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -NY-Obama-Barack-Job-Pres</code>
+        <name>New York: Obama Job Approval</name>
+        <chart>new-york-obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1667</observations>
+            <margin_of_error>2.4</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>56.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>41.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvClinton</code>
+        <name>2016 New York President: Trump vs. Clinton</name>
+        <chart>2016-new-york-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1667</observations>
+            <margin_of_error>2.4</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>53.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>33.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE CruzvClinton</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1667</observations>
+            <margin_of_error>2.4</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>53.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>32.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE KasichvClinton</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1667</observations>
+            <margin_of_error>2.4</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>46.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>41.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1667</observations>
+            <margin_of_error>2.4</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>56.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>32.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE CruzvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1667</observations>
+            <margin_of_error>2.4</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>56.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>28.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE KasichvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1667</observations>
+            <margin_of_error>2.4</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>47.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>37.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24106</id>
+    <pollster>Emerson College Polling Society</pollster>
+    <start_date>2016-03-14</start_date>
+    <end_date>2016-03-16</end_date>
+    <method>Automated Phone</method>
+    <source>http://media.wix.com/ugd/3bebb2_e6ef41f2113347feaedca7d88762c6f3.pdf</source>
+    <last_updated>2016-03-18T14:07:20Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Emerson College Polling Society</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-NY-Pres-RepPR</code>
+        <name>2016 New York Republican Presidential Primary</name>
+        <chart>2016-new-york-presidential-republican-primary</chart>
+        <topic>2016-president-gop-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Republican</name>
+            <observations>298</observations>
+            <margin_of_error>5.6</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>64.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>1.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>12.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>19.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Rubio</choice>
+                <value>4.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-DemPR</code>
+        <name>2016 New York Democratic Presidential Primary</name>
+        <chart>2016-new-york-presidential-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Democrat</name>
+            <observations>373</observations>
+            <margin_of_error>5.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>71.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>23.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvClinton</code>
+        <name>2016 New York President: Trump vs. Clinton</name>
+        <chart>2016-new-york-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>768</observations>
+            <margin_of_error>3.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>55.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>36.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>768</observations>
+            <margin_of_error>3.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>36.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>53.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE CruzvClinton</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>768</observations>
+            <margin_of_error>3.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>61.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>30.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>23997</id>
+    <pollster>Siena</pollster>
+    <start_date>2016-02-28</start_date>
+    <end_date>2016-03-03</end_date>
+    <method>Live Phone</method>
+    <source>http://big.assets.huffingtonpost.com/SienaPoll030316.pdf</source>
+    <last_updated>2016-03-07T15:27:27Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Siena College</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-NY-Pres-RepPR</code>
+        <name>2016 New York Republican Presidential Primary</name>
+        <chart>2016-new-york-presidential-republican-primary</chart>
+        <topic>2016-president-gop-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters - Republican</name>
+            <observations>229</observations>
+            <margin_of_error>6.7</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>45.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>18.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>11.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Rubio</choice>
+                <value>18.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-DemPR</code>
+        <name>2016 New York Democratic Presidential Primary</name>
+        <chart>2016-new-york-presidential-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters - Democrat</name>
+            <observations>368</observations>
+            <margin_of_error>6.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>55.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>34.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE RubiovClinton</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>800</observations>
+            <margin_of_error>4.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>56.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Rubio</choice>
+                <value>35.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE CruzvClinton</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>800</observations>
+            <margin_of_error>4.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>58.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>33.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvClinton</code>
+        <name>2016 New York President: Trump vs. Clinton</name>
+        <chart>2016-new-york-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>800</observations>
+            <margin_of_error>4.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>57.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>34.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE KasichvClinton</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>800</observations>
+            <margin_of_error>4.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>49.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>42.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE RubiovSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>800</observations>
+            <margin_of_error>4.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>58.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Rubio</choice>
+                <value>32.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE CruzvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>800</observations>
+            <margin_of_error>4.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>63.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>26.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>800</observations>
+            <margin_of_error>4.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>57.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>33.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE KasichvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>800</observations>
+            <margin_of_error>4.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>54.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>35.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvClintonvBloomberg</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>800</observations>
+            <margin_of_error>4.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>42.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>25.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Bloomberg</choice>
+                <value>26.0</value>
+                <first_name>Michael</first_name>
+                <last_name>Bloomberg</last_name>
+                <party>ind</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvSandersvBloomberg</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>800</observations>
+            <margin_of_error>4.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>42.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>24.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Bloomberg</choice>
+                <value>28.0</value>
+                <first_name>Michael</first_name>
+                <last_name>Bloomberg</last_name>
+                <party>ind</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>23712</id>
+    <pollster>Siena</pollster>
+    <start_date>2016-01-31</start_date>
+    <end_date>2016-02-03</end_date>
+    <method>Live Phone</method>
+    <source>http://files.ctctcdn.com/9c83fb30501/9e02460e-4bda-4afc-adcd-9330137f842d.pdf</source>
+    <last_updated>2016-02-08T16:58:25Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Siena College</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-NY-Pres-RepPR</code>
+        <name>2016 New York Republican Presidential Primary</name>
+        <chart>2016-new-york-presidential-republican-primary</chart>
+        <topic>2016-president-gop-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters - Republican</name>
+            <observations>235</observations>
+            <margin_of_error>7.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>34.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Kasich</choice>
+                <value>4.0</value>
+                <first_name>John</first_name>
+                <last_name>Kasich</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Cruz</choice>
+                <value>16.0</value>
+                <first_name>Ted</first_name>
+                <last_name>Cruz</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Rubio</choice>
+                <value>16.0</value>
+                <first_name>Marco</first_name>
+                <last_name>Rubio</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Christie</choice>
+                <value>11.0</value>
+                <first_name>Chris</first_name>
+                <last_name>Christie</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Bush</choice>
+                <value>7.0</value>
+                <first_name>Jeb</first_name>
+                <last_name>Bush</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-DemPR</code>
+        <name>2016 New York Democratic Presidential Primary</name>
+        <chart>2016-new-york-presidential-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters - Democrat</name>
+            <observations>434</observations>
+            <margin_of_error>5.6</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>55.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>34.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvClinton</code>
+        <name>2016 New York President: Trump vs. Clinton</name>
+        <chart>2016-new-york-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>NY</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>930</observations>
+            <margin_of_error>3.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>57.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>32.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE BushvClinton</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>930</observations>
+            <margin_of_error>3.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>57.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Bush</choice>
+                <value>33.0</value>
+                <first_name>Jeb</first_name>
+                <last_name>Bush</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE TrumpvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>930</observations>
+            <margin_of_error>3.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>63.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>30.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-NY-Pres-GE BushvSanders</code>
+        <name>2016 New York Presidential GE</name>
+        <chart nil="true"/>
+        <topic nil="true"/>
+        <state nil="true"/>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>930</observations>
+            <margin_of_error>3.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>61.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Bush</choice>
+                <value>30.0</value>
+                <first_name>Jeb</first_name>
+                <last_name>Bush</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+</polls>

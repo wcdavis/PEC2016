@@ -1,0 +1,15 @@
+ 1 AK
+ 2 AZ
+ 3 CO
+ 4 FL
+ 5 IA
+ 6 IL
+ 7 IN
+ 8 LA
+ 9 MO
+10 NC
+11 NH
+12 NV
+13 OH
+14 PA
+15 WI

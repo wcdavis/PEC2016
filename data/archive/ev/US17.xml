@@ -1,0 +1,5379 @@
+<?xml version="1.0" encoding="utf-8"?><polls>
+  <poll>
+    <id>24526</id>
+    <pollster>ABC/Post</pollster>
+    <start_date>2016-05-16</start_date>
+    <end_date>2016-05-19</end_date>
+    <method>Live Phone</method>
+    <source>https://www.washingtonpost.com/page/2010-2019/WashingtonPost/2016/05/22/National-Politics/Polling/release_426.xml?uuid=v4d0jh_REeaCwqfcsxMofQ</source>
+    <last_updated>2016-05-22T15:35:17Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>ABC News</name>
+        <party>N/A</party>
+      </survey_house>
+      <survey_house>
+        <name>Washington Post</name>
+        <party>N/A</party>
+      </survey_house>
+      <survey_house>
+        <name>Langer Research Associates</name>
+        <party>N/A</party>
+      </survey_house>
+      <survey_house>
+        <name>SSRS</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-US-Pres-GE TrumpvClinton</code>
+        <name>2016 General Election: Trump vs. Clinton</name>
+        <chart>2016-general-election-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>829</observations>
+            <margin_of_error>3.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>44.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>46.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Neither</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -Pres (44) Obama - Job Approval - National</code>
+        <name>Obama Job Approval</name>
+        <chart>obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>1005</observations>
+            <margin_of_error>3.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>51.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>46.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-US-Pres-DemPR</code>
+        <name>2016 National Democratic Primary</name>
+        <chart>2016-national-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters - Democrat</name>
+            <observations>373</observations>
+            <margin_of_error>5.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>56.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>42.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>None</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Clinton-Hillary-Favorable</code>
+        <name>Hillary Clinton Favorable Rating</name>
+        <chart>hillary-clinton-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>1005</observations>
+            <margin_of_error>3.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Favorable</choice>
+                <value>44.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>53.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Sanders-Bernie-Favorable</code>
+        <name>Bernie Sanders Favorable Rating</name>
+        <chart>bernie-sanders-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>1005</observations>
+            <margin_of_error>3.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Favorable</choice>
+                <value>51.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>38.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Trump-Donald-Favorable</code>
+        <name>Donald Trump Favorable Rating</name>
+        <chart>donald-trump-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>1005</observations>
+            <margin_of_error>3.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Favorable</choice>
+                <value>37.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>60.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Republican-Party-Favorable</code>
+        <name>Republican Party Favorable Rating</name>
+        <chart>republican-party-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>1005</observations>
+            <margin_of_error>3.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Favorable</choice>
+                <value>36.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>56.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Democratic-Party-Favorable</code>
+        <name>Democratic Party Favorable Rating</name>
+        <chart>democratic-party-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>1005</observations>
+            <margin_of_error>3.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Favorable</choice>
+                <value>48.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>44.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-US-House</code>
+        <name>2016 National House Race</name>
+        <chart>2016-national-house-race</chart>
+        <topic>2016-house</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>829</observations>
+            <margin_of_error>3.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Democrat</choice>
+                <value>45.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Republican</choice>
+                <value>45.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Neither</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Party ID</code>
+        <name>Party Identification</name>
+        <chart>party-identification</chart>
+        <topic/>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>1005</observations>
+            <margin_of_error>3.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Democrat</choice>
+                <value>33.0</value>
+                <first_name/>
+                <last_name>Democrat</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Republican</choice>
+                <value>25.0</value>
+                <first_name/>
+                <last_name>Republican</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>independent</choice>
+                <value>35.0</value>
+                <first_name/>
+                <last_name>independent</last_name>
+                <party>ind</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24525</id>
+    <pollster>NBC/WSJ</pollster>
+    <start_date>2016-05-15</start_date>
+    <end_date>2016-05-19</end_date>
+    <method>Live Phone</method>
+    <source>http://www.wsj.com/public/resources/documents/16306NBCWSJMay2016Poll.pdf</source>
+    <last_updated>2016-05-22T15:22:23Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Hart Research (D)</name>
+        <party>Dem</party>
+      </survey_house>
+      <survey_house>
+        <name>Public Opinion Strategies (R)</name>
+        <party>Rep</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>NBC News</name>
+        <party>N/A</party>
+      </sponsor>
+      <sponsor>
+        <name>Wall Street Journal</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-US-Pres-GE TrumpvClinton</code>
+        <name>2016 General Election: Trump vs. Clinton</name>
+        <chart>2016-general-election-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>46.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>43.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-US-Pres-GE TrumpvSanders</code>
+        <name>2016 General Election: Trump vs. Sanders</name>
+        <chart>2016-general-election-trump-vs-sanders</chart>
+        <topic>2016-president</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Other</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>54.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>39.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -Pres (44) Obama - Job Approval - National</code>
+        <name>Obama Job Approval</name>
+        <chart>obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>51.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>46.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -Pres (44) Obama - Favorable Rating-National</code>
+        <name>Barack Obama Favorable Rating</name>
+        <chart>obama-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Neutral</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Negative</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Positive</choice>
+                <value>17.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Very Negative</choice>
+                <value>31.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Very Positive</choice>
+                <value>32.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Clinton-Hillary-Favorable</code>
+        <name>Hillary Clinton Favorable Rating</name>
+        <chart>hillary-clinton-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Neutral</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Favorable</choice>
+                <value>18.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Unfavorable</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>0.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Very Favorable</choice>
+                <value>16.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Very Unfavorable</choice>
+                <value>41.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Sanders-Bernie-Favorable</code>
+        <name>Bernie Sanders Favorable Rating</name>
+        <chart>bernie-sanders-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Neutral</choice>
+                <value>18.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Negative</choice>
+                <value>15.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Positive</choice>
+                <value>23.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Very Negative</choice>
+                <value>21.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Very Positive</choice>
+                <value>20.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Trump-Donald-Favorable</code>
+        <name>Donald Trump Favorable Rating</name>
+        <chart>donald-trump-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Neutral</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Favorable</choice>
+                <value>16.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Unfavorable</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Very Favorable</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Very Unfavorable</choice>
+                <value>44.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Ryan-Paul-Favorable</code>
+        <name>Paul Ryan Favorable Rating</name>
+        <chart>paul-ryan-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Neutral</choice>
+                <value>27.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Favorable</choice>
+                <value>21.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Unfavorable</choice>
+                <value>19.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Strongly Favorable</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Strongly Unfavorable</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>15.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Democratic-Party-Favorable</code>
+        <name>Democratic Party Favorable Rating</name>
+        <chart>democratic-party-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>1 Very Positive</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>2 Somewhat Positive</choice>
+                <value>27.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>3 Neutral</choice>
+                <value>20.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>4 Somewhat Negative</choice>
+                <value>19.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>5 Very Negative</choice>
+                <value>22.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>6 Undecided</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Republican-Party-Favorable</code>
+        <name>Republican Party Favorable Rating</name>
+        <chart>republican-party-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>1 Very Positive</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>2 Somewhat Positive</choice>
+                <value>19.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>3 Neutral</choice>
+                <value>25.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>4 Somewhat Negative</choice>
+                <value>24.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>5 Very Negative</choice>
+                <value>25.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>6 Don't Know Name/Not Sure</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-US-Pres-DemPR</code>
+        <name>2016 National Democratic Primary</name>
+        <chart>2016-national-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Democrat</name>
+            <observations>342</observations>
+            <margin_of_error>5.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>53.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>None</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>45.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24521</id>
+    <pollster>CBS/Times</pollster>
+    <start_date>2016-05-13</start_date>
+    <end_date>2016-05-17</end_date>
+    <method>Live Phone</method>
+    <source>http://www.cbsnews.com/news/cbsnyt-national-poll-hillary-clintons-lead-over-donald-trump-narrows/</source>
+    <last_updated>2016-05-20T11:11:10Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>SSRS</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>CBS News</name>
+        <party>N/A</party>
+      </sponsor>
+      <sponsor>
+        <name>New York Times</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-US-Pres-GE TrumpvClinton</code>
+        <name>2016 General Election: Trump vs. Clinton</name>
+        <chart>2016-general-election-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1109</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>47.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>41.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other (vol.)</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Won't Vote (vol.)</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Depends (vol.)</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't Know/ No Answer</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - Democrat</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>88.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>5.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other (vol.)</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Won't Vote (vol.)</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't Know/ No Answer</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - Republican</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>6.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>85.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other (vol.)</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Won't Vote (vol.)</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't Know/ No Answer</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - independent</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>40.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>40.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other (vol.)</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Won't Vote (vol.)</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Depends (vol.)</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't Know/ No Answer</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-US-Pres-DemPR</code>
+        <name>2016 National Democratic Primary</name>
+        <chart>2016-national-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters - Democrat</name>
+            <observations>371</observations>
+            <margin_of_error>6.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>51.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>44.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No one</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-US-Pres-GE TrumpvSanders</code>
+        <name>2016 General Election: Trump vs. Sanders</name>
+        <chart>2016-general-election-trump-vs-sanders</chart>
+        <topic>2016-president</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1109</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>51.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>38.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other (vol.)</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Won't Vote (vol.)</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't Know/ No Answer</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24517</id>
+    <pollster>Ipsos/Reuters</pollster>
+    <start_date>2016-05-14</start_date>
+    <end_date>2016-05-18</end_date>
+    <method>Internet</method>
+    <source>http://big.assets.huffingtonpost.com/2016ReutersTrackingCorePolitical5182016.pdf</source>
+    <last_updated>2016-05-19T18:33:20Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Ipsos</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Reuters</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-US-Pres-GE TrumpvClinton</code>
+        <name>2016 General Election: Trump vs. Clinton</name>
+        <chart>2016-general-election-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1397</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>41.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>36.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Neither/Other</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Not Voting</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't know/Refused</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - Democrat</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>73.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>10.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Neither/Other</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Not Voting</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't know/Refused</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - Republican</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>6.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>72.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Neither/Other</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Not Voting</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't know/Refused</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - independent</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>22.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>41.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Neither/Other</choice>
+                <value>21.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Not Voting</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't know/Refused</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-US-Pres-DemPR</code>
+        <name>2016 National Democratic Primary</name>
+        <chart>2016-national-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters - Democrat</name>
+            <observations>646</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>52.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>43.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't vote</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -Pres (44) Obama - Job Approval - National</code>
+        <name>Obama Job Approval</name>
+        <chart>obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>1677</observations>
+            <margin_of_error>2.7</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>48.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>47.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Adults - Democrat</name>
+            <observations>751</observations>
+            <margin_of_error>4.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>80.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>17.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Adults - Republican</name>
+            <observations>565</observations>
+            <margin_of_error>4.7</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>15.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>84.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Adults - independent</name>
+            <observations>208</observations>
+            <margin_of_error>7.7</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>36.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>59.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -Right Direction / Wrong Track</code>
+        <name>US Right Direction Wrong Track</name>
+        <chart>us-right-direction-wrong-track</chart>
+        <topic/>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>1677</observations>
+            <margin_of_error>2.7</margin_of_error>
+            <responses>
+              <response>
+                <choice>Right Direction</choice>
+                <value>24.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wrong Track</choice>
+                <value>62.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Party ID</code>
+        <name>Party Identification</name>
+        <chart>party-identification</chart>
+        <topic/>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>1677</observations>
+            <margin_of_error>2.7</margin_of_error>
+            <responses>
+              <response>
+                <choice>1 Democrat</choice>
+                <value>38.0</value>
+                <first_name/>
+                <last_name>Democrat</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>2 Lean Democrat</choice>
+                <value>7.0</value>
+                <first_name/>
+                <last_name>independent</last_name>
+                <party>ind</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>3 Lean Republican</choice>
+                <value>6.0</value>
+                <first_name/>
+                <last_name>independent</last_name>
+                <party>ind</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>4 Republican</choice>
+                <value>26.0</value>
+                <first_name/>
+                <last_name>Republican</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>5 independent</choice>
+                <value>14.0</value>
+                <first_name/>
+                <last_name>independent</last_name>
+                <party>ind</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>6 None of these</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>7 Don't Know</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Clinton-Hillary-Favorable</code>
+        <name>Hillary Clinton Favorable Rating</name>
+        <chart>hillary-clinton-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1397</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Favorable</choice>
+                <value>48.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>52.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Trump-Donald-Favorable</code>
+        <name>Donald Trump Favorable Rating</name>
+        <chart>donald-trump-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1397</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Favorable</choice>
+                <value>46.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>54.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24514</id>
+    <pollster>Rasmussen</pollster>
+    <start_date>2016-05-17</start_date>
+    <end_date>2016-05-18</end_date>
+    <method>IVR/Online</method>
+    <source>http://www.rasmussenreports.com/public_content/politics/elections/election_2016/white_house_watch</source>
+    <last_updated>2016-05-19T15:56:23Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Rasmussen Reports</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-US-Pres-GE TrumpvClinton</code>
+        <name>2016 General Election: Trump vs. Clinton</name>
+        <chart>2016-general-election-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>42.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>37.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24512</id>
+    <pollster>FOX</pollster>
+    <start_date>2016-05-14</start_date>
+    <end_date>2016-05-17</end_date>
+    <method>Live Phone</method>
+    <source>http://www.foxnews.com/politics/interactive/2016/05/18/fox-news-poll-2016-national-release-may-18/</source>
+    <last_updated>2016-05-18T22:13:53Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Anderson Robbins Research</name>
+        <party>Dem</party>
+      </survey_house>
+      <survey_house>
+        <name>Shaw &amp; Company Research</name>
+        <party>Rep</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>FOX News</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-US-Pres-GE TrumpvClinton</code>
+        <name>2016 General Election: Trump vs. Clinton</name>
+        <chart>2016-general-election-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1021</observations>
+            <margin_of_error>3.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>45.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>42.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't Know</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - Democrat</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>6.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>83.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't Know</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - Republican</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>82.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>7.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't Know</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - independent</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>46.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>30.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't Know</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>16.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-US-Pres-GE TrumpvClinton</code>
+        <name>2016 General Election: Trump vs. Clinton vs. Johnson</name>
+        <chart>2016-general-election-trump-vs-clinton-vs-johnson</chart>
+        <topic>2016-president</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1021</observations>
+            <margin_of_error>3.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>42.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>39.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Johnson</choice>
+                <value>10.0</value>
+                <first_name>Gary</first_name>
+                <last_name>Johnson</last_name>
+                <party>Lib</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't vote</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't know</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - Democrat</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>5.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>78.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Johnson</choice>
+                <value>8.0</value>
+                <first_name>Gary</first_name>
+                <last_name>Johnson</last_name>
+                <party>Lib</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't vote</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't know</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - Republican</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>77.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>7.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Johnson</choice>
+                <value>8.0</value>
+                <first_name>Gary</first_name>
+                <last_name>Johnson</last_name>
+                <party>Lib</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't vote</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't know</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - independent</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>41.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>24.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Johnson</choice>
+                <value>18.0</value>
+                <first_name>Gary</first_name>
+                <last_name>Johnson</last_name>
+                <party>Lib</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Wouldn't vote</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't know</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-US-Pres-GE TrumpvSanders</code>
+        <name>2016 General Election: Trump vs. Sanders</name>
+        <chart>2016-general-election-trump-vs-sanders</chart>
+        <topic>2016-president</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1021</observations>
+            <margin_of_error>3.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Other</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>46.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>42.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't Vote</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Trump-Donald-Favorable</code>
+        <name>Donald Trump Favorable Rating</name>
+        <chart>donald-trump-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1021</observations>
+            <margin_of_error>3.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Can't say</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Favorable</choice>
+                <value>41.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>56.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Clinton-Hillary-Favorable</code>
+        <name>Hillary Clinton Favorable Rating</name>
+        <chart>hillary-clinton-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1021</observations>
+            <margin_of_error>3.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Can't Say</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Favorable</choice>
+                <value>37.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>61.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -Pres (44) Obama - Favorable Rating-National</code>
+        <name>Barack Obama Favorable Rating</name>
+        <chart>obama-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1021</observations>
+            <margin_of_error>3.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Favorable</choice>
+                <value>50.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>47.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -Pres (44) Obama - Job Approval - National</code>
+        <name>Obama Job Approval</name>
+        <chart>obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1021</observations>
+            <margin_of_error>3.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>48.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>49.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Ryan-Paul-Favorable</code>
+        <name>Paul Ryan Favorable Rating</name>
+        <chart>paul-ryan-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1021</observations>
+            <margin_of_error>3.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Can't Say</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Favorable</choice>
+                <value>36.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Never Heard Of</choice>
+                <value>17.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>36.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Democratic-Party-Favorable</code>
+        <name>Democratic Party Favorable Rating</name>
+        <chart>democratic-party-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1021</observations>
+            <margin_of_error>3.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Can't Say</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Favorable</choice>
+                <value>47.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Never Heard Of</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>49.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Republican-Party-Favorable</code>
+        <name>Republican Party Favorable Rating</name>
+        <chart>republican-party-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1021</observations>
+            <margin_of_error>3.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Can't Say</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Favorable</choice>
+                <value>40.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Never Heard Of</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>53.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Party ID</code>
+        <name>Party Identification</name>
+        <chart>party-identification</chart>
+        <topic/>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1021</observations>
+            <margin_of_error>3.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Democrat</choice>
+                <value>40.0</value>
+                <first_name/>
+                <last_name>Democrat</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>independent</choice>
+                <value>16.0</value>
+                <first_name/>
+                <last_name>independent</last_name>
+                <party>ind</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Republican</choice>
+                <value>41.0</value>
+                <first_name/>
+                <last_name>Republican</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24510</id>
+    <pollster>McLaughlin (R)</pollster>
+    <start_date>2016-05-11</start_date>
+    <end_date>2016-05-16</end_date>
+    <method>Internet</method>
+    <source>http://c5.nrostatic.com/sites/default/files/National%20-%20McLaughlin%20-%205-16-16%20Presentation%20-%20NEW%20SPECIAL.pdf</source>
+    <last_updated>2016-05-18T16:52:49Z</last_updated>
+    <partisan>Pollster</partisan>
+    <affiliation>Rep</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>McLaughlin &amp; Associates (R)</name>
+        <party>Rep</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-US-Pres-GE TrumpvClinton</code>
+        <name>2016 General Election: Trump vs. Clinton</name>
+        <chart>2016-general-election-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>46.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>42.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Likely Voters - Democrat</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>81.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>12.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Likely Voters - Republican</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>11.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>83.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Likely Voters - independent</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>41.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>34.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>25.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -Pres (44) Obama - Job Approval - National</code>
+        <name>Obama Job Approval</name>
+        <chart>obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>50.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>49.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Likely Voters - Democrat</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>80.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>20.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Likely Voters - Republican</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>86.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Likely Voters - independent</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>49.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>47.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Clinton-Hillary-Favorable</code>
+        <name>Hillary Clinton Favorable Rating</name>
+        <chart>hillary-clinton-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Favorable</choice>
+                <value>40.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>56.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Trump-Donald-Favorable</code>
+        <name>Donald Trump Favorable Rating</name>
+        <chart>donald-trump-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Favorable</choice>
+                <value>37.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>60.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Sanders-Bernie-Favorable</code>
+        <name>Bernie Sanders Favorable Rating</name>
+        <chart>bernie-sanders-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Favorable</choice>
+                <value>48.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>41.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -Right Direction / Wrong Track</code>
+        <name>US Right Direction Wrong Track</name>
+        <chart>us-right-direction-wrong-track</chart>
+        <topic/>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Right Direction</choice>
+                <value>26.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wrong Track</choice>
+                <value>67.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Party ID</code>
+        <name>Party Identification</name>
+        <chart>party-identification</chart>
+        <topic/>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Republican</choice>
+                <value>34.0</value>
+                <first_name/>
+                <last_name>Republican</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Democrat</choice>
+                <value>40.0</value>
+                <first_name/>
+                <last_name>Democrat</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>independent</choice>
+                <value>26.0</value>
+                <first_name/>
+                <last_name>independent</last_name>
+                <party>ind</party>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Health-Bill</code>
+        <name>Obama Health Care Law: Favor/Oppose</name>
+        <chart>us-health-bill</chart>
+        <topic/>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>44.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>52.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-US-House</code>
+        <name>2016 National House Race</name>
+        <chart>2016-national-house-race</chart>
+        <topic>2016-house</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Likely Voters</name>
+            <observations>1000</observations>
+            <margin_of_error>3.1</margin_of_error>
+            <responses>
+              <response>
+                <choice>Democrat</choice>
+                <value>46.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Republican</choice>
+                <value>42.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24498</id>
+    <pollster>Morning Consult</pollster>
+    <start_date>2016-05-11</start_date>
+    <end_date>2016-05-15</end_date>
+    <method>Internet</method>
+    <source>https://morningconsult.com/2016/05/poll-trump-barely-leads-trump-nationally/</source>
+    <last_updated>2016-05-17T14:50:29Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Morning Consult</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors/>
+    <questions>
+      <question>
+        <code>16-US-Pres-GE TrumpvClinton</code>
+        <name>2016 General Election: Trump vs. Clinton</name>
+        <chart>2016-general-election-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>3971</observations>
+            <margin_of_error>2.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>42.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>40.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>17.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - Democrat</name>
+            <observations>1519</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>76.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>13.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - Republican</name>
+            <observations>1217</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>11.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>76.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - independent</name>
+            <observations>1235</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>32.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>39.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>29.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-US-Pres-GE TrumpvSanders</code>
+        <name>2016 General Election: Trump vs. Sanders</name>
+        <chart>2016-general-election-trump-vs-sanders</chart>
+        <topic>2016-president</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>3971</observations>
+            <margin_of_error>2.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>50.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>37.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-US-Pres-DemPR</code>
+        <name>2016 National Democratic Primary</name>
+        <chart>2016-national-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters - Democrat</name>
+            <observations>1855</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>47.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>41.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -Pres (44) Obama - Job Approval - National</code>
+        <name>Obama Job Approval</name>
+        <chart>obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>3971</observations>
+            <margin_of_error>2.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>49.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>46.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - Democrat</name>
+            <observations>1519</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>81.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>17.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - Republican</name>
+            <observations>1217</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>17.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>80.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - independent</name>
+            <observations>1235</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>43.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>49.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -Right Direction / Wrong Track</code>
+        <name>US Right Direction Wrong Track</name>
+        <chart>us-right-direction-wrong-track</chart>
+        <topic/>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>3971</observations>
+            <margin_of_error>2.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Right Direction</choice>
+                <value>31.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wrong Track</choice>
+                <value>69.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Trump-Donald-Favorable</code>
+        <name>Donald Trump Favorable Rating</name>
+        <chart>donald-trump-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>3971</observations>
+            <margin_of_error>2.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>1 Very Favorable</choice>
+                <value>21.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>2 Somewhat Favorable</choice>
+                <value>18.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>3 Somewhat Unfavorable</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>4 Very Unfavorable</choice>
+                <value>44.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>5 Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>6 Never Heard Of</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Clinton-Hillary-Favorable</code>
+        <name>Hillary Clinton Favorable Rating</name>
+        <chart>hillary-clinton-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>3971</observations>
+            <margin_of_error>2.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>1 Very Favorable</choice>
+                <value>20.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>2 Somewhat Favorable</choice>
+                <value>20.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>3 Somewhat Unfavorable</choice>
+                <value>15.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>4 Very Unfavorable</choice>
+                <value>41.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>5 Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>6 Never Heard Of</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Sanders-Bernie-Favorable</code>
+        <name>Bernie Sanders Favorable Rating</name>
+        <chart>bernie-sanders-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>3971</observations>
+            <margin_of_error>2.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>1 Very Favorable</choice>
+                <value>22.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>2 Somewhat Favorable</choice>
+                <value>30.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>3 Somewhat Unfavorable</choice>
+                <value>17.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>4 Very Unfavorable</choice>
+                <value>23.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>5 Undecided</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>6 Never Heard Of</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-McConnell-Mitch-Favorable</code>
+        <name>Mitch McConnell Favorable Rating</name>
+        <chart>mitch-mcconnell-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>3971</observations>
+            <margin_of_error>2.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Very Favorable</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Favorable</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Unfavorable</choice>
+                <value>17.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Very Unfavorable</choice>
+                <value>22.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>21.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Never Heard Of</choice>
+                <value>24.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Ryan-Paul-Favorable</code>
+        <name>Paul Ryan Favorable Rating</name>
+        <chart>paul-ryan-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>3971</observations>
+            <margin_of_error>2.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Very Favorable</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Favorable</choice>
+                <value>26.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Unfavorable</choice>
+                <value>20.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Very Unfavorable</choice>
+                <value>18.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>16.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Never Heard Of</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Pelosi-Nancy-Favorable</code>
+        <name>Nancy Pelosi Favorable Rating</name>
+        <chart>nancy-pelosi-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>3971</observations>
+            <margin_of_error>2.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Very Favorable</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Favorable</choice>
+                <value>17.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Unfavorable</choice>
+                <value>16.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Very Unfavorable</choice>
+                <value>29.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>16.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Never Heard of</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24497</id>
+    <pollster>NBC/SurveyMonkey</pollster>
+    <start_date>2016-05-09</start_date>
+    <end_date>2016-05-15</end_date>
+    <method>Internet</method>
+    <source>http://www.nbcnews.com/politics/2016-election/hillary-clinton-holds-slim-national-lead-over-donald-trump-poll-n574901</source>
+    <last_updated>2016-05-17T14:03:29Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>SurveyMonkey </name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>NBC News</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-US-Pres-GE TrumpvClinton</code>
+        <name>2016 General Election: Trump vs. Clinton</name>
+        <chart>2016-general-election-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>12507</observations>
+            <margin_of_error>1.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>48.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>45.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No Answer</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-US-Pres-GE TrumpvSanders</code>
+        <name>2016 General Election: Trump vs. Sanders</name>
+        <chart>2016-general-election-trump-vs-sanders</chart>
+        <topic>2016-president</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>12507</observations>
+            <margin_of_error>1.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Sanders</choice>
+                <value>53.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>41.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No Answer</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-US-Pres-DemPR</code>
+        <name>2016 National Democratic Primary</name>
+        <chart>2016-national-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters - Democrat</name>
+            <observations>4348</observations>
+            <margin_of_error>2.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>54.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>40.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>5.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -Pres (44) Obama - Job Approval - National</code>
+        <name>Obama Job Approval</name>
+        <chart>obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>14100</observations>
+            <margin_of_error>1.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>51.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>48.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No Answer</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Party ID</code>
+        <name>Party Identification</name>
+        <chart>party-identification</chart>
+        <topic/>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>14100</observations>
+            <margin_of_error>1.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Republican</choice>
+                <value>28.0</value>
+                <first_name/>
+                <last_name>Republican</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Democrat</choice>
+                <value>35.0</value>
+                <first_name/>
+                <last_name>Democrat</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>independent</choice>
+                <value>35.0</value>
+                <first_name/>
+                <last_name>independent</last_name>
+                <party>ind</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No Answer</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Clinton-Hillary-Favorable</code>
+        <name>Hillary Clinton Favorable Rating</name>
+        <chart>hillary-clinton-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>14100</observations>
+            <margin_of_error>1.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Strongly Favorable </choice>
+                <value>17.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Favorable </choice>
+                <value>23.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Strongly Unfavorable</choice>
+                <value>45.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Unfavorable</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No Answer</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Sanders-Bernie-Favorable</code>
+        <name>Bernie Sanders Favorable Rating</name>
+        <chart>bernie-sanders-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>14100</observations>
+            <margin_of_error>1.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Strongly Favorable</choice>
+                <value>23.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Favorable</choice>
+                <value>33.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Unfavorable </choice>
+                <value>20.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Strongly Unfavorable</choice>
+                <value>23.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No Answer</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Trump-Donald-Favorable</code>
+        <name>Donald Trump Favorable Rating</name>
+        <chart>donald-trump-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>14100</observations>
+            <margin_of_error>1.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Strongly Favorable</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Favorable</choice>
+                <value>23.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Unfavorable</choice>
+                <value>13.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Strongly Unfavorable</choice>
+                <value>49.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No Answer</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Ryan-Paul-Favorable</code>
+        <name>Paul Ryan Favorable Rating</name>
+        <chart>paul-ryan-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>14100</observations>
+            <margin_of_error>1.2</margin_of_error>
+            <responses>
+              <response>
+                <choice>Strongly Favorable</choice>
+                <value>9.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Favorable</choice>
+                <value>33.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Somewhat Unfavorable</choice>
+                <value>33.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Strongly Unfavorable</choice>
+                <value>21.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>No Answer</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+  <poll>
+    <id>24487</id>
+    <pollster>Ipsos/Reuters</pollster>
+    <start_date>2016-05-07</start_date>
+    <end_date>2016-05-11</end_date>
+    <method>Internet</method>
+    <source>http://www.ipsos-na.com/download/pr.aspx?id=15581</source>
+    <last_updated>2016-05-14T15:49:30Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Ipsos</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>Reuters</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-US-Pres-GE TrumpvClinton</code>
+        <name>2016 General Election: Trump vs. Clinton</name>
+        <chart>2016-general-election-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1397</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>41.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>37.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Neither/Other</choice>
+                <value>14.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Not Voting</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't know/Refused</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - Democrat</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>75.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>11.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Neither/Other</choice>
+                <value>10.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Not Voting</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't know/Refused</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - Republican</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>8.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>69.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Neither/Other</choice>
+                <value>15.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Not Voting</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't know/Refused</choice>
+                <value>7.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Registered Voters - independent</name>
+            <observations nil="true"/>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>19.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Trump</choice>
+                <value>42.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Neither/Other</choice>
+                <value>28.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Not Voting</choice>
+                <value>2.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Don't know/Refused</choice>
+                <value>8.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>16-US-Pres-DemPR</code>
+        <name>2016 National Democratic Primary</name>
+        <chart>2016-national-democratic-primary</chart>
+        <topic>2016-president-dem-primary</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters - Democrat</name>
+            <observations>819</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Clinton</choice>
+                <value>56.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Sanders</choice>
+                <value>41.0</value>
+                <first_name>Bernie</first_name>
+                <last_name>Sanders</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wouldn't vote</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -Pres (44) Obama - Job Approval - National</code>
+        <name>Obama Job Approval</name>
+        <chart>obama-job-approval</chart>
+        <topic>obama-job-approval</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>1611</observations>
+            <margin_of_error>2.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>47.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>50.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Adults - Democrat</name>
+            <observations>691</observations>
+            <margin_of_error>4.3</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>70.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>20.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Adults - Republican</name>
+            <observations>622</observations>
+            <margin_of_error>4.5</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>12.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>87.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>1.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+          <subpopulation>
+            <name>Adults - independent</name>
+            <observations>176</observations>
+            <margin_of_error>8.4</margin_of_error>
+            <responses>
+              <response>
+                <choice>Approve</choice>
+                <value>42.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Disapprove</choice>
+                <value>54.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>4.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -Right Direction / Wrong Track</code>
+        <name>US Right Direction Wrong Track</name>
+        <chart>us-right-direction-wrong-track</chart>
+        <topic/>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>1611</observations>
+            <margin_of_error>2.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>Right Direction</choice>
+                <value>21.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Wrong Track</choice>
+                <value>68.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>11.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Party ID</code>
+        <name>Party Identification</name>
+        <chart>party-identification</chart>
+        <topic/>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>1611</observations>
+            <margin_of_error>2.8</margin_of_error>
+            <responses>
+              <response>
+                <choice>1 Democrat</choice>
+                <value>30.0</value>
+                <first_name/>
+                <last_name>Democrat</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>2 Lean Democrat</choice>
+                <value>6.0</value>
+                <first_name/>
+                <last_name>independent</last_name>
+                <party>ind</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>3 Lean Republican</choice>
+                <value>7.0</value>
+                <first_name/>
+                <last_name>independent</last_name>
+                <party>ind</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>4 Republican</choice>
+                <value>28.0</value>
+                <first_name/>
+                <last_name>Republican</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>5 independent</choice>
+                <value>12.0</value>
+                <first_name/>
+                <last_name>independent</last_name>
+                <party>ind</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>6 None of these</choice>
+                <value>6.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>7 Don't Know</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Clinton-Hillary-Favorable</code>
+        <name>Hillary Clinton Favorable Rating</name>
+        <chart>hillary-clinton-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1397</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Favorable</choice>
+                <value>46.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>54.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+      <question>
+        <code>00c -US-Trump-Donald-Favorable</code>
+        <name>Donald Trump Favorable Rating</name>
+        <chart>donald-trump-favorable-rating</chart>
+        <topic>favorable-ratings</topic>
+        <state>US</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Registered Voters</name>
+            <observations>1397</observations>
+            <margin_of_error nil="true"/>
+            <responses>
+              <response>
+                <choice>Favorable</choice>
+                <value>43.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Unfavorable</choice>
+                <value>57.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent>false</incumbent>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+</polls>

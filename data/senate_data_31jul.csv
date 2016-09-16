@@ -1,0 +1,16 @@
+state,dem,rep,default(positive for dem),URL_override
+AK,TBD,Murkowski,-12,
+AZ,Kirkpatrick,McCain,-4,
+CO,Bennet,Glenn,8,
+FL,Murphy,Rubio,-7,
+IA,Judge,Grassley,-8,
+IL,Duckworth,Kirk,4,
+IN,Bayh,Young,20,
+LA,TBD,TBD,-8,
+MO,Kander,Blunt,-4,
+NC,Ross,Burr,-4,
+NH,Hassan,Ayotte,0,http://elections.huffingtonpost.com/pollster/2016-new-hampshire-ayotte-vs-hassan
+NV,Cortez Masto,Heck,0,http://elections.huffingtonpost.com/pollster/2016-nevada-senate-heck-vs-cortez-mastro
+OH,Strickland,Portman,0,
+PA,McGinty,Toomey,0,
+WI,Feingold,Johnson,4,

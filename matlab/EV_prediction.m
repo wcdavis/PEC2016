@@ -1,0 +1,78 @@
+% The first three lines need to be removed, and replaced by passing the % Meta-Margin and today's date to the script.
+
+MM=metamargin; % today's Meta-Margin
+
+today=floor(now)
+N=datenum(2016,11,8)-today; % assuming date is set correctly in machine
+% MMdrift=sigmadrift;
+% maxdrift=1.8; % empirical from 2012; used it that year
+% maxdrift=6; % historical data, Eisenhower to 2012. Used this 6/1 to 8/19
+maxdrift=3; % in between. Similar to what it was in 1996-2012
+MMdrift=min(0.4*sqrt(N),maxdrift);
+MMdrift=real(max(MMdrift,0.5)); % just in case something is screwy like N<0
+
+% cover range of +/-4 sigma
+Mrange=[MM-4*MMdrift:0.02:MM+4*MMdrift];
+
+% What is near-term drift starting from conditions now?
+now=tpdf((Mrange-MM)/MMdrift,3); % long-tailed distribution. you never know.
+now=now/sum(now);
+
+% What was long-term prediction? (the prior)
+M2016=mean_MM('EV_estimate_history.csv',3.5); % starting 8/19, calculate this from time series for 2016
+M2016SD=6; % parameters of long-term prediction; would September be a good time to start to use actual SD of MM?
+prior=tpdf((Mrange-M2016)/M2016SD,1); %make it really long-tailed, df=1
+prior=prior/sum(prior);
+
+% Combine to make prediction
+pred=now.*prior; % All hail Reverend Bayes
+pred=pred/sum(pred);
+
+
+plot(Mrange,now,'-k') % drift from today
+hold on
+plot(Mrange,prior,'-g') % the prior
+plot(Mrange,pred,'-r') % the prediction
+grid on
+
+% Define mean and error bands for prediction
+predictmean=sum(pred.*Mrange)/sum(pred)
+for i=1:length(Mrange)
+   cumulpredict(i)=sum(pred(1:i));
+end
+Msig1lo=Mrange(min(find(cumulpredict>normcdf(-1,0,1))))
+Msig1hi=Mrange(min(find(cumulpredict>normcdf(+1,0,1))))
+Msig2lo=Mrange(min(find(cumulpredict>normcdf(-2,0,1))))
+Msig2hi=Mrange(min(find(cumulpredict>normcdf(+2,0,1))))
+
+% Now convert to EV using data from mid-August 2012 and some added points at the
+% ends. If the race swings far, these endpoints need to be re-evaluated.
+%mmf=[-9.5 -4.5 -3.5 -2.5 -1.5 -0.5 0.5 1.5 2.5  3.5 4.5 5.5 6.5 7.5 8.5 9.5 10.5 11.5 12.5 13.5 14.5 15.5 16.5 20];
+%evf=[136  198   214  228  244  261 278 294 309  319 332 341 347 356 367 373 384 394 406 422 439 452 461 480];
+EV_MM_table=load('EV_MM_table.csv');
+mmf=EV_MM_table(:,1);
+evf=EV_MM_table(:,2);
+[mmf,ia,ic]=unique(mmf);
+evf=evf(ia);
+bands = interp1(mmf,evf,[predictmean Msig1lo Msig1hi Msig2lo Msig2hi],'linear');
+bands = round(bands)
+ev_prediction = bands(1);
+ev_1sig_low = bands(2);
+ev_1sig_hi = bands(3);
+ev_2sig_lo = bands(4);
+ev_2sig_hi = bands(5);
+
+bayesian_winprob=sum(pred(find(Mrange>=0)))/sum(pred)
+drift_winprob=tcdf(MM/MMdrift,3)
+
+%% write to csv for plotter scripts
+outputs = [ ev_1sig_low ev_1sig_hi ev_2sig_lo ev_2sig_hi ];
+dlmwrite('EV_prediction.csv', outputs)
+
+%% write probabilities to csv
+outputs = [ bayesian_winprob drift_winprob ];
+dlmwrite('EV_prediction_probs.csv', outputs)
+
+%% write meta-margin prediction to csv for plotter scripts
+outputs = [ Msig1lo Msig1hi Msig2lo Msig2hi ];
+dlmwrite('EV_prediction_MM.csv', outputs)

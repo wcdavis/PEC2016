@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?><polls>
+  <poll>
+    <id>22646</id>
+    <pollster>Dan Jones &amp; Associates/UtahPolicy.com</pollster>
+    <start_date>2015-08-07</start_date>
+    <end_date>2015-08-14</end_date>
+    <method>Live Phone/Online</method>
+    <source>http://utahpolicy.com/index.php/features/today-at-utah-policy/6850-</source>
+    <last_updated>2015-09-01T21:43:52Z</last_updated>
+    <partisan>Nonpartisan</partisan>
+    <affiliation>None</affiliation>
+    <survey_houses>
+      <survey_house>
+        <name>Dan Jones</name>
+        <party>N/A</party>
+      </survey_house>
+    </survey_houses>
+    <sponsors>
+      <sponsor>
+        <name>UtahPolicy.com</name>
+        <party>N/A</party>
+      </sponsor>
+    </sponsors>
+    <questions>
+      <question>
+        <code>16-UT-Pres-GE TrumpvClinton</code>
+        <name>2016 Utah President: Trump vs. Clinton</name>
+        <chart>2016-utah-president-trump-vs-clinton</chart>
+        <topic>2016-president</topic>
+        <state>UT</state>
+        <subpopulations>
+          <subpopulation>
+            <name>Adults</name>
+            <observations>500</observations>
+            <margin_of_error>5.0</margin_of_error>
+            <responses>
+              <response>
+                <choice>Trump</choice>
+                <value>38.0</value>
+                <first_name>Donald</first_name>
+                <last_name>Trump</last_name>
+                <party>Rep</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Clinton</choice>
+                <value>29.0</value>
+                <first_name>Hillary</first_name>
+                <last_name>Clinton</last_name>
+                <party>Dem</party>
+                <incumbent>false</incumbent>
+              </response>
+              <response>
+                <choice>Other</choice>
+                <value>29.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+              <response>
+                <choice>Undecided</choice>
+                <value>3.0</value>
+                <first_name nil="true"/>
+                <last_name nil="true"/>
+                <party nil="true"/>
+                <incumbent nil="true"/>
+              </response>
+            </responses>
+          </subpopulation>
+        </subpopulations>
+      </question>
+    </questions>
+  </poll>
+</polls>

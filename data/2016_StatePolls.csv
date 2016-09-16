@@ -1,0 +1,557 @@
+State,pollster,pop,vtype,method,begmm,begdd,begyy,endmm,enddd,endyy,trump,clinton,other,undecided,Begdate,Enddate,Middate
+CO,"Magellan (R)",500,"Likely Voters","Live Phone",8,29,2016,8,31,2016,36.0,41.0,,5.0,8/29/2016,8/31/2016,8/30/2016
+CO,"Washington Post/SurveyMonkey",2428,"Registered Voters","Internet",8,9,2016,9,1,2016,44.0,46.0,,,8/9/2016,9/1/2016,8/20/2016
+CO,"Washington Post/SurveyMonkey",2428,"Registered Voters","Internet",8,9,2016,9,1,2016,37.0,37.0,,,8/9/2016,9/1/2016,8/20/2016
+CO,"Quinnipiac",830,"Likely Voters","Live Phone",8,9,2016,8,16,2016,39.0,49.0,,,8/9/2016,8/16/2016,8/12/2016
+CO,"Quinnipiac",830,"Likely Voters","Live Phone",8,9,2016,8,16,2016,33.0,41.0,,,8/9/2016,8/16/2016,8/12/2016
+CO,"NBC/WSJ/Marist",899,"Registered Voters","Live Phone",8,4,2016,8,10,2016,32.0,46.0,1.0,6.0,8/4/2016,8/10/2016,8/7/2016
+CO,"NBC/WSJ/Marist",899,"Registered Voters","Live Phone",8,4,2016,8,10,2016,29.0,41.0,1.0,8.0,8/4/2016,8/10/2016,8/7/2016
+CO,"NBC/WSJ/Marist",794,"Registered Voters","Live Phone",7,5,2016,7,11,2016,35.0,43.0,4.0,5.0,7/5/2016,7/11/2016,7/8/2016
+CO,"NBC/WSJ/Marist",794,"Registered Voters","Live Phone",7,5,2016,7,11,2016,33.0,39.0,3.0,9.0,7/5/2016,7/11/2016,7/8/2016
+CO,"Gravis Marketing",1313,"Registered Voters","Automated Phone",7,7,2016,7,8,2016,41.0,43.0,16.0,,7/7/2016,7/8/2016,7/7/2016
+CO,"Gravis Marketing",1313,"Registered Voters","Automated Phone",7,7,2016,7,8,2016,38.0,39.0,10.0,,7/7/2016,7/8/2016,7/7/2016
+CO,"FOX",600,"Registered Voters","Live Phone",7,9,2016,7,12,2016,34.0,44.0,11.0,,7/9/2016,7/12/2016,7/10/2016
+CO,"FOX",600,"Registered Voters","Live Phone",7,9,2016,7,12,2016,28.0,37.0,4.0,,7/9/2016,7/12/2016,7/10/2016
+CO,"Monmouth University",404,"Likely Voters","Live Phone",7,9,2016,7,12,2016,35.0,48.0,3.0,7.0,7/9/2016,7/12/2016,7/10/2016
+CO,"Harper (R)",500,"Likely Voters","IVR/Live Phone",7,7,2016,7,9,2016,38.0,45.0,,4.0,7/7/2016,7/9/2016,7/8/2016
+CO,"CBS/YouGov",996,"Likely Voters","Internet",6,21,2016,6,24,2016,39.0,40.0,,,6/21/2016,6/24/2016,6/22/2016
+WA,"Washington Post/SurveyMonkey",722,"Registered Voters","Internet",8,9,2016,9,1,2016,37.0,53.0,,,8/9/2016,9/1/2016,8/20/2016
+WA,"Washington Post/SurveyMonkey",722,"Registered Voters","Internet",8,9,2016,9,1,2016,31.0,41.0,,,8/9/2016,9/1/2016,8/20/2016
+WA,"Elway",500,"Registered Voters","Live Phone",8,9,2016,8,13,2016,24.0,43.0,,16.0,8/9/2016,8/13/2016,8/11/2016
+WA,"PPP (D-Northwest Progressive Institute)",679,"Likely Voters","Automated Phone",6,14,2016,6,15,2016,37.0,49.0,,13.0,6/14/2016,6/15/2016,6/14/2016
+TN,"Washington Post/SurveyMonkey",1021,"Registered Voters","Internet",8,9,2016,9,1,2016,55.0,37.0,,,8/9/2016,9/1/2016,8/20/2016
+TN,"Washington Post/SurveyMonkey",1021,"Registered Voters","Internet",8,9,2016,9,1,2016,51.0,31.0,,,8/9/2016,9/1/2016,8/20/2016
+TN,"Vanderbit/PSRA",1001,"Registered Voters","Live Phone",4,25,2016,5,11,2016,44.0,35.0,2.0,4.0,4/25/2016,5/11/2016,5/3/2016
+NV,"Monmouth University",406,"Likely Voters","Live Phone",9,11,2016,9,13,2016,44.0,42.0,1.0,3.0,9/11/2016,9/13/2016,9/12/2016
+NV,"PPP (D)/PNA",815,"Likely Voters","IVR/Online",9,6,2016,9,7,2016,42.0,45.0,,13.0,9/6/2016,9/7/2016,9/6/2016
+NV,"NBC/WSJ/Marist",627,"Likely Voters","Live Phone",9,6,2016,9,8,2016,44.0,45.0,1.0,3.0,9/6/2016,9/8/2016,9/7/2016
+NV,"NBC/WSJ/Marist",627,"Likely Voters","Live Phone",9,6,2016,9,8,2016,42.0,41.0,1.0,4.0,9/6/2016,9/8/2016,9/7/2016
+NV,"Washington Post/SurveyMonkey",2776,"Registered Voters","Internet",8,9,2016,9,1,2016,43.0,48.0,,,8/9/2016,9/1/2016,8/20/2016
+NV,"Washington Post/SurveyMonkey",2776,"Registered Voters","Internet",8,9,2016,9,1,2016,37.0,40.0,,,8/9/2016,9/1/2016,8/20/2016
+NV,"Suffolk",500,"Likely Voters","Live Phone",8,15,2016,8,17,2016,42.0,44.0,,5.0,8/15/2016,8/17/2016,8/16/2016
+NV,"CBS/YouGov",993,"Likely Voters","Internet",8,2,2016,8,5,2016,41.0,43.0,,,8/2/2016,8/5/2016,8/3/2016
+NV,"Rasmussen/KTNV",750,"Likely Voters","IVR/Online",7,29,2016,7,31,2016,40.0,41.0,,,7/29/2016,7/31/2016,7/30/2016
+NV,"Rasmussen/KTNV",750,"Likely Voters","IVR/Online",7,22,2016,7,24,2016,43.0,38.0,,,7/22/2016,7/24/2016,7/23/2016
+NV,"Gravis Marketing",1637,"Registered Voters","Automated Phone",5,24,2016,5,25,2016,47.0,42.0,11.0,,5/24/2016,5/25/2016,5/24/2016
+NV,"Gravis Marketing",1637,"Registered Voters","Automated Phone",5,24,2016,5,25,2016,44.0,41.0,8.0,,5/24/2016,5/25/2016,5/24/2016
+NV,"Monmouth University",408,"Likely Voters","Live Phone",7,7,2016,7,10,2016,41.0,45.0,,4.0,7/7/2016,7/10/2016,7/8/2016
+NV,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,47.0,45.0,4.0,,6/11/2016,6/20/2016,6/15/2016
+NV,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,44.0,44.0,1.0,,6/11/2016,6/20/2016,6/15/2016
+ME,"SurveyUSA/Boston Globe/Colby College",779,"Likely Voters","IVR/Online",9,4,2016,9,10,2016,39.0,42.0,,5.0,9/4/2016,9/10/2016,9/7/2016
+ME,"MPRC",841,"Likely Voters","IVR/Online",8,17,2016,8,20,2016,32.0,42.0,,13.0,8/17/2016,8/20/2016,8/18/2016
+ME,"MPRC",841,"Likely Voters","IVR/Online",8,17,2016,8,20,2016,37.0,48.0,,15.0,8/17/2016,8/20/2016,8/18/2016
+ME,"Washington Post/SurveyMonkey",715,"Registered Voters","Internet",8,9,2016,9,1,2016,39.0,47.0,,,8/9/2016,9/1/2016,8/20/2016
+ME,"Washington Post/SurveyMonkey",715,"Registered Voters","Internet",8,9,2016,9,1,2016,34.0,37.0,,,8/9/2016,9/1/2016,8/20/2016
+ME,"Gravis Marketing",2046,"Registered Voters","IVR/Online",8,4,2016,8,8,2016,36.0,46.0,17.0,,8/4/2016,8/8/2016,8/6/2016
+ME,"Gravis Marketing",2046,"Registered Voters","IVR/Online",8,4,2016,8,8,2016,33.0,43.0,9.0,,8/4/2016,8/8/2016,8/6/2016
+ME,"UNH/Portland Press Herald/Maine Sunday Telegram",469,"Likely Voters","Live Phone",6,15,2016,6,21,2016,35.0,42.0,19.0,4.0,6/15/2016,6/21/2016,6/18/2016
+MS,"Washington Post/SurveyMonkey",823,"Registered Voters","Internet",8,9,2016,9,1,2016,48.0,46.0,,,8/9/2016,9/1/2016,8/20/2016
+MS,"Washington Post/SurveyMonkey",823,"Registered Voters","Internet",8,9,2016,9,1,2016,46.0,43.0,,,8/9/2016,9/1/2016,8/20/2016
+MS,"Mason-Dixon",625,"Registered Voters","Live Phone",3,28,2016,3,30,2016,46.0,43.0,,11.0,3/28/2016,3/30/2016,3/29/2016
+WY,"Washington Post/SurveyMonkey",727,"Registered Voters","Internet",8,9,2016,9,1,2016,65.0,27.0,,,8/9/2016,9/1/2016,8/20/2016
+WY,"Washington Post/SurveyMonkey",727,"Registered Voters","Internet",8,9,2016,9,1,2016,57.0,21.0,,,8/9/2016,9/1/2016,8/20/2016
+MN,"Washington Post/SurveyMonkey",2054,"Registered Voters","Internet",8,9,2016,9,1,2016,40.0,49.0,,,8/9/2016,9/1/2016,8/20/2016
+MN,"Washington Post/SurveyMonkey",2054,"Registered Voters","Internet",8,9,2016,9,1,2016,34.0,41.0,,,8/9/2016,9/1/2016,8/20/2016
+MN,"Mason-Dixon/Star Tribune",800,"Registered Voters","Live Phone",1,18,2016,1,20,2016,38.0,43.0,,19.0,1/18/2016,1/20/2016,1/19/2016
+IN,"Washington Post/SurveyMonkey",2294,"Registered Voters","Internet",8,9,2016,9,1,2016,52.0,37.0,,,8/9/2016,9/1/2016,8/20/2016
+IN,"Washington Post/SurveyMonkey",2294,"Registered Voters","Internet",8,9,2016,9,1,2016,46.0,30.0,,,8/9/2016,9/1/2016,8/20/2016
+IN,"Monmouth University",403,"Likely Voters","Live Phone",8,13,2016,8,16,2016,47.0,36.0,1.0,5.0,8/13/2016,8/16/2016,8/14/2016
+IN,"POS (R)/HPI/WTHR",500,"Likely Voters","Live Phone",4,18,2016,4,21,2016,47.0,39.0,,14.0,4/18/2016,4/21/2016,4/19/2016
+IN,"NBC/WSJ/Marist",2149,"Registered Voters","Live Phone",4,26,2016,4,28,2016,48.0,41.0,,11.0,4/26/2016,4/28/2016,4/27/2016
+MD,"Baltimore Sun/University of Baltimore/OpinionWorks",756,"Likely Voters","Live Phone",8,18,2016,8,30,2016,25.0,54.0,,12.0,8/18/2016,8/30/2016,8/24/2016
+MD,"Washington Post/SurveyMonkey",1199,"Registered Voters","Internet",8,9,2016,9,1,2016,31.0,61.0,,,8/9/2016,9/1/2016,8/20/2016
+MD,"Washington Post/SurveyMonkey",1199,"Registered Voters","Internet",8,9,2016,9,1,2016,27.0,54.0,,,8/9/2016,9/1/2016,8/20/2016
+MD,"PPP (D)",879,"Likely Voters","IVR/Online",4,15,2016,4,17,2016,28.0,61.0,,11.0,4/15/2016,4/17/2016,4/16/2016
+MD,"NBC4/Marist",2563,"Registered Voters","Live Phone",4,5,2016,4,9,2016,27.0,63.0,,10.0,4/5/2016,4/9/2016,4/7/2016
+MD,"Washington Post/University of Maryland",1,"Registered Voters","Live Phone",3,30,2016,4,3,2016,28.0,63.0,1.0,,3/30/2016,4/3/2016,4/1/2016
+LA,"Anzalone (D-Democrats For Education Reform)",605,"Likely Voters","Live Phone",8,29,2016,9,1,2016,46.0,40.0,1.0,6.0,8/29/2016,9/1/2016,8/30/2016
+LA,"Washington Post/SurveyMonkey",871,"Registered Voters","Internet",8,9,2016,9,1,2016,53.0,38.0,,,8/9/2016,9/1/2016,8/20/2016
+LA,"Washington Post/SurveyMonkey",871,"Registered Voters","Internet",8,9,2016,9,1,2016,49.0,33.0,,,8/9/2016,9/1/2016,8/20/2016
+LA,"JMC Analytics and Polling (R)",624,"Likely Voters","Automated Phone",5,5,2016,5,6,2016,52.0,36.0,4.0,8.0,5/5/2016,5/6/2016,5/5/2016
+TX,"Texas Lyceum",502,"Likely Voters","Live Phone",9,1,2016,9,11,2016,42.0,36.0,,,9/1/2016,9/11/2016,9/6/2016
+TX,"Texas Lyceum",502,"Likely Voters","Live Phone",9,1,2016,9,11,2016,39.0,32.0,,,9/1/2016,9/11/2016,9/6/2016
+TX,"Washington Post/SurveyMonkey",5147,"Registered Voters","Internet",8,9,2016,9,1,2016,45.0,46.0,,,8/9/2016,9/1/2016,8/20/2016
+TX,"Washington Post/SurveyMonkey",5147,"Registered Voters","Internet",8,9,2016,9,1,2016,40.0,40.0,,,8/9/2016,9/1/2016,8/20/2016
+TX,"Dixie Strategies (R)/KTVT-CBS 11",1018,"Likely Voters","IVR/Live Phone",8,8,2016,8,9,2016,46.0,36.0,,9.0,8/8/2016,8/9/2016,8/8/2016
+TX,"PPP (D)",944,"Likely Voters","IVR/Online",8,12,2016,8,14,2016,44.0,38.0,,10.0,8/12/2016,8/14/2016,8/13/2016
+TX,"PPP (D)",944,"Likely Voters","IVR/Online",8,12,2016,8,14,2016,50.0,44.0,,,8/12/2016,8/14/2016,8/13/2016
+TX,"YouGov/University of Texas/Texas Tribune",1200,"Registered Voters","Internet",6,10,2016,6,19,2016,41.0,33.0,19.0,8.0,6/10/2016,6/19/2016,6/14/2016
+IA,"Monmouth University",404,"Likely Voters","Live Phone",9,12,2016,9,14,2016,45.0,37.0,2.0,6.0,9/12/2016,9/14/2016,9/13/2016
+IA,"RABA Research/Simpson",1054,"Likely Voters","IVR/Online",9,6,2016,9,8,2016,40.0,39.0,,,9/6/2016,9/8/2016,9/7/2016
+IA,"RABA Research/Simpson",1054,"Likely Voters","IVR/Online",9,6,2016,9,8,2016,43.0,42.0,,,9/6/2016,9/8/2016,9/7/2016
+IA,"PPP (D-Constitutional Responsibility Project)",827,"Likely Voters","IVR/Online",8,30,2016,8,31,2016,43.0,45.0,,12.0,8/30/2016,8/31/2016,8/30/2016
+IA,"Washington Post/SurveyMonkey",1875,"Registered Voters","Internet",8,9,2016,9,1,2016,46.0,42.0,,,8/9/2016,9/1/2016,8/20/2016
+IA,"Washington Post/SurveyMonkey",1875,"Registered Voters","Internet",8,9,2016,9,1,2016,40.0,36.0,,,8/9/2016,9/1/2016,8/20/2016
+IA,"CBS/YouGov",987,"Likely Voters","Internet",8,17,2016,8,19,2016,40.0,40.0,,,8/17/2016,8/19/2016,8/18/2016
+IA,"Quinnipiac",846,"Likely Voters","Live Phone",8,9,2016,8,16,2016,44.0,47.0,,,8/9/2016,8/16/2016,8/12/2016
+IA,"Quinnipiac",846,"Likely Voters","Live Phone",8,9,2016,8,16,2016,39.0,41.0,,,8/9/2016,8/16/2016,8/12/2016
+IA,"Suffolk",500,"Likely Voters","Live Phone",8,8,2016,8,10,2016,41.0,40.0,,17.0,8/8/2016,8/10/2016,8/9/2016
+IA,"Suffolk",500,"Likely Voters","Live Phone",8,8,2016,8,10,2016,37.0,36.0,,17.0,8/8/2016,8/10/2016,8/9/2016
+IA,"NBC/WSJ/Marist",899,"Registered Voters","Live Phone",8,3,2016,8,7,2016,37.0,41.0,2.0,9.0,8/3/2016,8/7/2016,8/5/2016
+IA,"NBC/WSJ/Marist",899,"Registered Voters","Live Phone",8,3,2016,8,7,2016,35.0,35.0,2.0,10.0,8/3/2016,8/7/2016,8/5/2016
+IA,"CBS/YouGov",998,"Likely Voters","Internet",7,13,2016,7,15,2016,40.0,39.0,,,7/13/2016,7/15/2016,7/14/2016
+IA,"Gravis Marketing",1318,"Registered Voters","Automated Phone",7,7,2016,7,8,2016,40.0,42.0,18.0,,7/7/2016,7/8/2016,7/7/2016
+IA,"Gravis Marketing",1318,"Registered Voters","Automated Phone",7,7,2016,7,8,2016,37.0,39.0,14.0,,7/7/2016,7/8/2016,7/7/2016
+IA,"NBC/WSJ/Marist",822,"Registered Voters","Live Phone",7,5,2016,7,10,2016,39.0,42.0,1.0,8.0,7/5/2016,7/10/2016,7/7/2016
+IA,"Monmouth University",401,"Likely Voters","Live Phone",7,8,2016,7,11,2016,44.0,42.0,2.0,6.0,7/8/2016,7/11/2016,7/9/2016
+IA,"Loras College",600,"Likely Voters","Live Phone",6,24,2016,6,28,2016,34.0,48.0,4.0,11.0,6/24/2016,6/28/2016,6/26/2016
+IA,"Loras College",600,"Likely Voters","Live Phone",6,24,2016,6,28,2016,30.0,44.0,,15.0,6/24/2016,6/28/2016,6/26/2016
+IA,"PPP (D-Americans United for Change/Constitutional Responsibility Project) ",897,"Likely Voters","IVR/Online",6,22,2016,6,23,2016,39.0,41.0,,20.0,6/22/2016,6/23/2016,6/22/2016
+IA,"PPP (D-Constitutional Responsibility Project)",630,"Likely Voters","Automated Phone",6,9,2016,6,13,2016,41.0,44.0,,15.0,6/9/2016,6/13/2016,6/11/2016
+IA,"NBC/WSJ/Marist",1470,"Registered Voters","Live Phone",1,2,2016,1,7,2016,40.0,48.0,,12.0,1/2/2016,1/7/2016,1/4/2016
+MI,"EPIC-MRA/Detroit Free Press/WXYZ-TV ",600,"Likely Voters","Live Phone",9,10,2016,9,13,2016,38.0,42.0,,17.0,9/10/2016,9/13/2016,9/11/2016
+MI,"EPIC-MRA/Detroit Free Press/WXYZ-TV ",600,"Likely Voters","Live Phone",9,10,2016,9,13,2016,35.0,38.0,,13.0,9/10/2016,9/13/2016,9/11/2016
+MI,"Washington Post/SurveyMonkey",2428,"Registered Voters","Internet",8,9,2016,9,1,2016,44.0,46.0,,,8/9/2016,9/1/2016,8/20/2016
+MI,"Washington Post/SurveyMonkey",2428,"Registered Voters","Internet",8,9,2016,9,1,2016,38.0,39.0,,,8/9/2016,9/1/2016,8/20/2016
+MI,"Suffolk",500,"Likely Voters","Live Phone",8,22,2016,8,24,2016,37.0,44.0,,10.0,8/22/2016,8/24/2016,8/23/2016
+MI,"EPIC-MRA/Detroit Free Press/WXYZ-TV ",600,"Likely Voters","Live Phone",7,30,2016,8,4,2016,36.0,46.0,,17.0,7/30/2016,8/4/2016,8/1/2016
+MI,"EPIC-MRA/Detroit Free Press/WXYZ-TV ",600,"Likely Voters","Live Phone",7,30,2016,8,4,2016,32.0,43.0,,14.0,7/30/2016,8/4/2016,8/1/2016
+MI,"Glengariff/Detroit News/WDIV",600,"Likely Voters","Live Phone",7,30,2016,8,1,2016,32.0,41.0,1.0,14.0,7/30/2016,8/1/2016,7/31/2016
+MI,"Mitchell Research (R)/Fox 2 Detroit/(MAHP)",600,"Likely Voters","IVR/Live Phone",7,5,2016,7,11,2016,34.0,40.0,,27.0,7/5/2016,7/11/2016,7/8/2016
+MI,"Marketing Resource Group (R)",800,"Likely Voters","Live Phone",7,11,2016,7,15,2016,29.0,34.0,23.0,,7/11/2016,7/15/2016,7/13/2016
+MI,"CBS/YouGov",1201,"Likely Voters","Internet",7,13,2016,7,15,2016,39.0,42.0,,,7/13/2016,7/15/2016,7/14/2016
+MI,"Gravis Marketing",1562,"Registered Voters","Automated Phone",7,7,2016,7,8,2016,41.0,48.0,11.0,,7/7/2016,7/8/2016,7/7/2016
+MI,"Gravis Marketing",1562,"Registered Voters","Automated Phone",7,7,2016,7,8,2016,34.0,37.0,26.0,,7/7/2016,7/8/2016,7/7/2016
+MI,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,39.0,50.0,6.0,,6/11/2016,6/20/2016,6/15/2016
+MI,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,33.0,48.0,3.0,,6/11/2016,6/20/2016,6/15/2016
+MI,"Glengariff/Detroit News/WDIV",600,"Likely Voters","Live Phone",5,24,2016,5,26,2016,39.0,43.0,4.0,12.0,5/24/2016,5/26/2016,5/25/2016
+MI,"Glengariff/Detroit News/WDIV",600,"Likely Voters","Live Phone",5,24,2016,5,26,2016,33.0,37.0,2.0,,5/24/2016,5/26/2016,5/25/2016
+MI,"EPIC-MRA/Detroit Free Press/WXYZ-TV ",600,"Likely Voters","Live Phone",3,19,2016,3,22,2016,37.0,47.0,,16.0,3/19/2016,3/22/2016,3/20/2016
+MI,"SurveyUSA",904,"Likely Voters","IVR/Online",3,23,2016,3,24,2016,38.0,49.0,,13.0,3/23/2016,3/24/2016,3/23/2016
+MI,"NBC/WSJ/Marist",2229,"Registered Voters","Live Phone",3,1,2016,3,3,2016,36.0,52.0,,13.0,3/1/2016,3/3/2016,3/2/2016
+MI,"Marketing Resource Group (R)",600,"Likely Voters","Live Phone",2,22,2016,2,27,2016,39.0,44.0,4.0,5.0,2/22/2016,2/27/2016,2/24/2016
+UT,"Washington Post/SurveyMonkey",722,"Registered Voters","Internet",8,9,2016,9,1,2016,46.0,35.0,,,8/9/2016,9/1/2016,8/20/2016
+UT,"Washington Post/SurveyMonkey",722,"Registered Voters","Internet",8,9,2016,9,1,2016,34.0,27.0,,,8/9/2016,9/1/2016,8/20/2016
+UT,"PPP (D)",1018,"Likely Voters","IVR/Online",8,19,2016,8,21,2016,39.0,24.0,,14.0,8/19/2016,8/21/2016,8/20/2016
+UT,"PPP (D)",1018,"Likely Voters","IVR/Online",8,19,2016,8,21,2016,53.0,33.0,,,8/19/2016,8/21/2016,8/20/2016
+UT,"Dan Jones & Associates/UtahPolicy.com",858,"Likely Voters","Live Phone/Online",7,18,2016,8,4,2016,37.0,25.0,14.0,,7/18/2016,8/4/2016,7/26/2016
+UT,"Dan Jones & Associates/UtahPolicy.com",614,"Registered Voters","Live Phone/Online",6,8,2016,6,17,2016,36.0,27.0,18.0,8.0,6/8/2016,6/17/2016,6/12/2016
+UT,"SurveyUSA/Salt Lake Tribune/Hinckley Institute",1238,"Likely Voters","IVR/Online",6,2,2016,6,8,2016,35.0,35.0,,16.0,6/2/2016,6/8/2016,6/5/2016
+UT,"Gravis Marketing",1519,"Registered Voters","Automated Phone",5,31,2016,6,1,2016,36.0,29.0,35.0,,5/31/2016,6/1/2016,5/31/2016
+UT,"Gravis Marketing",1519,"Registered Voters","Automated Phone",5,31,2016,6,1,2016,29.0,26.0,29.0,,5/31/2016,6/1/2016,5/31/2016
+UT,"Dan Jones & Associates/Deseret News/KSL",500,"Likely Voters","Live Phone/Online",3,8,2016,3,15,2016,36.0,38.0,,8.0,3/8/2016,3/15/2016,3/11/2016
+UT,"Dan Jones & Associates/UtahPolicy.com",588,"Registered Voters","Live Phone/Online",5,2,2016,5,10,2016,43.0,30.0,,26.0,5/2/2016,5/10/2016,5/6/2016
+UT,"Dan Jones & Associates/UtahPolicy.com",600,"Registered Voters","Live Phone/Online",3,23,2016,4,5,2016,38.0,38.0,,25.0,3/23/2016,4/5/2016,3/29/2016
+VA,"University of Mary Washington/PSRAI",685,"Likely Voters","Live Phone",9,6,2016,9,12,2016,37.0,40.0,1.0,,9/6/2016,9/12/2016,9/9/2016
+VA,"PPP (D)",878,"Likely Voters","IVR/Online",9,9,2016,9,11,2016,39.0,45.0,,8.0,9/9/2016,9/11/2016,9/10/2016
+VA,"PPP (D)",878,"Likely Voters","IVR/Online",9,9,2016,9,11,2016,42.0,50.0,,,9/9/2016,9/11/2016,9/10/2016
+VA,"Washington Post/SurveyMonkey",2468,"Registered Voters","Internet",8,9,2016,9,1,2016,41.0,49.0,,,8/9/2016,9/1/2016,8/20/2016
+VA,"Washington Post/SurveyMonkey",2468,"Registered Voters","Internet",8,9,2016,9,1,2016,36.0,43.0,,,8/9/2016,9/1/2016,8/20/2016
+VA,"Hampton University",801,"Likely Voters","Live Phone",8,24,2016,8,28,2016,41.0,43.0,,,8/24/2016,8/28/2016,8/26/2016
+VA,"Roanoke College",803,"Likely Voters","Live Phone",8,7,2016,8,17,2016,32.0,48.0,,9.0,8/7/2016,8/17/2016,8/12/2016
+VA,"Roanoke College",803,"Likely Voters","Live Phone",8,7,2016,8,17,2016,36.0,55.0,,,8/7/2016,8/17/2016,8/12/2016
+VA,"Quinnipiac",808,"Likely Voters","Live Phone",8,9,2016,8,16,2016,38.0,50.0,,,8/9/2016,8/16/2016,8/12/2016
+VA,"Quinnipiac",808,"Likely Voters","Live Phone",8,9,2016,8,16,2016,34.0,45.0,,,8/9/2016,8/16/2016,8/12/2016
+VA,"Washington Post",707,"Likely Voters","Live Phone",8,11,2016,8,14,2016,43.0,51.0,1.0,,8/11/2016,8/14/2016,8/12/2016
+VA,"Washington Post",707,"Likely Voters","Live Phone",8,11,2016,8,14,2016,39.0,46.0,1.0,,8/11/2016,8/14/2016,8/12/2016
+VA,"NBC/WSJ/Marist",897,"Registered Voters","Live Phone",8,4,2016,8,10,2016,33.0,46.0,1.0,9.0,8/4/2016,8/10/2016,8/7/2016
+VA,"NBC/WSJ/Marist",897,"Registered Voters","Live Phone",8,4,2016,8,10,2016,31.0,43.0,1.0,9.0,8/4/2016,8/10/2016,8/7/2016
+VA,"CBS/YouGov",1181,"Likely Voters","Internet",8,2,2016,8,5,2016,37.0,49.0,,,8/2/2016,8/5/2016,8/3/2016
+VA,"RABA Research",655,"Registered Voters","Automated Phone",7,26,2016,7,27,2016,46.0,42.0,,,7/26/2016,7/27/2016,7/26/2016
+VA,"Hampton University",805,"Likely Voters","Live Phone",7,6,2016,7,10,2016,39.0,39.0,,,7/6/2016,7/10/2016,7/8/2016
+VA,"NBC/WSJ/Marist",876,"Registered Voters","Live Phone",7,5,2016,7,11,2016,35.0,44.0,2.0,7.0,7/5/2016,7/11/2016,7/8/2016
+VA,"NBC/WSJ/Marist",876,"Registered Voters","Live Phone",7,5,2016,7,11,2016,34.0,41.0,2.0,10.0,7/5/2016,7/11/2016,7/8/2016
+VA,"FOX",601,"Registered Voters","Live Phone",7,9,2016,7,12,2016,37.0,44.0,6.0,,7/9/2016,7/12/2016,7/10/2016
+VA,"FOX",601,"Registered Voters","Live Phone",7,9,2016,7,12,2016,34.0,39.0,2.0,,7/9/2016,7/12/2016,7/10/2016
+VA,"PPP (D)",1032,"Likely Voters","IVR/Online",6,13,2016,6,15,2016,39.0,42.0,,10.0,6/13/2016,6/15/2016,6/14/2016
+VA,"PPP (D)",1032,"Likely Voters","IVR/Online",6,13,2016,6,15,2016,45.0,48.0,,,6/13/2016,6/15/2016,6/14/2016
+VA,"Gravis Marketing",1728,"Registered Voters","Automated Phone",5,24,2016,5,24,2016,41.0,45.0,14.0,,5/24/2016,5/24/2016,5/24/2016
+VA,"Gravis Marketing",1728,"Registered Voters","Automated Phone",5,24,2016,5,24,2016,38.0,44.0,12.0,,5/24/2016,5/24/2016,5/24/2016
+VA,"Roanoke College",610,"Likely Voters","Live Phone",5,9,2016,5,17,2016,38.0,38.0,11.0,11.0,5/9/2016,5/17/2016,5/13/2016
+VA,"Christopher Newport",1102,"Likely Voters","Live Phone",3,23,2016,4,3,2016,35.0,44.0,,7.0,3/23/2016,4/3/2016,3/28/2016
+VA,"Roanoke College",524,"Likely Voters","Live Phone",1,18,2016,1,26,2016,35.0,52.0,,13.0,1/18/2016,1/26/2016,1/22/2016
+NY,"Washington Post/SurveyMonkey",1405,"Registered Voters","Internet",8,9,2016,9,1,2016,35.0,57.0,,,8/9/2016,9/1/2016,8/20/2016
+NY,"Washington Post/SurveyMonkey",1405,"Registered Voters","Internet",8,9,2016,9,1,2016,31.0,51.0,,,8/9/2016,9/1/2016,8/20/2016
+NY,"Siena",717,"Registered Voters","Live Phone",8,7,2016,8,10,2016,27.0,57.0,,,8/7/2016,8/10/2016,8/8/2016
+NY,"Siena",717,"Registered Voters","Live Phone",8,7,2016,8,10,2016,25.0,50.0,,,8/7/2016,8/10/2016,8/8/2016
+NY,"Gravis Marketing",1717,"Registered Voters","IVR/Online",8,4,2016,8,8,2016,36.0,53.0,10.0,,8/4/2016,8/8/2016,8/6/2016
+NY,"Gravis Marketing",1717,"Registered Voters","IVR/Online",8,4,2016,8,8,2016,34.0,48.0,8.0,,8/4/2016,8/8/2016,8/6/2016
+NY,"Quinnipiac",1104,"Registered Voters","Live Phone",7,13,2016,7,17,2016,35.0,47.0,,,7/13/2016,7/17/2016,7/15/2016
+NY,"Quinnipiac",1104,"Registered Voters","Live Phone",7,13,2016,7,17,2016,33.0,45.0,,,7/13/2016,7/17/2016,7/15/2016
+NY,"Siena",803,"Registered Voters","Live Phone",6,22,2016,6,28,2016,31.0,54.0,16.0,,6/22/2016,6/28/2016,6/25/2016
+NY,"Siena",825,"Registered Voters","Live Phone",5,22,2016,5,26,2016,31.0,52.0,17.0,,5/22/2016,5/26/2016,5/24/2016
+NY,"Siena",802,"Registered Voters","Live Phone",4,24,2016,4,27,2016,30.0,56.0,,15.0,4/24/2016,4/27/2016,4/25/2016
+NY,"Emerson College Polling Society",1047,"Likely Voters","Automated Phone",4,15,2016,4,17,2016,36.0,55.0,,9.0,4/15/2016,4/17/2016,4/16/2016
+NY,"PPP (D)",1403,"Likely Voters","IVR/Online",4,7,2016,4,10,2016,35.0,55.0,,10.0,4/7/2016,4/10/2016,4/8/2016
+NY,"Baruch College/New York 1",1306,"Registered Voters","Live Phone",4,5,2016,4,10,2016,35.0,51.0,,8.0,4/5/2016,4/10/2016,4/7/2016
+NY,"NBC/WSJ/Marist",1987,"Registered Voters","Live Phone",4,6,2016,4,10,2016,32.0,61.0,,7.0,4/6/2016,4/10/2016,4/8/2016
+NY,"Fox News",1403,"Likely Voters","Live Phone",4,4,2016,4,7,2016,37.0,53.0,2.0,3.0,4/4/2016,4/7/2016,4/5/2016
+NY,"Emerson College Polling Society",864,"Likely Voters","Automated Phone",4,6,2016,4,7,2016,36.0,54.0,,10.0,4/6/2016,4/7/2016,4/6/2016
+NY,"Quinnipiac",1667,"Registered Voters","Live Phone",3,22,2016,3,29,2016,33.0,53.0,2.0,5.0,3/22/2016,3/29/2016,3/25/2016
+NY,"Emerson College Polling Society",768,"Likely Voters","Automated Phone",3,14,2016,3,16,2016,36.0,55.0,,10.0,3/14/2016,3/16/2016,3/15/2016
+NY,"Siena",800,"Registered Voters","Live Phone",2,28,2016,3,3,2016,34.0,57.0,,3.0,2/28/2016,3/3/2016,3/1/2016
+NY,"Siena",930,"Registered Voters","Live Phone",1,31,2016,2,3,2016,32.0,57.0,,11.0,1/31/2016,2/3/2016,2/1/2016
+CT,"Washington Post/SurveyMonkey",1053,"Registered Voters","Internet",8,9,2016,9,1,2016,39.0,51.0,,,8/9/2016,9/1/2016,8/20/2016
+CT,"Washington Post/SurveyMonkey",1053,"Registered Voters","Internet",8,9,2016,9,1,2016,33.0,44.0,,,8/9/2016,9/1/2016,8/20/2016
+CT,"Quinnipiac",1030,"Registered Voters","Live Phone",6,1,2016,6,5,2016,38.0,45.0,3.0,6.0,6/1/2016,6/5/2016,6/3/2016
+CT,"Emerson College Polling Society",1043,"Likely Voters","Automated Phone",4,10,2016,4,11,2016,40.0,48.0,,12.0,4/10/2016,4/11/2016,4/10/2016
+GA,"Opinion Savvy/Fox 5 Atlanta",568,"Likely Voters","IVR/Online",9,14,2016,9,14,2016,46.0,42.0,,2.0,9/14/2016,9/14/2016,9/14/2016
+GA,"NBC/WSJ/Marist",625,"Likely Voters","Live Phone",9,6,2016,9,8,2016,46.0,43.0,1.0,2.0,9/6/2016,9/8/2016,9/7/2016
+GA,"NBC/WSJ/Marist",625,"Likely Voters","Live Phone",9,6,2016,9,8,2016,44.0,42.0,1.0,3.0,9/6/2016,9/8/2016,9/7/2016
+GA,"Washington Post/SurveyMonkey",2034,"Registered Voters","Internet",8,9,2016,9,1,2016,46.0,46.0,,,8/9/2016,9/1/2016,8/20/2016
+GA,"Washington Post/SurveyMonkey",2034,"Registered Voters","Internet",8,9,2016,9,1,2016,40.0,39.0,,,8/9/2016,9/1/2016,8/20/2016
+GA,"Opinion Savvy/Fox 5 Atlanta",730,"Likely Voters","IVR/Online",8,17,2016,8,17,2016,43.0,43.0,,3.0,8/17/2016,8/17/2016,8/17/2016
+GA,"CBS/YouGov",988,"Likely Voters","Internet",8,10,2016,8,12,2016,45.0,41.0,,,8/10/2016,8/12/2016,8/11/2016
+GA,"Gravis Marketing",1604,"Registered Voters","IVR/Online",8,4,2016,8,8,2016,45.0,44.0,11.0,,8/4/2016,8/8/2016,8/6/2016
+GA,"Gravis Marketing",1604,"Registered Voters","IVR/Online",8,4,2016,8,8,2016,43.0,39.0,2.0,,8/4/2016,8/8/2016,8/6/2016
+GA,"Abt SRBI Inc/Atlanta Journal-Constitution",847,"Registered Voters","Live Phone",8,1,2016,8,4,2016,40.0,44.0,2.0,,8/1/2016,8/4/2016,8/2/2016
+GA,"Abt SRBI Inc/Atlanta Journal-Constitution",847,"Registered Voters","Live Phone",8,1,2016,8,4,2016,38.0,41.0,0.0,,8/1/2016,8/4/2016,8/2/2016
+GA,"Landmark (R)/Rosetta Stone/WSB-TV",787,"Likely Voters","IVR/Online",8,1,2016,8,1,2016,46.0,46.0,,3.0,8/1/2016,8/1/2016,8/1/2016
+GA,"SurveyUSA/TEGNA",628,"Likely Voters","IVR/Online",7,29,2016,7,31,2016,46.0,42.0,,5.0,7/29/2016,7/31/2016,7/30/2016
+GA,"Landmark (R)/Rosetta Stone/WSB-TV",500,"Likely Voters","IVR/Online",7,24,2016,7,24,2016,45.0,44.0,,2.0,7/24/2016,7/24/2016,7/24/2016
+GA,"PPP (D)",724,"Likely Voters","IVR/Online",5,27,2016,5,30,2016,45.0,38.0,,9.0,5/27/2016,5/30/2016,5/28/2016
+GA,"PPP (D)",724,"Likely Voters","IVR/Online",5,27,2016,5,30,2016,49.0,40.0,,,5/27/2016,5/30/2016,5/28/2016
+GA,"Opinion Savvy/Fox 5 Atlanta",587,"Likely Voters","IVR/Online",5,15,2016,5,15,2016,44.0,41.0,,5.0,5/15/2016,5/15/2016,5/15/2016
+GA,"Abt SRBI Inc/Atlanta Journal-Constitution",822,"Registered Voters","Live Phone",5,9,2016,5,12,2016,45.0,41.0,1.0,4.0,5/9/2016,5/12/2016,5/10/2016
+GA,"Landmark (R)/Rosetta Stone/WSB-TV",570,"Likely Voters","IVR/Online",5,5,2016,5,5,2016,42.0,41.0,,16.0,5/5/2016,5/5/2016,5/5/2016
+GA,"Lake Research (D)",400,"Likely Voters","Live Phone",3,31,2016,4,3,2016,37.0,50.0,,10.0,3/31/2016,4/3/2016,4/1/2016
+GA,"SurveyUSA/TEGNA/11Alive",1261,"Likely Voters","IVR/Online",2,22,2016,2,23,2016,50.0,41.0,,9.0,2/22/2016,2/23/2016,2/22/2016
+HI,"Washington Post/SurveyMonkey",546,"Registered Voters","Internet",8,9,2016,9,1,2016,28.0,58.0,,,8/9/2016,9/1/2016,8/20/2016
+HI,"Washington Post/SurveyMonkey",546,"Registered Voters","Internet",8,9,2016,9,1,2016,25.0,51.0,,,8/9/2016,9/1/2016,8/20/2016
+KY,"Washington Post/SurveyMonkey",732,"Registered Voters","Internet",8,9,2016,9,1,2016,57.0,34.0,,,8/9/2016,9/1/2016,8/20/2016
+KY,"Washington Post/SurveyMonkey",732,"Registered Voters","Internet",8,9,2016,9,1,2016,52.0,29.0,,,8/9/2016,9/1/2016,8/20/2016
+NE,"Washington Post/SurveyMonkey",983,"Registered Voters","Internet",8,9,2016,9,1,2016,49.0,38.0,,,8/9/2016,9/1/2016,8/20/2016
+NE,"Washington Post/SurveyMonkey",983,"Registered Voters","Internet",8,9,2016,9,1,2016,42.0,32.0,,,8/9/2016,9/1/2016,8/20/2016
+OR,"ICITIZEN",610,"Registered Voters","Internet",9,2,2016,9,7,2016,28.0,43.0,,8.0,9/2/2016,9/7/2016,9/4/2016
+OR,"DHM",517,"Registered Voters","Live Phone",9,1,2016,9,6,2016,25.0,38.0,,,9/1/2016,9/6/2016,9/3/2016
+OR,"Washington Post/SurveyMonkey",877,"Registered Voters","Internet",8,9,2016,9,1,2016,36.0,55.0,,,8/9/2016,9/1/2016,8/20/2016
+OR,"Washington Post/SurveyMonkey",877,"Registered Voters","Internet",8,9,2016,9,1,2016,32.0,47.0,,,8/9/2016,9/1/2016,8/20/2016
+OR,"Clout Research (R)",701,"Likely Voters","Live Phone",7,9,2016,7,13,2016,40.0,43.0,,,7/9/2016,7/13/2016,7/11/2016
+OR,"ICITIZEN",555,"Registered Voters","Internet",6,23,2016,6,27,2016,32.0,46.0,,22.0,6/23/2016,6/27/2016,6/25/2016
+OR,"Clout Research (R)",657,"Likely Voters","Live Phone",5,10,2016,5,13,2016,44.0,42.0,,13.0,5/10/2016,5/13/2016,5/11/2016
+OR,"DHM Research/Oregon Public Broadcasting/Fox 12",901,"Likely Voters","Live Phone",5,6,2016,5,9,2016,32.0,43.0,11.0,11.0,5/6/2016,5/9/2016,5/7/2016
+SC,"Starboard Communications (R- SCGOP)",600,"Likely Voters","Live Phone",9,7,2016,9,9,2016,48.0,35.0,,11.0,9/7/2016,9/9/2016,9/8/2016
+SC,"Washington Post/SurveyMonkey",894,"Registered Voters","Internet",8,9,2016,9,1,2016,49.0,42.0,,,8/9/2016,9/1/2016,8/20/2016
+SC,"Washington Post/SurveyMonkey",894,"Registered Voters","Internet",8,9,2016,9,1,2016,45.0,38.0,,,8/9/2016,9/1/2016,8/20/2016
+SC,"Feldman (D-South Carolina Democratic Party)",600,"Likely Voters","Live Phone",8,18,2016,8,21,2016,39.0,39.0,,16.0,8/18/2016,8/21/2016,8/19/2016
+SC,"Feldman (D-South Carolina Democratic Party)",600,"Likely Voters","Live Phone",8,18,2016,8,21,2016,45.0,43.0,,12.0,8/18/2016,8/21/2016,8/19/2016
+SC,"Gravis Marketing",768,"Registered Voters","IVR/Online",8,15,2016,8,17,2016,46.0,42.0,,,8/15/2016,8/17/2016,8/16/2016
+SC,"Gravis Marketing",768,"Registered Voters","IVR/Online",8,15,2016,8,17,2016,41.0,37.0,,,8/15/2016,8/17/2016,8/16/2016
+SC,"PPP (D)",1290,"Likely Voters","IVR/Online",8,9,2016,8,10,2016,41.0,39.0,,13.0,8/9/2016,8/10/2016,8/9/2016
+OH,"Suffolk",500,"Likely Voters","Live Phone",9,12,2016,9,14,2016,42.0,39.0,,12.0,9/12/2016,9/14/2016,9/13/2016
+OH,"Bloomberg/Selzer",802,"Likely Voters","Live Phone",9,9,2016,9,12,2016,48.0,43.0,6.0,,9/9/2016,9/12/2016,9/10/2016
+OH,"Bloomberg/Selzer",802,"Likely Voters","Live Phone",9,9,2016,9,12,2016,44.0,39.0,,,9/9/2016,9/12/2016,9/10/2016
+OH,"CBS/YouGov",994,"Likely Voters","Internet",9,7,2016,9,9,2016,39.0,46.0,,,9/7/2016,9/9/2016,9/8/2016
+OH,"Quinnipiac",775,"Likely Voters","Live Phone",8,29,2016,9,7,2016,46.0,45.0,,,8/29/2016,9/7/2016,9/2/2016
+OH,"Quinnipiac",775,"Likely Voters","Live Phone",8,29,2016,9,7,2016,41.0,37.0,,,8/29/2016,9/7/2016,9/2/2016
+OH,"Washington Post/SurveyMonkey",2543,"Registered Voters","Internet",8,9,2016,9,1,2016,46.0,43.0,,,8/9/2016,9/1/2016,8/20/2016
+OH,"Washington Post/SurveyMonkey",2543,"Registered Voters","Internet",8,9,2016,9,1,2016,40.0,37.0,,,8/9/2016,9/1/2016,8/20/2016
+OH,"PPP (D-NELP) ",1134,"Likely Voters","IVR/Online",8,26,2016,8,27,2016,42.0,46.0,,,8/26/2016,8/27/2016,8/26/2016
+OH,"Monmouth University",402,"Likely Voters","Live Phone",8,18,2016,8,21,2016,39.0,43.0,0.0,8.0,8/18/2016,8/21/2016,8/19/2016
+OH,"CBS/YouGov",997,"Likely Voters","Internet",8,17,2016,8,19,2016,40.0,46.0,,,8/17/2016,8/19/2016,8/18/2016
+OH,"NBC/WSJ/Marist",889,"Registered Voters","Live Phone",8,3,2016,8,7,2016,38.0,43.0,1.0,9.0,8/3/2016,8/7/2016,8/5/2016
+OH,"NBC/WSJ/Marist",889,"Registered Voters","Live Phone",8,3,2016,8,7,2016,35.0,39.0,1.0,9.0,8/3/2016,8/7/2016,8/5/2016
+OH,"Quinnipiac",812,"Likely Voters","Live Phone",7,30,2016,8,7,2016,45.0,49.0,,,7/30/2016,8/7/2016,8/3/2016
+OH,"Quinnipiac",812,"Likely Voters","Live Phone",7,30,2016,8,7,2016,42.0,44.0,,,7/30/2016,8/7/2016,8/3/2016
+OH,"RABA Research",599,"Likely Voters","Live Phone",6,22,2016,6,28,2016,38.0,41.0,,,6/22/2016,6/28/2016,6/25/2016
+OH,"PPP (D)",1334,"Likely Voters","IVR/Online",7,22,2016,7,24,2016,42.0,39.0,,10.0,7/22/2016,7/24/2016,7/23/2016
+OH,"PPP (D)",1334,"Likely Voters","IVR/Online",7,22,2016,7,24,2016,45.0,45.0,,,7/22/2016,7/24/2016,7/23/2016
+OH,"Suffolk",500,"Likely Voters","Live Phone",7,18,2016,7,20,2016,44.0,44.0,,11.0,7/18/2016,7/20/2016,7/19/2016
+OH,"Suffolk",500,"Likely Voters","Live Phone",7,18,2016,7,20,2016,39.0,43.0,,12.0,7/18/2016,7/20/2016,7/19/2016
+OH,"Gravis Marketing/OANN",1270,"Registered Voters","Automated Phone",6,27,2016,6,28,2016,47.0,46.0,7.0,,6/27/2016,6/28/2016,6/27/2016
+OH,"CBS/YouGov",1104,"Likely Voters","Internet",7,13,2016,7,15,2016,40.0,44.0,,,7/13/2016,7/15/2016,7/14/2016
+OH,"NBC/WSJ/Marist",848,"Registered Voters","Live Phone",7,5,2016,7,10,2016,39.0,39.0,2.0,10.0,7/5/2016,7/10/2016,7/7/2016
+OH,"NBC/WSJ/Marist",848,"Registered Voters","Live Phone",7,5,2016,7,10,2016,35.0,38.0,3.0,12.0,7/5/2016,7/10/2016,7/7/2016
+OH,"Quinnipiac",955,"Registered Voters","Live Phone",6,30,2016,7,11,2016,41.0,41.0,4.0,8.0,6/30/2016,7/11/2016,7/5/2016
+OH,"Quinnipiac",955,"Registered Voters","Live Phone",6,30,2016,7,11,2016,37.0,36.0,,,6/30/2016,7/11/2016,7/5/2016
+OH,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,48.0,47.0,3.0,,6/11/2016,6/20/2016,6/15/2016
+OH,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,41.0,41.0,1.0,,6/11/2016,6/20/2016,6/15/2016
+OH,"PPP (D-Americans United for Change/Constitutional Responsibility Project) ",708,"Likely Voters","IVR/Online",6,22,2016,6,23,2016,40.0,44.0,,,6/22/2016,6/23/2016,6/22/2016
+OH,"Quinnipiac",971,"Registered Voters","Live Phone",6,8,2016,6,19,2016,40.0,40.0,6.0,6.0,6/8/2016,6/19/2016,6/13/2016
+OH,"Quinnipiac",971,"Registered Voters","Live Phone",6,8,2016,6,19,2016,36.0,38.0,,,6/8/2016,6/19/2016,6/13/2016
+OH,"Zogby (Internet)",679,"Likely Voters","Internet",5,18,2016,5,22,2016,39.0,45.0,,16.0,5/18/2016,5/22/2016,5/20/2016
+OH,"Zogby (Internet)",679,"Likely Voters","Internet",5,18,2016,5,22,2016,33.0,38.0,,20.0,5/18/2016,5/22/2016,5/20/2016
+OH,"CBS/YouGov",992,"Likely Voters","Internet",5,16,2016,5,19,2016,39.0,44.0,,,5/16/2016,5/19/2016,5/17/2016
+OH,"Quinnipiac",1042,"Registered Voters","Live Phone",4,27,2016,5,8,2016,43.0,39.0,3.0,6.0,4/27/2016,5/8/2016,5/2/2016
+OH,"PPP (D)",799,"Registered Voters","IVR/Online",4,26,2016,4,27,2016,42.0,45.0,,,4/26/2016,4/27/2016,4/26/2016
+OH,"NBC/WSJ/Marist",2052,"Registered Voters","Live Phone",3,4,2016,3,10,2016,42.0,48.0,,10.0,3/4/2016,3/10/2016,3/7/2016
+OH,"PPP (D)",1248,"Likely Voters","Automated Phone",3,4,2016,3,6,2016,40.0,45.0,,,3/4/2016,3/6/2016,3/5/2016
+OH,"CNN",884,"Registered Voters","Live Phone",3,2,2016,3,6,2016,43.0,50.0,2.0,,3/2/2016,3/6/2016,3/4/2016
+OH,"Baldwin Wallace University",825,"Likely Voters","Internet",2,11,2016,2,20,2016,39.0,37.0,,,2/11/2016,2/20/2016,2/15/2016
+OH,"Quinnipiac",1539,"Registered Voters","Live Phone",2,16,2016,2,20,2016,44.0,42.0,2.0,6.0,2/16/2016,2/20/2016,2/18/2016
+NH,"NBC/WSJ/Marist",737,"Likely Voters","Live Phone",9,6,2016,9,8,2016,41.0,42.0,2.0,3.0,9/6/2016,9/8/2016,9/7/2016
+NH,"NBC/WSJ/Marist",737,"Likely Voters","Live Phone",9,6,2016,9,8,2016,37.0,39.0,1.0,5.0,9/6/2016,9/8/2016,9/7/2016
+NH,"UNH/WMUR",433,"Likely Voters","Live Phone",8,20,2016,8,28,2016,36.0,45.0,14.0,5.0,8/20/2016,8/28/2016,8/24/2016
+NH,"UNH/WMUR",433,"Likely Voters","Live Phone",8,20,2016,8,28,2016,32.0,43.0,3.0,5.0,8/20/2016,8/28/2016,8/24/2016
+NH,"PPP (D- Constitutional Responsibility Project)",585,"Likely Voters","IVR/Online",8,30,2016,8,31,2016,41.0,46.0,,,8/30/2016,8/31/2016,8/30/2016
+NH,"Washington Post/SurveyMonkey",1218,"Registered Voters","Internet",8,9,2016,9,1,2016,40.0,49.0,,,8/9/2016,9/1/2016,8/20/2016
+NH,"Washington Post/SurveyMonkey",1218,"Registered Voters","Internet",8,9,2016,9,1,2016,34.0,40.0,,,8/9/2016,9/1/2016,8/20/2016
+NH,"PPP (D-NELP) ",977,"Likely Voters","IVR/Online",8,26,2016,8,28,2016,40.0,46.0,,,8/26/2016,8/28/2016,8/27/2016
+NH,"CBS/YouGov",990,"Likely Voters","Internet",8,10,2016,8,12,2016,36.0,45.0,,,8/10/2016,8/12/2016,8/11/2016
+NH,"Vox Populi (R-ESA Fund)",820,"Registered Voters","IVR/Online",8,7,2016,8,8,2016,31.0,41.0,,10.0,8/7/2016,8/8/2016,8/7/2016
+NH,"MassINC/WBUR",609,"Likely Voters","Live Phone",7,29,2016,8,1,2016,32.0,47.0,,,7/29/2016,8/1/2016,7/30/2016
+NH,"UNH/WMUR",532,"Adults","Live Phone",7,9,2016,7,18,2016,37.0,39.0,18.0,6.0,7/9/2016,7/18/2016,7/13/2016
+NH,"UNH/WMUR",532,"Adults","Live Phone",7,9,2016,7,18,2016,37.0,37.0,5.0,6.0,7/9/2016,7/18/2016,7/13/2016
+NH,"InsideSources/NH Journal",1166,"Registered Voters","IVR/Live Phone",7,19,2016,7,21,2016,48.0,39.0,,,7/19/2016,7/21/2016,7/20/2016
+NH,"UNH/WMUR",533,"Likely Voters","Live Phone",4,7,2016,4,17,2016,31.0,50.0,15.0,4.0,4/7/2016,4/17/2016,4/12/2016
+NH,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,43.0,44.0,9.0,,6/11/2016,6/20/2016,6/15/2016
+NH,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,41.0,41.0,5.0,,6/11/2016,6/20/2016,6/15/2016
+NH,"ARG",533,"Registered Voters","Live Phone",6,24,2016,6,28,2016,42.0,47.0,4.0,7.0,6/24/2016,6/28/2016,6/26/2016
+NH,"PPP (D-Americans United for Change/Constitutional Responsibility Project) ",578,"Likely Voters","IVR/Online",6,22,2016,6,23,2016,39.0,43.0,,18.0,6/22/2016,6/23/2016,6/22/2016
+NH,"Franklin Pierce/RKM/Boston Herald",405,"Likely Voters","Live Phone",5,25,2016,5,28,2016,44.0,44.0,,12.0,5/25/2016,5/28/2016,5/26/2016
+NH,"MassINC/WBUR",501,"Likely Voters","Live Phone",5,12,2016,5,15,2016,42.0,44.0,7.0,7.0,5/12/2016,5/15/2016,5/13/2016
+NH,"Dartmouth",362,"Registered Voters","Live Phone",4,11,2016,4,16,2016,29.0,34.0,,37.0,4/11/2016,4/16/2016,4/13/2016
+NH,"UNH/WMUR",628,"Likely Voters","Live Phone",2,20,2016,2,28,2016,39.0,47.0,10.0,4.0,2/20/2016,2/28/2016,2/24/2016
+NH,"UMass Lowell/7 News",1411,"Registered Voters","Live Phone",2,5,2016,2,7,2016,40.0,45.0,,15.0,2/5/2016,2/7/2016,2/6/2016
+NH,"CNN/UNH/WMUR",885,"Likely Voters","Live Phone",1,13,2016,1,18,2016,39.0,48.0,10.0,3.0,1/13/2016,1/18/2016,1/15/2016
+NH,"NBC/WSJ/Marist",957,"Registered Voters","Live Phone",1,2,2016,1,7,2016,44.0,45.0,,11.0,1/2/2016,1/7/2016,1/4/2016
+NH,"PPP (D)",1036,"Likely Voters","IVR/Online",1,4,2016,1,6,2016,36.0,50.0,,14.0,1/4/2016,1/6/2016,1/5/2016
+WI,"Washington Post/SurveyMonkey",2687,"Registered Voters","Internet",8,9,2016,9,1,2016,44.0,46.0,,,8/9/2016,9/1/2016,8/20/2016
+WI,"Washington Post/SurveyMonkey",2687,"Registered Voters","Internet",8,9,2016,9,1,2016,37.0,39.0,,,8/9/2016,9/1/2016,8/20/2016
+WI,"PPP (D-NELP) ",1054,"Likely Voters","IVR/Online",8,26,2016,8,27,2016,41.0,48.0,,,8/26/2016,8/27/2016,8/26/2016
+WI,"Marquette Law School",650,"Likely Voters","Live Phone",8,25,2016,8,28,2016,42.0,45.0,,,8/25/2016,8/28/2016,8/26/2016
+WI,"Marquette Law School",650,"Likely Voters","Live Phone",8,25,2016,8,28,2016,38.0,41.0,,,8/25/2016,8/28/2016,8/26/2016
+WI,"Monmouth University",404,"Likely Voters","Live Phone",8,27,2016,8,30,2016,38.0,43.0,1.0,8.0,8/27/2016,8/30/2016,8/28/2016
+WI,"Marquette Law School",683,"Likely Voters","Live Phone",8,4,2016,8,7,2016,37.0,52.0,,,8/4/2016,8/7/2016,8/5/2016
+WI,"Marquette Law School",683,"Likely Voters","Live Phone",8,4,2016,8,7,2016,34.0,47.0,,,8/4/2016,8/7/2016,8/5/2016
+WI,"Marquette Law School",665,"Likely Voters","Live Phone",7,7,2016,7,10,2016,41.0,45.0,,4.0,7/7/2016,7/10/2016,7/8/2016
+WI,"Marquette Law School",665,"Likely Voters","Live Phone",7,7,2016,7,10,2016,37.0,43.0,,,7/7/2016,7/10/2016,7/8/2016
+WI,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,36.0,47.0,7.0,,6/11/2016,6/20/2016,6/15/2016
+WI,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,32.0,44.0,3.0,,6/11/2016,6/20/2016,6/15/2016
+WI,"PPP (D-Americans United for Change/Constitutional Responsibility Project) ",843,"Likely Voters","IVR/Online",6,22,2016,6,23,2016,39.0,47.0,,14.0,6/22/2016,6/23/2016,6/22/2016
+WI,"CBS/YouGov",993,"Likely Voters","Internet",6,21,2016,6,24,2016,36.0,41.0,,,6/21/2016,6/24/2016,6/22/2016
+WI,"Marquette Law School",666,"Likely Voters","Live Phone",6,9,2016,6,12,2016,37.0,46.0,,4.0,6/9/2016,6/12/2016,6/10/2016
+WI,"Public Opinion Strategies (R)/Federation for Children",600,"Likely Voters","Live Phone",5,10,2016,5,12,2016,31.0,43.0,,,5/10/2016,5/12/2016,5/11/2016
+WI,"St Norbert/WPR/WPTV",616,"Registered Voters","Live Phone",4,12,2016,4,15,2016,34.0,46.0,12.0,9.0,4/12/2016,4/15/2016,4/13/2016
+WI,"Emerson College Polling Society",1198,"Likely Voters","Automated Phone",3,30,2016,4,3,2016,37.0,47.0,,17.0,3/30/2016,4/3/2016,4/1/2016
+WI,"Fox News",1602,"Likely Voters","Live Phone",3,28,2016,3,30,2016,35.0,49.0,6.0,3.0,3/28/2016,3/30/2016,3/29/2016
+WI,"Marquette Law School",1405,"Registered Voters","Live Phone",3,24,2016,3,28,2016,37.0,47.0,,4.0,3/24/2016,3/28/2016,3/26/2016
+WI,"Marquette Law School",802,"Registered Voters","Live Phone",2,18,2016,2,21,2016,37.0,48.0,11.0,5.0,2/18/2016,2/21/2016,2/19/2016
+WI,"Marquette Law School",806,"Registered Voters","Live Phone",1,21,2016,1,24,2016,38.0,47.0,9.0,5.0,1/21/2016,1/24/2016,1/22/2016
+OK,"Washington Post/SurveyMonkey",1041,"Registered Voters","Internet",8,9,2016,9,1,2016,57.0,33.0,,,8/9/2016,9/1/2016,8/20/2016
+OK,"Washington Post/SurveyMonkey",1041,"Registered Voters","Internet",8,9,2016,9,1,2016,49.0,26.0,,,8/9/2016,9/1/2016,8/20/2016
+OK,"SoonerPoll.com",398,"Likely Voters","Live Phone",7,20,2016,7,25,2016,53.0,29.0,,11.0,7/20/2016,7/25/2016,7/22/2016
+DE,"Washington Post/SurveyMonkey",637,"Registered Voters","Internet",8,9,2016,9,1,2016,36.0,50.0,,,8/9/2016,9/1/2016,8/20/2016
+DE,"Washington Post/SurveyMonkey",637,"Registered Voters","Internet",8,9,2016,9,1,2016,33.0,43.0,,,8/9/2016,9/1/2016,8/20/2016
+DE,"Fairleigh Dickinson/Delaware News Journal",715,"Registered Voters","Live Phone",7,20,2016,7,24,2016,32.0,42.0,5.0,,7/20/2016,7/24/2016,7/22/2016
+IL,"Washington Post/SurveyMonkey",2599,"Registered Voters","Internet",8,9,2016,9,1,2016,38.0,53.0,,,8/9/2016,9/1/2016,8/20/2016
+IL,"Washington Post/SurveyMonkey",2599,"Registered Voters","Internet",8,9,2016,9,1,2016,31.0,45.0,,,8/9/2016,9/1/2016,8/20/2016
+IL,"Victory Research",1200,"Likely Voters","Live Phone",7,14,2016,7,16,2016,34.0,51.0,,,7/14/2016,7/16/2016,7/15/2016
+IL,"NBC/WSJ/Marist",1968,"Registered Voters","Live Phone",3,4,2016,3,10,2016,32.0,57.0,,11.0,3/4/2016,3/10/2016,3/7/2016
+NC,"Civitas (R)",600,"Likely Voters","Live Phone",9,11,2016,9,12,2016,42.0,42.0,,9.0,9/11/2016,9/12/2016,9/11/2016
+NC,"Quinnipiac",751,"Likely Voters","Live Phone",8,29,2016,9,7,2016,43.0,47.0,,,8/29/2016,9/7/2016,9/2/2016
+NC,"Quinnipiac",751,"Likely Voters","Live Phone",8,29,2016,9,7,2016,38.0,42.0,,,8/29/2016,9/7/2016,9/2/2016
+NC,"Suffolk",500,"Likely Voters","Live Phone",9,5,2016,9,7,2016,44.0,41.0,,8.0,9/5/2016,9/7/2016,9/6/2016
+NC,"Washington Post/SurveyMonkey",2552,"Registered Voters","Internet",8,9,2016,9,1,2016,46.0,46.0,,,8/9/2016,9/1/2016,8/20/2016
+NC,"Washington Post/SurveyMonkey",2552,"Registered Voters","Internet",8,9,2016,9,1,2016,41.0,40.0,,,8/9/2016,9/1/2016,8/20/2016
+NC,"CBS/YouGov",1088,"Likely Voters","Internet",8,30,2016,9,2,2016,42.0,46.0,,,8/30/2016,9/2/2016,8/31/2016
+NC,"PPP (D-NELP) ",1177,"Likely Voters","IVR/Online",8,26,2016,8,27,2016,44.0,45.0,,,8/26/2016,8/27/2016,8/26/2016
+NC,"CNN",803,"Likely Voters","Live Phone",8,18,2016,8,23,2016,47.0,48.0,2.0,,8/18/2016,8/23/2016,8/20/2016
+NC,"CNN",803,"Likely Voters","Live Phone",8,18,2016,8,23,2016,45.0,45.0,1.0,,8/18/2016,8/23/2016,8/20/2016
+NC,"Monmouth University",401,"Likely Voters","Live Phone",8,20,2016,8,23,2016,42.0,44.0,1.0,6.0,8/20/2016,8/23/2016,8/21/2016
+NC,"Gravis Marketing",723,"Registered Voters","IVR/Online",8,15,2016,8,17,2016,43.0,44.0,,,8/15/2016,8/17/2016,8/16/2016
+NC,"Gravis Marketing",723,"Registered Voters","IVR/Online",8,15,2016,8,17,2016,39.0,38.0,,,8/15/2016,8/17/2016,8/16/2016
+NC,"NBC/WSJ/Marist",921,"Registered Voters","Live Phone",8,4,2016,8,10,2016,39.0,48.0,1.0,7.0,8/4/2016,8/10/2016,8/7/2016
+NC,"NBC/WSJ/Marist",921,"Registered Voters","Live Phone",8,4,2016,8,10,2016,36.0,45.0,1.0,7.0,8/4/2016,8/10/2016,8/7/2016
+NC,"PPP (D)",830,"Likely Voters","IVR/Online",8,5,2016,8,7,2016,41.0,43.0,,8.0,8/5/2016,8/7/2016,8/6/2016
+NC,"PPP (D)",830,"Likely Voters","IVR/Online",8,5,2016,8,7,2016,46.0,47.0,,,8/5/2016,8/7/2016,8/6/2016
+NC,"NBC/WSJ/Marist",907,"Registered Voters","Live Phone",7,5,2016,7,11,2016,38.0,44.0,1.0,6.0,7/5/2016,7/11/2016,7/8/2016
+NC,"NBC/WSJ/Marist",907,"Registered Voters","Live Phone",7,5,2016,7,11,2016,36.0,42.0,2.0,11.0,7/5/2016,7/11/2016,7/8/2016
+NC,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,41.0,51.0,5.0,,6/11/2016,6/20/2016,6/15/2016
+NC,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,38.0,48.0,5.0,,6/11/2016,6/20/2016,6/15/2016
+NC,"CBS/YouGov",988,"Likely Voters","Internet",6,21,2016,6,24,2016,42.0,44.0,,,6/21/2016,6/24/2016,6/22/2016
+NC,"PPP (D)",947,"Likely Voters","IVR/Online",6,20,2016,6,21,2016,43.0,43.0,,7.0,6/20/2016,6/21/2016,6/20/2016
+NC,"PPP (D)",947,"Likely Voters","IVR/Online",6,20,2016,6,21,2016,48.0,46.0,,,6/20/2016,6/21/2016,6/20/2016
+NC,"Civitas (R)",600,"Likely Voters","Live Phone",5,21,2016,5,23,2016,39.0,36.0,2.0,9.0,5/21/2016,5/23/2016,5/22/2016
+NC,"PPP (D)",928,"Likely Voters","IVR/Online",5,20,2016,5,22,2016,43.0,41.0,,11.0,5/20/2016,5/22/2016,5/21/2016
+NC,"PPP (D)",928,"Likely Voters","IVR/Online",5,20,2016,5,22,2016,47.0,43.0,,,5/20/2016,5/22/2016,5/21/2016
+NC,"Civitas (R)",600,"Likely Voters","Live Phone",4,23,2016,4,25,2016,37.0,49.0,2.0,10.0,4/23/2016,4/25/2016,4/24/2016
+NC,"PPP (D)",960,"Likely Voters","IVR/Online",4,22,2016,4,24,2016,44.0,44.0,,12.0,4/22/2016,4/24/2016,4/23/2016
+NC,"Elon",621,"Registered Voters","Live Phone",4,10,2016,4,15,2016,39.0,45.0,14.0,3.0,4/10/2016,4/15/2016,4/12/2016
+NC,"PPP (D)",843,"Likely Voters","Live Phone/Online",3,18,2016,3,20,2016,42.0,44.0,,14.0,3/18/2016,3/20/2016,3/19/2016
+NC,"SurveyUSA/High Point University",1576,"Likely Voters","Live Phone",3,9,2016,3,10,2016,49.0,42.0,,9.0,3/9/2016,3/10/2016,3/9/2016
+NC,"PPP (D)",1291,"Likely Voters","Live Phone/Online",2,14,2016,2,16,2016,44.0,43.0,,13.0,2/14/2016,2/16/2016,2/15/2016
+NC,"SurveyUSA/TWC News North Carolina",1250,"Likely Voters","IVR/Online",2,14,2016,2,16,2016,45.0,43.0,,13.0,2/14/2016,2/16/2016,2/15/2016
+NC,"Elon",1530,"Likely Voters","Live Phone",2,15,2016,2,19,2016,41.0,47.0,9.0,4.0,2/15/2016,2/19/2016,2/17/2016
+NC,"PPP (D)",948,"Likely Voters","Live Phone/Online",1,18,2016,1,19,2016,45.0,43.0,,12.0,1/18/2016,1/19/2016,1/18/2016
+AR,"Washington Post/SurveyMonkey",765,"Registered Voters","Internet",8,9,2016,9,1,2016,54.0,41.0,,,8/9/2016,9/1/2016,8/20/2016
+AR,"Washington Post/SurveyMonkey",765,"Registered Voters","Internet",8,9,2016,9,1,2016,46.0,37.0,,,8/9/2016,9/1/2016,8/20/2016
+AR,"Hendrix College/Talk Business",751,"Registered Voters","Automated Phone",6,21,2016,6,21,2016,47.0,36.0,,,6/21/2016,6/21/2016,6/21/2016
+ND,"Washington Post/SurveyMonkey",549,"Registered Voters","Internet",8,9,2016,9,1,2016,60.0,32.0,,,8/9/2016,9/1/2016,8/20/2016
+ND,"Washington Post/SurveyMonkey",549,"Registered Voters","Internet",8,9,2016,9,1,2016,51.0,26.0,,,8/9/2016,9/1/2016,8/20/2016
+ID,"Washington Post/SurveyMonkey",716,"Registered Voters","Internet",8,9,2016,9,1,2016,53.0,34.0,,,8/9/2016,9/1/2016,8/20/2016
+ID,"Washington Post/SurveyMonkey",716,"Registered Voters","Internet",8,9,2016,9,1,2016,44.0,25.0,,,8/9/2016,9/1/2016,8/20/2016
+ID,"Dan Jones & Associates/IdahoPoliticsWeekly.com",601,"Likely Voters","Live Phone",7,5,2016,7,16,2016,44.0,23.0,,,7/5/2016,7/16/2016,7/10/2016
+AZ,"NBC/WSJ/Marist",649,"Likely Voters","Live Phone",9,6,2016,9,8,2016,42.0,41.0,2.0,4.0,9/6/2016,9/8/2016,9/7/2016
+AZ,"NBC/WSJ/Marist",649,"Likely Voters","Live Phone",9,6,2016,9,8,2016,40.0,38.0,1.0,6.0,9/6/2016,9/8/2016,9/7/2016
+AZ,"Washington Post/SurveyMonkey",2026,"Registered Voters","Internet",8,9,2016,9,1,2016,45.0,46.0,,,8/9/2016,9/1/2016,8/20/2016
+AZ,"Washington Post/SurveyMonkey",2026,"Registered Voters","Internet",8,9,2016,9,1,2016,39.0,37.0,,,8/9/2016,9/1/2016,8/20/2016
+AZ,"PPP (D-NELP) ",837,"Likely Voters","IVR/Online",8,26,2016,8,28,2016,46.0,43.0,,,8/26/2016,8/28/2016,8/27/2016
+AZ,"OH Predictive Insights (R)",728,"Likely Voters","IVR/Live Phone",8,25,2016,8,27,2016,39.0,40.0,,13.0,8/25/2016,8/27/2016,8/26/2016
+AZ,"CNN",809,"Likely Voters","Live Phone",8,18,2016,8,23,2016,49.0,44.0,2.0,,8/18/2016,8/23/2016,8/20/2016
+AZ,"CNN",809,"Likely Voters","Live Phone",8,18,2016,8,23,2016,45.0,38.0,1.0,,8/18/2016,8/23/2016,8/20/2016
+AZ,"CBS/YouGov",1095,"Likely Voters","Internet",8,2,2016,8,5,2016,44.0,42.0,,,8/2/2016,8/5/2016,8/3/2016
+AZ,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,48.0,43.0,6.0,,6/11/2016,6/20/2016,6/15/2016
+AZ,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,45.0,39.0,3.0,,6/11/2016,6/20/2016,6/15/2016
+AZ,"PPP (D-Americans United for Change/Constitutional Responsibility Project) ",691,"Likely Voters","IVR/Online",6,22,2016,6,23,2016,44.0,40.0,,16.0,6/22/2016,6/23/2016,6/22/2016
+AZ,"OH Predictive Insights (R)",1060,"Likely Voters","Automated Phone",6,20,2016,6,20,2016,42.0,47.0,,6.0,6/20/2016,6/20/2016,6/20/2016
+AZ,"PPP (D)",896,"Likely Voters","IVR/Online",5,13,2016,5,15,2016,40.0,38.0,,13.0,5/13/2016,5/15/2016,5/14/2016
+AZ,"PPP (D)",896,"Likely Voters","IVR/Online",5,13,2016,5,15,2016,45.0,41.0,,,5/13/2016,5/15/2016,5/14/2016
+AZ,"Behavior Research Center",564,"Registered Voters","Live Phone",4,4,2016,4,11,2016,35.0,42.0,,23.0,4/4/2016,4/11/2016,4/7/2016
+AZ,"Merrill/WestGroup",701,"Likely Voters","Live Phone",3,7,2016,3,11,2016,38.0,38.0,,15.0,3/7/2016,3/11/2016,3/9/2016
+WV,"Washington Post/SurveyMonkey",698,"Registered Voters","Internet",8,9,2016,9,1,2016,57.0,33.0,,,8/9/2016,9/1/2016,8/20/2016
+WV,"Washington Post/SurveyMonkey",698,"Registered Voters","Internet",8,9,2016,9,1,2016,52.0,27.0,,,8/9/2016,9/1/2016,8/20/2016
+WV,"R.L. Repass & Partners/MetroNews",435,"Likely Voters","Mixed",8,9,2016,8,28,2016,49.0,31.0,,,8/9/2016,8/28/2016,8/18/2016
+WV,"PPP (D)",1201,"Likely Voters","IVR/Online",4,29,2016,5,1,2016,57.0,30.0,,13.0,4/29/2016,5/1/2016,4/30/2016
+KS,"SurveyUSA/KSN News",595,"Likely Voters","IVR/Online",9,6,2016,9,11,2016,48.0,36.0,,7.0,9/6/2016,9/11/2016,9/8/2016
+KS,"Washington Post/SurveyMonkey",741,"Registered Voters","Internet",8,9,2016,9,1,2016,49.0,37.0,,,8/9/2016,9/1/2016,8/20/2016
+KS,"Washington Post/SurveyMonkey",741,"Registered Voters","Internet",8,9,2016,9,1,2016,43.0,30.0,,,8/9/2016,9/1/2016,8/20/2016
+KS,"SurveyUSA/KSN News",566,"Likely Voters","IVR/Live Phone",8,3,2016,8,7,2016,44.0,39.0,,9.0,8/3/2016,8/7/2016,8/5/2016
+KS,"Fort Hays State University/Kansas Newspapers",542,"Likely Voters","Live Phone",7,11,2016,7,21,2016,44.0,27.0,6.0,,7/11/2016,7/21/2016,7/16/2016
+KS,"SurveyUSA/KSN News",559,"Likely Voters","IVR/Live Phone",7,8,2016,7,11,2016,47.0,36.0,,9.0,7/8/2016,7/11/2016,7/9/2016
+KS,"Zogby/Kansas Health Foundation",433,"Registered Voters","IVR/Live Phone",6,4,2016,6,6,2016,36.0,43.0,,21.0,6/4/2016,6/6/2016,6/5/2016
+KS,"Fort Hays State University",440,"Adults","Live Phone",2,19,2016,2,26,2016,46.0,36.0,,18.0,2/19/2016,2/26/2016,2/22/2016
+NM,"Washington Post/SurveyMonkey",1788,"Registered Voters","Internet",8,9,2016,9,1,2016,37.0,51.0,,,8/9/2016,9/1/2016,8/20/2016
+NM,"Washington Post/SurveyMonkey",1788,"Registered Voters","Internet",8,9,2016,9,1,2016,29.0,37.0,,,8/9/2016,9/1/2016,8/20/2016
+NM,"PPP (D)/NM Political Report",1103,"Likely Voters","IVR/Online",8,19,2016,8,21,2016,31.0,40.0,,9.0,8/19/2016,8/21/2016,8/20/2016
+NM,"PPP (D)/NM Political Report",802,"Likely Voters","Automated Phone",5,13,2016,5,15,2016,33.0,41.0,,,5/13/2016,5/15/2016,5/14/2016
+SD,"Washington Post/SurveyMonkey",809,"Registered Voters","Internet",8,9,2016,9,1,2016,51.0,37.0,,,8/9/2016,9/1/2016,8/20/2016
+SD,"Washington Post/SurveyMonkey",809,"Registered Voters","Internet",8,9,2016,9,1,2016,43.0,29.0,,,8/9/2016,9/1/2016,8/20/2016
+NJ,"Washington Post/SurveyMonkey",912,"Registered Voters","Internet",8,9,2016,9,1,2016,38.0,53.0,,,8/9/2016,9/1/2016,8/20/2016
+NJ,"Washington Post/SurveyMonkey",912,"Registered Voters","Internet",8,9,2016,9,1,2016,34.0,49.0,,,8/9/2016,9/1/2016,8/20/2016
+NJ,"Fairleigh Dickinson",349,"Registered Voters","Live Phone",6,22,2016,6,26,2016,32.0,44.0,6.0,,6/22/2016,6/26/2016,6/24/2016
+NJ,"Fairleigh Dickinson",363,"Registered Voters","Live Phone",6,22,2016,6,26,2016,31.0,52.0,5.0,,6/22/2016,6/26/2016,6/24/2016
+NJ,"CBS/YouGov",1194,"Likely Voters","Internet",5,31,2016,6,3,2016,34.0,49.0,8.0,7.0,5/31/2016,6/3/2016,6/1/2016
+NJ,"Monmouth University",703,"Registered Voters","Live Phone",5,23,2016,5,27,2016,34.0,38.0,11.0,15.0,5/23/2016,5/27/2016,5/25/2016
+NJ,"Monmouth University",703,"Registered Voters","Live Phone",5,23,2016,5,27,2016,31.0,37.0,6.0,14.0,5/23/2016,5/27/2016,5/25/2016
+NJ,"Fairleigh Dickinson",702,"Registered Voters","Live Phone",5,18,2016,5,22,2016,37.0,48.0,7.0,,5/18/2016,5/22/2016,5/20/2016
+NJ,"Quinnipiac",1989,"Registered Voters","Live Phone",5,10,2016,5,16,2016,38.0,45.0,3.0,7.0,5/10/2016,5/16/2016,5/13/2016
+NJ,"Rutgers-Eagleton",738,"Registered Voters","Live Phone",4,1,2016,4,8,2016,36.0,50.0,11.0,3.0,4/1/2016,4/8/2016,4/4/2016
+MT,"Washington Post/SurveyMonkey",999,"Registered Voters","Internet",8,9,2016,9,1,2016,51.0,38.0,,,8/9/2016,9/1/2016,8/20/2016
+MT,"Washington Post/SurveyMonkey",999,"Registered Voters","Internet",8,9,2016,9,1,2016,44.0,31.0,,,8/9/2016,9/1/2016,8/20/2016
+CA,"SurveyMonkey/LA Times",4212,"Registered Voters","Internet",9,1,2016,9,8,2016,33.0,58.0,,,9/1/2016,9/8/2016,9/4/2016
+CA,"SurveyMonkey/LA Times",4212,"Registered Voters","Internet",9,1,2016,9,8,2016,29.0,49.0,,,9/1/2016,9/8/2016,9/4/2016
+CA,"SurveyUSA/KABC/SCNG",678,"Likely Voters","IVR/Online",9,8,2016,9,11,2016,32.0,57.0,,7.0,9/8/2016,9/11/2016,9/9/2016
+CA,"Washington Post/SurveyMonkey",2574,"Registered Voters","Internet",8,9,2016,9,1,2016,33.0,57.0,,,8/9/2016,9/1/2016,8/20/2016
+CA,"Washington Post/SurveyMonkey",2574,"Registered Voters","Internet",8,9,2016,9,1,2016,28.0,49.0,,,8/9/2016,9/1/2016,8/20/2016
+CA,"PPIC",1056,"Likely Voters","Live Phone",7,10,2016,7,19,2016,30.0,46.0,,,7/10/2016,7/19/2016,7/14/2016
+CA,"Field",956,"Likely Voters","Live Phone",6,8,2016,7,2,2016,28.0,58.0,,14.0,6/8/2016,7/2/2016,6/20/2016
+CA,"Field",956,"Likely Voters","Live Phone",6,8,2016,7,2,2016,26.0,50.0,,14.0,6/8/2016,7/2/2016,6/20/2016
+CA,"SurveyMonkey/USC/LA Times",1264,"Likely Voters","Live Phone",6,9,2016,6,10,2016,28.0,54.0,,,6/9/2016,6/10/2016,6/9/2016
+CA,"SurveyMonkey/USC/LA Times",1264,"Likely Voters","Live Phone",6,9,2016,6,10,2016,31.0,61.0,,,6/9/2016,6/10/2016,6/9/2016
+CA,"CBS/YouGov",1187,"Likely Voters","Internet",5,31,2016,6,3,2016,33.0,48.0,12.0,6.0,5/31/2016,6/3/2016,6/1/2016
+CA,"USC/LA Times",1150,"Likely Voters","Live Phone",5,19,2016,5,31,2016,33.0,54.0,4.0,3.0,5/19/2016,5/31/2016,5/25/2016
+CA,"Field",1002,"Likely Voters","Live Phone",5,26,2016,5,31,2016,34.0,53.0,,13.0,5/26/2016,5/31/2016,5/28/2016
+CA,"NBC/WSJ/Marist",1833,"Registered Voters","Live Phone",5,29,2016,5,31,2016,31.0,55.0,,6.0,5/29/2016,5/31/2016,5/30/2016
+CA,"YouGov/Hoover Institution",1196,"Likely Voters","Internet",5,4,2016,5,16,2016,33.0,45.0,8.0,9.0,5/4/2016,5/16/2016,5/10/2016
+CA,"PPIC",996,"Likely Voters","Live Phone",5,13,2016,5,22,2016,39.0,49.0,7.0,,5/13/2016,5/22/2016,5/17/2016
+CA,"SurveyUSA/KABC/SCNG",1383,"Likely Voters","IVR/Online",5,19,2016,5,22,2016,38.0,52.0,,10.0,5/19/2016,5/22/2016,5/20/2016
+CA,"SurveyUSA/KABC/SCNG",1683,"Likely Voters","IVR/Online",4,27,2016,4,30,2016,34.0,56.0,,10.0,4/27/2016,4/30/2016,4/28/2016
+CA,"Field",1400,"Registered Voters","Live Phone",3,24,2016,4,4,2016,31.0,59.0,,10.0,3/24/2016,4/4/2016,3/29/2016
+CA,"SurveyUSA",1507,"Likely Voters","IVR/Online",3,30,2016,4,3,2016,26.0,60.0,,14.0,3/30/2016,4/3/2016,4/1/2016
+CA,"USC/LA Times",1202,"Likely Voters","Live Phone",3,16,2016,3,23,2016,30.0,57.0,5.0,3.0,3/16/2016,3/23/2016,3/19/2016
+MA,"MassINC/WBUR",506,"Likely Voters","Live Phone",9,7,2016,9,10,2016,28.0,54.0,,,9/7/2016,9/10/2016,9/8/2016
+MA,"MassINC/WBUR",506,"Likely Voters","Live Phone",9,7,2016,9,10,2016,31.0,60.0,,,9/7/2016,9/10/2016,9/8/2016
+MA,"Washington Post/SurveyMonkey",1167,"Registered Voters","Internet",8,9,2016,9,1,2016,33.0,56.0,,,8/9/2016,9/1/2016,8/20/2016
+MA,"Washington Post/SurveyMonkey",1167,"Registered Voters","Internet",8,9,2016,9,1,2016,29.0,48.0,,,8/9/2016,9/1/2016,8/20/2016
+MA,"Suffolk/Boston Globe",500,"Likely Voters","Live Phone",5,2,2016,5,5,2016,31.0,55.0,,11.0,5/2/2016,5/5/2016,5/3/2016
+MA,"WNEU",497,"Registered Voters","Live Phone",4,1,2016,4,10,2016,26.0,62.0,,11.0,4/1/2016,4/10/2016,4/5/2016
+VT,"Washington Post/SurveyMonkey",550,"Registered Voters","Internet",8,9,2016,9,1,2016,28.0,56.0,,,8/9/2016,9/1/2016,8/20/2016
+VT,"Washington Post/SurveyMonkey",550,"Registered Voters","Internet",8,9,2016,9,1,2016,24.0,45.0,,,8/9/2016,9/1/2016,8/20/2016
+VT,"Castleton University/VPR",637,"Likely Voters","Live Phone",7,11,2016,7,23,2016,17.0,39.0,,,7/11/2016,7/23/2016,7/17/2016
+PA,"Quinnipiac",778,"Likely Voters","Live Phone",8,29,2016,9,7,2016,43.0,48.0,,,8/29/2016,9/7/2016,9/2/2016
+PA,"Quinnipiac",778,"Likely Voters","Live Phone",8,29,2016,9,7,2016,39.0,44.0,,,8/29/2016,9/7/2016,9/2/2016
+PA,"PPP (D- Constitutional Responsibility Project)",814,"Likely Voters","IVR/Online",8,30,2016,8,31,2016,42.0,47.0,,,8/30/2016,8/31/2016,8/30/2016
+PA,"Washington Post/SurveyMonkey",2861,"Registered Voters","Internet",8,9,2016,9,1,2016,43.0,47.0,,,8/9/2016,9/1/2016,8/20/2016
+PA,"Washington Post/SurveyMonkey",2861,"Registered Voters","Internet",8,9,2016,9,1,2016,38.0,41.0,,,8/9/2016,9/1/2016,8/20/2016
+PA,"CBS/YouGov",1091,"Likely Voters","Internet",8,30,2016,9,2,2016,37.0,45.0,,,8/30/2016,9/2/2016,8/31/2016
+PA,"PPP (D-NELP)",1194,"Likely Voters","IVR/Online",8,26,2016,8,27,2016,43.0,48.0,,,8/26/2016,8/27/2016,8/26/2016
+PA,"Franklin and Marshall College",496,"Likely Voters","Live Phone/Online",8,25,2016,8,29,2016,40.0,47.0,6.0,,8/25/2016,8/29/2016,8/27/2016
+PA,"Franklin and Marshall College",736,"Registered Voters","Live Phone/Online",8,25,2016,8,29,2016,38.0,41.0,,,8/25/2016,8/29/2016,8/27/2016
+PA,"Monmouth University",402,"Likely Voters","Live Phone",8,26,2016,8,29,2016,40.0,48.0,1.0,4.0,8/26/2016,8/29/2016,8/27/2016
+PA,"NBC/WSJ/Marist",834,"Registered Voters","Live Phone",8,3,2016,8,7,2016,37.0,48.0,1.0,6.0,8/3/2016,8/7/2016,8/5/2016
+PA,"NBC/WSJ/Marist",834,"Registered Voters","Live Phone",8,3,2016,8,7,2016,36.0,45.0,1.0,6.0,8/3/2016,8/7/2016,8/5/2016
+PA,"Quinnipiac",815,"Likely Voters","Live Phone",7,30,2016,8,7,2016,42.0,52.0,,,7/30/2016,8/7/2016,8/3/2016
+PA,"Quinnipiac",815,"Likely Voters","Live Phone",7,30,2016,8,7,2016,39.0,48.0,,,7/30/2016,8/7/2016,8/3/2016
+PA,"Susquehanna (R)/ABC27 News",772,"Likely Voters","IVR/Live Phone",7,31,2016,8,4,2016,37.0,47.0,,,7/31/2016,8/4/2016,8/2/2016
+PA,"Susquehanna (R)/ABC27 News",772,"Likely Voters","IVR/Live Phone",7,31,2016,8,4,2016,37.0,46.0,,,7/31/2016,8/4/2016,8/2/2016
+PA,"Franklin and Marshall College",389,"Likely Voters","Live Phone/Online",7,29,2016,8,1,2016,38.0,49.0,6.0,,7/29/2016,8/1/2016,7/30/2016
+PA,"Franklin and Marshall College",661,"Registered Voters","Live Phone/Online",7,29,2016,8,1,2016,34.0,47.0,,,7/29/2016,8/1/2016,7/30/2016
+PA,"PPP (D)",1505,"Likely Voters","IVR/Online",7,29,2016,7,31,2016,42.0,45.0,,8.0,7/29/2016,7/31/2016,7/30/2016
+PA,"PPP (D)",1505,"Likely Voters","IVR/Online",7,29,2016,7,31,2016,45.0,49.0,,,7/29/2016,7/31/2016,7/30/2016
+PA,"Suffolk",500,"Likely Voters","Live Phone",7,25,2016,7,27,2016,41.0,50.0,,8.0,7/25/2016,7/27/2016,7/26/2016
+PA,"Suffolk",500,"Likely Voters","Live Phone",7,25,2016,7,27,2016,37.0,46.0,,9.0,7/25/2016,7/27/2016,7/26/2016
+PA,"Gravis Marketing/OANN",1958,"Registered Voters","Automated Phone",6,27,2016,6,28,2016,47.0,48.0,5.0,,6/27/2016,6/28/2016,6/27/2016
+PA,"NBC/WSJ/Marist",829,"Registered Voters","Live Phone",7,5,2016,7,10,2016,36.0,45.0,2.0,6.0,7/5/2016,7/10/2016,7/7/2016
+PA,"NBC/WSJ/Marist",829,"Registered Voters","Live Phone",7,5,2016,7,10,2016,35.0,43.0,2.0,9.0,7/5/2016,7/10/2016,7/7/2016
+PA,"Quinnipiac",982,"Registered Voters","Live Phone",6,30,2016,7,11,2016,43.0,41.0,4.0,6.0,6/30/2016,7/11/2016,7/5/2016
+PA,"Quinnipiac",982,"Registered Voters","Live Phone",6,30,2016,7,11,2016,40.0,34.0,,,6/30/2016,7/11/2016,7/5/2016
+PA,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,39.0,49.0,8.0,,6/11/2016,6/20/2016,6/15/2016
+PA,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,32.0,45.0,3.0,,6/11/2016,6/20/2016,6/15/2016
+PA,"PPP (D-Americans United for Change/Constitutional Responsibility Project) ",980,"Likely Voters","IVR/Online",6,22,2016,6,23,2016,42.0,46.0,,11.0,6/22/2016,6/23/2016,6/22/2016
+PA,"Quinnipiac",950,"Registered Voters","Live Phone",6,8,2016,6,19,2016,41.0,42.0,3.0,7.0,6/8/2016,6/19/2016,6/13/2016
+PA,"Quinnipiac",950,"Registered Voters","Live Phone",6,8,2016,6,19,2016,36.0,39.0,,,6/8/2016,6/19/2016,6/13/2016
+PA,"PPP (D)",1106,"Likely Voters","IVR/Online",6,3,2016,6,5,2016,40.0,41.0,,11.0,6/3/2016,6/5/2016,6/4/2016
+PA,"Quinnipiac",1077,"Registered Voters","Live Phone",4,27,2016,5,8,2016,42.0,43.0,2.0,5.0,4/27/2016,5/8/2016,5/2/2016
+PA,"NBC/WSJ/Marist",2606,"Registered Voters","Live Phone",4,18,2016,4,20,2016,39.0,54.0,,7.0,4/18/2016,4/20/2016,4/19/2016
+PA,"Fox News",1607,"Likely Voters","Live Phone",4,4,2016,4,7,2016,44.0,44.0,2.0,4.0,4/4/2016,4/7/2016,4/5/2016
+PA,"Quinnipiac",1737,"Likely Voters","Live Phone",3,30,2016,4,4,2016,42.0,45.0,3.0,4.0,3/30/2016,4/4/2016,4/1/2016
+PA,"Franklin and Marshall College",828,"Registered Voters","Live Phone/Online",3,14,2016,3,20,2016,33.0,46.0,11.0,10.0,3/14/2016,3/20/2016,3/17/2016
+PA,"Mercyhurst University",421,"Registered Voters","Live Phone",3,1,2016,3,11,2016,35.0,43.0,4.0,,3/1/2016,3/11/2016,3/6/2016
+PA,"Harper (R)",662,"Likely Voters","Automated Phone",3,1,2016,3,2,2016,40.0,45.0,,15.0,3/1/2016,3/2/2016,3/1/2016
+FL,"CNN",788,"Likely Voters","Live Phone",9,7,2016,9,12,2016,50.0,46.0,1.0,,9/7/2016,9/12/2016,9/9/2016
+FL,"CBS/YouGov",1193,"Likely Voters","Internet",9,7,2016,9,9,2016,42.0,44.0,,,9/7/2016,9/9/2016,9/8/2016
+FL,"Quinnipiac",761,"Likely Voters","Live Phone",8,29,2016,9,7,2016,47.0,47.0,,,8/29/2016,9/7/2016,9/2/2016
+FL,"Quinnipiac",761,"Likely Voters","Live Phone",8,29,2016,9,7,2016,43.0,43.0,,,8/29/2016,9/7/2016,9/2/2016
+FL,"PPP (D)",744,"Likely Voters","IVR/Online",9,4,2016,9,6,2016,44.0,43.0,,6.0,9/4/2016,9/6/2016,9/5/2016
+FL,"PPP (D)",744,"Likely Voters","IVR/Online",9,4,2016,9,6,2016,46.0,47.0,,,9/4/2016,9/6/2016,9/5/2016
+FL,"Washington Post/SurveyMonkey",3287,"Registered Voters","Internet",8,9,2016,9,1,2016,44.0,46.0,,,8/9/2016,9/1/2016,8/20/2016
+FL,"Washington Post/SurveyMonkey",3287,"Registered Voters","Internet",8,9,2016,9,1,2016,40.0,42.0,,,8/9/2016,9/1/2016,8/20/2016
+FL,"ICITIZEN",600,"Registered Voters","Internet",8,18,2016,8,24,2016,37.0,42.0,,8.0,8/18/2016,8/24/2016,8/21/2016
+FL,"Cherry (R-Florida Chamber of Commerce)",608,"Likely Voters","Live Phone",8,17,2016,8,22,2016,44.0,43.0,,5.0,8/17/2016,8/22/2016,8/19/2016
+FL,"Cherry (R-Florida Chamber of Commerce)",608,"Likely Voters","Live Phone",8,17,2016,8,22,2016,44.0,41.0,,4.0,8/17/2016,8/22/2016,8/19/2016
+FL,"Saint Leo University",1380,"Likely Voters","Internet",8,14,2016,8,18,2016,38.0,52.0,,,8/14/2016,8/18/2016,8/16/2016
+FL,"Monmouth University",402,"Likely Voters","Live Phone",8,12,2016,8,15,2016,39.0,48.0,1.0,5.0,8/12/2016,8/15/2016,8/13/2016
+FL,"CBS/YouGov",1194,"Likely Voters","Internet",8,10,2016,8,12,2016,40.0,45.0,,,8/10/2016,8/12/2016,8/11/2016
+FL,"NBC/WSJ/Marist",862,"Registered Voters","Live Phone",8,4,2016,8,10,2016,39.0,44.0,1.0,7.0,8/4/2016,8/10/2016,8/7/2016
+FL,"NBC/WSJ/Marist",862,"Registered Voters","Live Phone",8,4,2016,8,10,2016,36.0,41.0,2.0,9.0,8/4/2016,8/10/2016,8/7/2016
+FL,"Opinion Savvy/Fox 13",622,"Likely Voters","IVR/Online",8,10,2016,8,10,2016,44.0,45.0,,3.0,8/10/2016,8/10/2016,8/10/2016
+FL,"Quinnipiac",1056,"Likely Voters","Live Phone",7,30,2016,8,7,2016,45.0,46.0,,,7/30/2016,8/7/2016,8/3/2016
+FL,"Quinnipiac",1056,"Likely Voters","Live Phone",7,30,2016,8,7,2016,43.0,43.0,,,7/30/2016,8/7/2016,8/3/2016
+FL,"Suffolk",500,"Likely Voters","Live Phone",8,1,2016,8,3,2016,42.0,48.0,,9.0,8/1/2016,8/3/2016,8/2/2016
+FL,"Suffolk",500,"Likely Voters","Live Phone",8,1,2016,8,3,2016,39.0,43.0,,11.0,8/1/2016,8/3/2016,8/2/2016
+FL,"GQR (D-Project New America) ",1100,"Likely Voters","Live Phone",7,6,2016,7,10,2016,40.0,45.0,2.0,7.0,7/6/2016,7/10/2016,7/8/2016
+FL,"NBC/WSJ/Marist",871,"Registered Voters","Live Phone",7,5,2016,7,11,2016,37.0,44.0,2.0,7.0,7/5/2016,7/11/2016,7/8/2016
+FL,"NBC/WSJ/Marist",871,"Registered Voters","Live Phone",7,5,2016,7,11,2016,36.0,41.0,2.0,10.0,7/5/2016,7/11/2016,7/8/2016
+FL,"Quinnipiac",1015,"Registered Voters","Live Phone",6,30,2016,7,11,2016,42.0,39.0,6.0,8.0,6/30/2016,7/11/2016,7/5/2016
+FL,"Quinnipiac",1015,"Registered Voters","Live Phone",6,30,2016,7,11,2016,41.0,36.0,,,6/30/2016,7/11/2016,7/5/2016
+FL,"Gravis Marketing/OANN",1619,"Registered Voters","Automated Phone",6,27,2016,6,28,2016,49.0,45.0,6.0,,6/27/2016,6/28/2016,6/27/2016
+FL,"Onmessage (R-Let's Get to Work)",800,"Likely Voters","Live Phone",6,26,2016,6,28,2016,47.0,45.0,8.0,,6/26/2016,6/28/2016,6/27/2016
+FL,"JMC Analytics and Polling (R)",700,"Likely Voters","Automated Phone",7,9,2016,7,10,2016,47.0,42.0,,8.0,7/9/2016,7/10/2016,7/9/2016
+FL,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,39.0,52.0,6.0,,6/11/2016,6/20/2016,6/15/2016
+FL,"GQR (D-Democracy Corps/Women's Voices Women Vote)",300,"Likely Voters","Live Phone",6,11,2016,6,20,2016,38.0,49.0,2.0,,6/11/2016,6/20/2016,6/15/2016
+FL,"SurveyUSA/Bay News 9/News 13",1678,"Likely Voters","IVR/Online",6,25,2016,6,27,2016,42.0,46.0,4.0,5.0,6/25/2016,6/27/2016,6/26/2016
+FL,"CBS/YouGov",1192,"Likely Voters","Internet",6,21,2016,6,24,2016,41.0,44.0,,,6/21/2016,6/24/2016,6/22/2016
+FL,"Quinnipiac",975,"Registered Voters","Live Phone",6,8,2016,6,19,2016,39.0,47.0,2.0,6.0,6/8/2016,6/19/2016,6/13/2016
+FL,"Quinnipiac",975,"Registered Voters","Live Phone",6,8,2016,6,19,2016,36.0,42.0,,,6/8/2016,6/19/2016,6/13/2016
+FL,"PPP (D)",737,"Likely Voters","IVR/Online",6,2,2016,6,5,2016,41.0,40.0,,13.0,6/2/2016,6/5/2016,6/3/2016
+FL,"PPP (D)",737,"Likely Voters","IVR/Online",6,2,2016,6,5,2016,45.0,44.0,,,6/2/2016,6/5/2016,6/3/2016
+FL,"Mason-Dixon",625,"Registered Voters","Live Phone",5,31,2016,6,2,2016,42.0,45.0,,7.0,5/31/2016,6/2/2016,6/1/2016
+FL,"Gravis Marketing",2542,"Registered Voters","Automated Phone",5,17,2016,5,18,2016,42.0,46.0,,12.0,5/17/2016,5/18/2016,5/17/2016
+FL,"CBS/YouGov",995,"Likely Voters","Internet",5,16,2016,5,19,2016,42.0,43.0,,,5/16/2016,5/19/2016,5/17/2016
+FL,"Quinnipiac",1051,"Registered Voters","Live Phone",4,27,2016,5,8,2016,42.0,43.0,2.0,6.0,4/27/2016,5/8/2016,5/2/2016
+FL,"Associated Industries of Florida (R)",604,"Likely Voters","Live Phone",4,25,2016,4,27,2016,36.0,49.0,,15.0,4/25/2016,4/27/2016,4/26/2016
+FL,"NBC/WSJ/Marist",2422,"Registered Voters","Live Phone",3,4,2016,3,10,2016,41.0,49.0,,9.0,3/4/2016,3/10/2016,3/7/2016
+FL,"CNN",854,"Registered Voters","Live Phone",3,2,2016,3,6,2016,43.0,50.0,2.0,,3/2/2016,3/6/2016,3/4/2016
+FL,"SurveyUSA/Bay News 9/News 13",1961,"Likely Voters","IVR/Online",3,4,2016,3,6,2016,45.0,44.0,,12.0,3/4/2016,3/6/2016,3/5/2016
+FL,"PPP (D)",1012,"Likely Voters","IVR/Online",2,24,2016,2,25,2016,46.0,44.0,,10.0,2/24/2016,2/25/2016,2/24/2016
+FL,"Florida Southern College Center",608,"Registered Voters","Live Phone",1,30,2016,2,6,2016,38.0,45.0,3.0,,1/30/2016,2/6/2016,2/2/2016
+FL,"Florida Atlantic University",1008,"Registered Voters","Automated Phone",1,15,2016,1,18,2016,47.0,44.0,,9.0,1/15/2016,1/18/2016,1/16/2016
+AK,"Moore (R-Murkowski)",500,"Likely Voters","Live Phone",8,27,2016,8,29,2016,39.0,29.0,,,8/27/2016,8/29/2016,8/28/2016
+AK,"Washington Post/SurveyMonkey",989,"Registered Voters","Internet",8,9,2016,9,1,2016,47.0,39.0,,,8/9/2016,9/1/2016,8/20/2016
+AK,"Washington Post/SurveyMonkey",989,"Registered Voters","Internet",8,9,2016,9,1,2016,38.0,31.0,,,8/9/2016,9/1/2016,8/20/2016
+RI,"Washington Post/SurveyMonkey",625,"Registered Voters","Internet",8,9,2016,9,1,2016,40.0,50.0,,,8/9/2016,9/1/2016,8/20/2016
+RI,"Washington Post/SurveyMonkey",625,"Registered Voters","Internet",8,9,2016,9,1,2016,33.0,41.0,,,8/9/2016,9/1/2016,8/20/2016
+MO,"Washington Post/SurveyMonkey",1801,"Registered Voters","Internet",8,9,2016,9,1,2016,51.0,41.0,,,8/9/2016,9/1/2016,8/20/2016
+MO,"Washington Post/SurveyMonkey",1801,"Registered Voters","Internet",8,9,2016,9,1,2016,43.0,34.0,,,8/9/2016,9/1/2016,8/20/2016
+MO,"PPP (D-NELP) ",1055,"Likely Voters","IVR/Online",8,26,2016,8,27,2016,47.0,41.0,,,8/26/2016,8/27/2016,8/26/2016
+MO,"Monmouth University",401,"Likely Voters","Live Phone",8,19,2016,8,22,2016,44.0,43.0,1.0,5.0,8/19/2016,8/22/2016,8/20/2016
+MO,"PPP (D-Protect Missouri Families)",947,"Likely Voters","IVR/Online",8,8,2016,8,9,2016,45.0,42.0,,,8/8/2016,8/9/2016,8/8/2016
+MO,"Mason-Dixon",625,"Likely Voters","Live Phone",7,23,2016,7,24,2016,40.0,41.0,,9.0,7/23/2016,7/24/2016,7/23/2016
+MO,"SurveyUSA/KSDK",1943,"Likely Voters","Mixed",7,20,2016,7,24,2016,47.0,37.0,,7.0,7/20/2016,7/24/2016,7/22/2016
+MO,"PPP (D)",959,"Likely Voters","IVR/Online",7,11,2016,7,12,2016,46.0,36.0,,10.0,7/11/2016,7/12/2016,7/11/2016
+MO,"PPP (D)",959,"Likely Voters","IVR/Online",7,11,2016,7,12,2016,50.0,40.0,,,7/11/2016,7/12/2016,7/11/2016
+MO,"DFM Research (D-United Transportation Union)",674,"Likely Voters","Live Phone",3,17,2016,3,24,2016,40.0,42.0,8.0,11.0,3/17/2016,3/24/2016,3/20/2016
+MO,"Fort Hays State University",475,"Adults","Live Phone",3,3,2016,3,10,2016,43.0,38.0,,,3/3/2016,3/10/2016,3/6/2016
+AL,"Washington Post/SurveyMonkey",958,"Registered Voters","Internet",8,9,2016,9,1,2016,57.0,36.0,,,8/9/2016,9/1/2016,8/20/2016
+AL,"Washington Post/SurveyMonkey",958,"Registered Voters","Internet",8,9,2016,9,1,2016,53.0,31.0,,,8/9/2016,9/1/2016,8/20/2016
